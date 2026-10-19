@@ -1,0 +1,11 @@
+feature,importance
+tenure,0.1962
+complain,0.0636
+preferred_order_cat,0.0192
+num_addresses,0.0186
+satisfaction_score,0.0169
+warehouse_to_home,0.0123
+days_since_last_order,0.0112
+cashback_amount,0.0099
+marital_status,0.0093
+devices_registered,0.006

@@ -1,0 +1,5 @@
+model,roc_auc,precision,recall,f1
+Random forest,0.956,0.631,0.879,0.734
+Gradient boosting,0.948,0.732,0.664,0.696
+Logistic regression,0.924,0.426,0.916,0.582
+SQL risk score (rules),0.89,,,

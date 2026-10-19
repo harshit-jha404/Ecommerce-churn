@@ -1,0 +1,3268 @@
+customer_id,churn_probability,model_band,risk_score,risk_band,tenure,complain,preferred_order_cat,marital_status,cashback_amount
+3566,0.9343,High,6,High,1.0,1,Mobile Phone,Married,164.77
+3184,0.9343,High,6,High,1.0,1,Mobile Phone,Married,164.77
+1356,0.9184,High,8,High,0.0,1,Mobile Phone,Single,123.8
+1250,0.9184,High,8,High,0.0,1,Mobile Phone,Single,123.8
+2608,0.9159,High,8,High,0.0,1,Mobile Phone,Single,124.78
+1790,0.9159,High,8,High,0.0,1,Mobile Phone,Single,124.78
+924,0.9036,High,4,Medium,,0,Mobile Phone,Single,114.83
+3329,0.8898,High,8,High,1.0,1,Mobile Phone,Single,145.7
+3107,0.8898,High,8,High,1.0,1,Mobile Phone,Single,145.7
+743,0.8694,High,6,High,,1,Mobile Phone,Single,120.7
+967,0.858,High,7,High,1.0,1,Mobile Phone,Single,148.8
+2084,0.858,High,7,High,1.0,1,Mobile Phone,Single,148.8
+3536,0.8461,High,5,High,0.0,0,Mobile Phone,Single,134.24
+1063,0.8461,High,5,High,0.0,0,Mobile Phone,Single,134.24
+2555,0.8312,High,6,High,1.0,1,Mobile Phone,Married,155.58
+2019,0.8253,High,6,High,0.0,0,Mobile Phone,Single,128.71
+1511,0.8249,High,8,High,0.0,1,Mobile Phone,Single,129.94
+2094,0.8239,High,6,High,0.0,0,Mobile Phone,Single,110.51
+3113,0.8206,High,5,High,1.0,0,Mobile Phone,Single,160.97
+3903,0.8206,High,5,High,1.0,0,Mobile Phone,Single,160.97
+1844,0.8205,High,8,High,0.0,1,Mobile Phone,Single,129.94
+456,0.8131,High,6,High,0.0,0,Mobile Phone,Single,110.51
+954,0.8131,High,4,Medium,,0,Mobile Phone,Single,112.0
+3288,0.8109,High,5,High,0.0,0,Mobile Phone,Single,135.97
+758,0.8098,High,6,High,0.0,1,Mobile Phone,Married,139.77
+3522,0.8015,High,6,High,1.0,0,Mobile Phone,Single,137.0
+1759,0.8015,High,6,High,1.0,0,Mobile Phone,Single,137.0
+2942,0.8006,High,5,High,1.0,0,Mobile Phone,Single,150.52
+1054,0.8006,High,5,High,1.0,0,Mobile Phone,Single,150.52
+2278,0.8001,High,6,High,1.0,1,Laptop & Accessory,Married,166.57
+158,0.8001,High,7,High,1.0,1,Mobile Phone,Single,149.78
+3150,0.8001,High,7,High,1.0,1,Mobile Phone,Single,149.78
+1483,0.7978,High,6,High,1.0,1,Mobile Phone,Divorced,147.35
+1480,0.7866,High,6,High,0.0,0,Mobile Phone,Single,112.0
+3283,0.7827,High,4,Medium,,0,Mobile Phone,Single,115.14
+2660,0.7827,High,4,Medium,,0,Mobile Phone,Single,115.14
+1548,0.7814,High,6,High,0.0,0,Mobile Phone,Single,125.52
+1858,0.7739,High,6,High,1.0,1,Mobile Phone,Divorced,151.59
+2825,0.7627,High,6,High,1.0,1,Mobile Phone,Married,154.35
+3068,0.7579,High,7,High,1.0,1,Mobile Phone,Married,154.33
+3673,0.7562,High,7,High,1.0,1,Mobile Phone,Married,154.33
+1422,0.7529,High,5,High,0.0,0,Mobile Phone,Single,132.3
+552,0.7529,High,5,High,0.0,0,Mobile Phone,Single,132.3
+2918,0.7514,High,6,High,0.0,0,Mobile Phone,Single,123.18
+339,0.7509,High,4,Medium,0.0,0,Laptop & Accessory,Single,168.11
+1225,0.7509,High,4,Medium,0.0,0,Laptop & Accessory,Single,168.11
+2298,0.7499,High,5,High,1.0,0,Mobile Phone,Single,148.18
+3297,0.7499,High,5,High,1.0,0,Mobile Phone,Single,148.18
+2153,0.7481,High,6,High,1.0,1,Mobile Phone,Married,147.35
+2450,0.7478,High,6,High,0.0,0,Mobile Phone,Single,129.66
+1160,0.7431,High,5,High,1.0,0,Mobile Phone,Single,135.51
+3761,0.7429,High,6,High,1.0,1,Mobile Phone,Divorced,155.58
+2601,0.7423,High,8,High,0.0,1,Mobile Phone,Single,123.79
+2113,0.7397,High,4,Medium,1.0,0,Mobile Phone,Married,159.68
+969,0.7387,High,6,High,,1,Mobile Phone,Single,121.54
+127,0.7369,High,4,Medium,1.0,0,Mobile Phone,Married,146.87
+2399,0.7264,High,6,High,1.0,1,Mobile Phone,Married,148.28
+1965,0.7261,High,5,High,1.0,0,Laptop & Accessory,Single,193.11
+1365,0.7209,High,6,High,0.0,0,Mobile Phone,Single,128.36
+2822,0.7209,High,6,High,0.0,0,Mobile Phone,Single,128.36
+2721,0.7204,High,7,High,0.0,1,Mobile Phone,Married,123.28
+3407,0.7187,High,5,High,1.0,0,Mobile Phone,Single,141.11
+900,0.7148,High,6,High,1.0,0,Mobile Phone,Single,153.36
+397,0.7148,High,6,High,1.0,0,Mobile Phone,Single,153.36
+216,0.7123,High,8,High,0.0,1,Mobile Phone,Single,128.75
+2194,0.7115,High,5,High,1.0,0,Mobile Phone,Single,141.11
+3338,0.7094,High,6,High,0.0,0,Mobile Phone,Single,127.28
+1494,0.7088,High,5,High,,1,Mobile Phone,Married,122.77
+247,0.7041,High,5,High,1.0,0,Mobile Phone,Single,147.79
+3449,0.7041,High,5,High,1.0,0,Mobile Phone,Single,147.79
+2035,0.7027,High,4,Medium,1.0,0,Mobile Phone,Married,145.24
+2312,0.7021,High,5,High,1.0,0,Mobile Phone,Single,140.14
+2618,0.7021,High,5,High,1.0,0,Mobile Phone,Single,140.14
+472,0.7004,High,5,High,1.0,0,Mobile Phone,Single,137.32
+2369,0.699,High,7,High,1.0,1,Mobile Phone,Married,153.14
+3320,0.699,High,7,High,1.0,1,Mobile Phone,Married,153.14
+1436,0.6974,High,7,High,1.0,1,Mobile Phone,Married,150.66
+1878,0.6968,High,3,Medium,0.0,0,Fashion,Married,215.57
+1304,0.6957,High,6,High,1.0,0,Mobile Phone,Single,157.3
+819,0.6933,High,5,High,0.0,0,Mobile Phone,Single,135.78
+3291,0.6933,High,5,High,0.0,0,Mobile Phone,Single,135.78
+2284,0.6907,High,4,Medium,1.0,0,Mobile Phone,Married,148.22
+2603,0.6886,High,7,High,0.0,1,Mobile Phone,Married,128.14
+1819,0.6857,High,7,High,0.0,1,Mobile Phone,Married,129.33
+3033,0.6845,High,7,High,1.0,1,Laptop & Accessory,Single,169.87
+357,0.6837,High,4,Medium,0.0,0,Mobile Phone,Married,134.68
+36,0.6831,High,5,High,0.0,0,Mobile Phone,Married,123.22
+3347,0.6787,High,5,High,1.0,0,Mobile Phone,Single,152.28
+496,0.6787,High,5,High,1.0,0,Mobile Phone,Single,152.28
+1011,0.6773,High,5,High,0.0,0,Mobile Phone,Single,132.95
+2300,0.6773,High,5,High,0.0,0,Mobile Phone,Single,132.95
+2424,0.6747,High,5,High,1.0,0,Mobile Phone,Married,151.94
+3555,0.6739,High,6,High,1.0,1,Mobile Phone,Divorced,138.67
+162,0.6732,High,4,Medium,1.0,0,Laptop & Accessory,Divorced,186.32
+1974,0.6713,High,7,High,1.0,1,Mobile Phone,Single,153.75
+222,0.6705,High,5,High,,1,Mobile Phone,Divorced,122.2
+198,0.6676,High,5,High,0.0,0,Mobile Phone,Single,130.33
+1664,0.6617,High,7,High,1.0,1,Laptop & Accessory,Single,169.87
+2066,0.6612,High,4,Medium,1.0,0,Mobile Phone,Married,153.11
+3052,0.658,High,5,High,1.0,0,Mobile Phone,Single,159.24
+2980,0.6572,High,4,Medium,,0,Mobile Phone,Single,116.11
+3216,0.6544,High,5,High,0.0,0,Mobile Phone,Divorced,128.11
+316,0.653,High,4,Medium,,0,Mobile Phone,Single,112.32
+701,0.6498,High,5,High,0.0,0,Mobile Phone,Married,125.23
+2305,0.6494,High,3,Medium,1.0,0,Fashion,Married,212.93
+2232,0.6492,High,6,High,1.0,0,Mobile Phone,Single,154.66
+2183,0.645,High,4,Medium,0.0,0,Mobile Phone,Married,132.29
+2836,0.6394,High,7,High,1.0,1,Mobile Phone,Single,154.94
+2303,0.6386,High,6,High,1.0,1,Laptop & Accessory,Single,169.78
+565,0.6386,High,6,High,1.0,1,Laptop & Accessory,Single,169.78
+2513,0.6384,High,5,High,1.0,0,Mobile Phone,Single,153.67
+2315,0.6383,High,5,High,1.0,0,Mobile Phone,Married,147.96
+144,0.6371,High,5,High,0.0,0,Mobile Phone,Divorced,125.39
+288,0.6349,High,7,High,1.0,1,Mobile Phone,Married,81.0
+1973,0.6347,High,5,High,,1,Mobile Phone,Married,123.08
+1412,0.6343,High,4,Medium,0.0,0,Fashion,Single,187.26
+1115,0.6324,High,4,Medium,0.0,0,Mobile Phone,Married,135.17
+2895,0.6324,High,4,Medium,0.0,0,Mobile Phone,Married,135.17
+2971,0.6323,High,5,High,1.0,0,Mobile Phone,Married,146.27
+904,0.6315,High,5,High,0.0,0,Mobile Phone,Married,125.0
+3572,0.6309,High,6,High,0.0,0,Mobile Phone,Single,127.83
+1303,0.6306,High,5,High,1.0,0,Mobile Phone,Single,153.71
+1608,0.6302,High,5,High,1.0,0,Mobile Phone,Single,145.96
+711,0.6299,High,7,High,0.0,1,Mobile Phone,Single,137.6
+3132,0.6284,High,7,High,1.0,1,Mobile Phone,Single,148.79
+1052,0.6241,High,5,High,0.0,0,Mobile Phone,Single,133.75
+2680,0.6235,High,3,Medium,0.0,0,Fashion,Married,187.93
+3071,0.6235,High,3,Medium,0.0,0,Fashion,Married,187.93
+2370,0.6233,High,6,High,0.0,0,Mobile Phone,Married,124.51
+1141,0.6224,High,6,High,0.0,1,Laptop & Accessory,Single,144.87
+533,0.6224,High,4,Medium,7.0,1,Mobile Phone,Married,125.79
+763,0.62,High,5,High,0.0,0,Mobile Phone,Married,128.11
+2029,0.6192,High,4,Medium,1.0,0,Laptop & Accessory,Married,211.39
+1230,0.619,High,4,Medium,,0,Mobile Phone,Single,122.74
+1601,0.619,High,4,Medium,,0,Mobile Phone,Single,122.74
+1715,0.6184,High,4,Medium,1.0,0,Mobile Phone,Divorced,153.19
+3707,0.6156,High,8,High,0.0,1,Mobile Phone,Single,128.75
+600,0.6153,High,3,Medium,1.0,0,Laptop & Accessory,Married,168.06
+561,0.6135,High,3,Medium,1.0,0,Fashion,Divorced,199.12
+3317,0.6129,High,5,High,0.0,0,Mobile Phone,Married,125.17
+72,0.6129,High,5,High,0.0,0,Mobile Phone,Married,125.17
+975,0.6114,High,3,Medium,,0,Mobile Phone,Divorced,120.33
+3860,0.6096,High,4,Medium,8.0,1,Mobile Phone,Married,126.6
+2950,0.6096,High,4,Medium,8.0,1,Mobile Phone,Married,126.6
+3405,0.6082,High,5,High,0.0,0,Mobile Phone,Divorced,125.34
+2656,0.6062,High,7,High,1.0,1,Mobile Phone,Single,154.94
+3494,0.5998,Medium,4,Medium,1.0,0,Fashion,Married,240.57
+998,0.5963,Medium,4,Medium,1.0,0,Fashion,Single,212.26
+3412,0.5955,Medium,6,High,1.0,1,Laptop & Accessory,Divorced,182.69
+3206,0.5943,Medium,5,High,1.0,0,Laptop & Accessory,Single,175.71
+2287,0.5923,Medium,6,High,1.0,0,Mobile Phone,Single,155.33
+3277,0.59,Medium,4,Medium,1.0,0,Mobile Phone,Married,148.41
+2662,0.5893,Medium,5,High,1.0,0,Mobile Phone,Single,157.95
+3424,0.5893,Medium,5,High,1.0,0,Mobile Phone,Single,157.95
+2378,0.5892,Medium,4,Medium,1.0,0,Laptop & Accessory,Divorced,167.98
+58,0.589,Medium,5,High,0.0,0,Mobile Phone,Married,123.68
+3417,0.5884,Medium,5,High,1.0,0,Mobile Phone,Single,152.83
+2374,0.5883,Medium,4,Medium,1.0,0,Laptop & Accessory,Single,224.81
+852,0.5883,Medium,4,Medium,1.0,0,Laptop & Accessory,Single,224.81
+2077,0.5877,Medium,4,Medium,1.0,0,Mobile Phone,Married,161.69
+2565,0.5867,Medium,5,High,0.0,0,Mobile Phone,Single,134.47
+3923,0.5851,Medium,7,High,1.0,1,Mobile Phone,Single,153.75
+3303,0.5838,Medium,3,Medium,8.0,1,Mobile Phone,Married,140.14
+123,0.5823,Medium,7,High,0.0,1,Mobile Phone,Married,56.0
+1551,0.5822,Medium,5,High,0.0,0,Laptop & Accessory,Single,150.71
+3452,0.5818,Medium,3,Medium,1.0,0,Fashion,Married,199.12
+976,0.5786,Medium,3,Medium,,0,Mobile Phone,Divorced,121.27
+3466,0.5732,Medium,3,Medium,0.0,0,Laptop & Accessory,Married,147.75
+1736,0.5705,Medium,6,High,0.0,0,Mobile Phone,Divorced,124.51
+62,0.5677,Medium,6,High,0.0,1,Laptop & Accessory,Single,144.78
+1550,0.5672,Medium,4,Medium,1.0,0,Mobile Phone,Married,150.0
+1084,0.5672,Medium,5,High,,1,Mobile Phone,Divorced,122.35
+2475,0.5658,Medium,3,Medium,1.0,0,Others,Married,308.03
+3698,0.5654,Medium,5,High,1.0,0,Mobile Phone,Single,159.47
+1905,0.5654,Medium,5,High,1.0,0,Mobile Phone,Single,159.47
+411,0.5651,Medium,1,Low,9.0,0,Fashion,Single,199.8
+2958,0.565,Medium,5,High,0.0,0,Mobile Phone,Divorced,127.73
+1410,0.565,Medium,4,Medium,1.0,0,Mobile Phone,Married,152.74
+780,0.5614,Medium,6,High,1.0,1,Mobile Phone,Married,148.28
+3021,0.5607,Medium,3,Medium,9.0,1,Mobile Phone,Married,134.19
+1506,0.5597,Medium,4,Medium,0.0,0,Mobile Phone,Married,136.69
+3137,0.5593,Medium,6,High,2.0,1,Laptop & Accessory,Single,162.94
+3406,0.5535,Medium,4,Medium,1.0,0,Laptop & Accessory,Married,172.75
+3736,0.5522,Medium,6,High,2.0,1,Laptop & Accessory,Single,162.94
+2412,0.5511,Medium,6,High,1.0,1,Mobile Phone,Married,152.25
+885,0.551,Medium,5,High,1.0,0,Mobile Phone,Divorced,171.21
+2537,0.5502,Medium,5,High,2.0,0,Mobile Phone,Single,137.85
+1523,0.5499,Medium,0,Low,9.0,0,Fashion,Married,197.38
+2480,0.5484,Medium,3,Medium,0.0,0,Laptop & Accessory,Divorced,142.98
+1627,0.5472,Medium,3,Medium,7.0,1,Mobile Phone,Married,147.77
+1109,0.5465,Medium,5,High,1.0,0,Mobile Phone,Married,149.51
+3591,0.5458,Medium,5,High,,1,Mobile Phone,Divorced,121.27
+637,0.5456,Medium,3,Medium,0.0,0,Laptop & Accessory,Married,143.77
+2064,0.5456,Medium,5,High,4.0,1,Mobile Phone,Single,126.57
+495,0.543,Medium,3,Medium,1.0,0,Laptop & Accessory,Married,187.32
+3160,0.5411,Medium,5,High,0.0,1,Laptop & Accessory,Married,147.41
+68,0.5385,Medium,4,Medium,1.0,0,Laptop & Accessory,Single,136.6
+459,0.5385,Medium,4,Medium,1.0,0,Laptop & Accessory,Single,136.6
+1517,0.5384,Medium,5,High,1.0,0,Mobile Phone,Married,171.21
+1390,0.537,Medium,4,Medium,4.0,1,Mobile Phone,Married,127.03
+3048,0.5359,Medium,3,Medium,,0,Mobile Phone,Married,121.27
+2024,0.5329,Medium,5,High,0.0,1,Laptop & Accessory,Married,157.69
+2823,0.5314,Medium,3,Medium,0.0,0,Others,Married,283.03
+2443,0.5311,Medium,6,High,1.0,0,Mobile Phone,Single,145.45
+2508,0.5302,Medium,5,High,1.0,0,Mobile Phone,Married,110.52
+3769,0.5288,Medium,3,Medium,,0,Mobile Phone,Married,120.29
+3857,0.5283,Medium,4,Medium,0.0,0,Laptop & Accessory,Single,142.94
+3537,0.5276,Medium,6,High,1.0,1,Mobile Phone,Married,138.67
+3594,0.527,Medium,4,Medium,1.0,0,Mobile Phone,Divorced,145.33
+2427,0.5268,Medium,5,High,6.0,1,Mobile Phone,Single,127.99
+136,0.5232,Medium,5,High,0.0,0,Mobile Phone,Divorced,124.0
+2549,0.5229,Medium,3,Medium,0.0,0,Laptop & Accessory,Married,143.06
+3597,0.5229,Medium,3,Medium,0.0,0,Laptop & Accessory,Married,143.06
+386,0.5225,Medium,6,High,1.0,0,Mobile Phone,Single,155.33
+314,0.5218,Medium,3,Medium,1.0,0,Laptop & Accessory,Divorced,187.32
+107,0.5211,Medium,5,High,1.0,0,Mobile Phone,Single,160.78
+1320,0.5209,Medium,3,Medium,,0,Mobile Phone,Married,122.96
+3234,0.5209,Medium,3,Medium,,0,Mobile Phone,Married,122.96
+2166,0.5207,Medium,4,Medium,5.0,1,Mobile Phone,Married,136.29
+3889,0.5207,Medium,4,Medium,5.0,1,Mobile Phone,Married,136.29
+2766,0.5195,Medium,4,Medium,1.0,0,Mobile Phone,Married,160.17
+1710,0.5195,Medium,4,Medium,1.0,0,Mobile Phone,Married,160.17
+17,0.518,Medium,6,High,,1,Mobile Phone,Married,121.68
+1402,0.5157,Medium,4,Medium,1.0,0,Laptop & Accessory,Single,147.72
+1284,0.5157,Medium,4,Medium,1.0,0,Laptop & Accessory,Single,147.72
+1645,0.5154,Medium,3,Medium,21.0,1,Fashion,Married,228.33
+785,0.5154,Medium,3,Medium,21.0,1,Fashion,Married,228.33
+965,0.5139,Medium,5,High,0.0,1,Fashion,Married,228.08
+235,0.5128,Medium,5,High,0.0,1,Fashion,Married,228.08
+948,0.5118,Medium,5,High,1.0,0,Mobile Phone,Single,158.75
+628,0.5109,Medium,4,Medium,10.0,1,Mobile Phone,Married,123.26
+648,0.51,Medium,4,Medium,0.0,0,Laptop & Accessory,Single,199.81
+1243,0.5095,Medium,4,Medium,1.0,0,Mobile Phone,Married,153.19
+3762,0.5086,Medium,5,High,0.0,0,Mobile Phone,Single,135.05
+2719,0.5053,Medium,3,Medium,21.0,0,Mobile Phone,Single,125.59
+2863,0.5038,Medium,6,High,3.0,1,Laptop & Accessory,Single,187.94
+2803,0.5032,Medium,3,Medium,9.0,1,Mobile Phone,Married,151.6
+3758,0.5013,Medium,3,Medium,7.0,1,Mobile Phone,Married,154.09
+7,0.5007,Medium,5,High,1.0,0,Mobile Phone,Divorced,149.51
+1443,0.4992,Medium,5,High,0.0,0,Mobile Phone,Divorced,125.0
+2379,0.4978,Medium,3,Medium,8.0,1,Mobile Phone,Married,147.2
+2125,0.4964,Medium,3,Medium,0.0,0,Laptop & Accessory,Divorced,147.75
+3576,0.4953,Medium,5,High,1.0,0,Mobile Phone,Single,150.8
+3560,0.4953,Medium,5,High,1.0,0,Mobile Phone,Single,150.8
+2963,0.4944,Medium,5,High,,1,Mobile Phone,Divorced,122.13
+3713,0.4936,Medium,3,Medium,0.0,0,Laptop & Accessory,Married,186.39
+3801,0.4914,Medium,5,High,1.0,0,Laptop & Accessory,Single,167.94
+1687,0.4898,Medium,3,Medium,6.0,0,Mobile Phone,Single,124.96
+537,0.4854,Medium,4,Medium,0.0,0,Laptop & Accessory,Single,146.17
+3637,0.485,Medium,5,High,0.0,1,Laptop & Accessory,Married,149.07
+1234,0.485,Medium,5,High,0.0,1,Laptop & Accessory,Married,149.07
+2538,0.4845,Medium,5,High,0.0,1,Laptop & Accessory,Married,142.6
+2442,0.4845,Medium,5,High,0.0,1,Laptop & Accessory,Married,142.6
+1381,0.4779,Medium,4,Medium,1.0,0,Mobile Phone,Married,154.42
+67,0.4779,Medium,4,Medium,0.0,0,Laptop & Accessory,Single,149.5
+898,0.4771,Medium,4,Medium,10.0,1,Mobile Phone,Divorced,123.26
+3321,0.4769,Medium,5,High,1.0,0,Mobile Phone,Married,172.74
+200,0.4743,Medium,3,Medium,11.0,1,Mobile Phone,Divorced,154.96
+3697,0.4709,Medium,3,Medium,11.0,1,Mobile Phone,Married,154.96
+1624,0.4708,Medium,5,High,1.0,0,Mobile Phone,Married,128.56
+751,0.4708,Medium,5,High,1.0,0,Mobile Phone,Married,128.56
+920,0.4676,Medium,3,Medium,,0,Mobile Phone,Divorced,120.93
+3749,0.463,Medium,3,Medium,,0,Mobile Phone,Married,121.09
+2904,0.463,Medium,3,Medium,,0,Mobile Phone,Married,121.09
+3502,0.4611,Medium,4,Medium,17.0,1,Mobile Phone,Married,125.59
+3789,0.4585,Medium,3,Medium,0.0,0,Laptop & Accessory,Married,152.94
+3401,0.4572,Medium,6,High,0.0,0,Mobile Phone,Single,126.1
+2388,0.4548,Medium,4,Medium,1.0,0,Mobile Phone,Married,145.73
+2841,0.4527,Medium,5,High,17.0,1,Mobile Phone,Single,124.36
+1242,0.4527,Medium,5,High,17.0,1,Mobile Phone,Single,124.36
+491,0.4491,Medium,5,High,1.0,0,Mobile Phone,Single,151.1
+949,0.4489,Medium,6,High,1.0,1,Fashion,Married,253.08
+613,0.4475,Medium,4,Medium,1.0,0,Mobile Phone,Divorced,150.0
+1378,0.4472,Medium,5,High,1.0,0,Mobile Phone,Married,148.68
+3032,0.4469,Medium,4,Medium,15.0,1,Mobile Phone,Married,125.93
+1857,0.4466,Medium,5,High,1.0,0,Laptop & Accessory,Single,171.17
+3569,0.4458,Medium,4,Medium,0.0,0,Mobile Phone,Married,147.74
+3476,0.4458,Medium,4,Medium,0.0,0,Mobile Phone,Married,147.74
+426,0.4457,Medium,3,Medium,,0,Mobile Phone,Married,120.08
+1943,0.4455,Medium,5,High,0.0,0,Mobile Phone,Divorced,128.19
+168,0.4453,Medium,3,Medium,14.0,1,Fashion,Divorced,229.75
+511,0.4449,Medium,3,Medium,14.0,1,Mobile Phone,Married,161.17
+3922,0.4449,Medium,3,Medium,14.0,1,Mobile Phone,Married,161.17
+2893,0.4443,Medium,6,High,,1,Mobile Phone,Divorced,121.68
+750,0.4442,Medium,5,High,1.0,1,Laptop & Accessory,Divorced,172.41
+343,0.4437,Medium,4,Medium,1.0,0,Mobile Phone,Married,137.23
+2323,0.4428,Medium,3,Medium,9.0,1,Mobile Phone,Married,165.14
+1595,0.4419,Medium,3,Medium,0.0,0,Laptop & Accessory,Divorced,148.51
+1006,0.4417,Medium,3,Medium,8.0,1,Mobile Phone,Married,163.15
+2957,0.4408,Medium,3,Medium,12.0,1,Fashion,Single,203.61
+3454,0.4408,Medium,3,Medium,12.0,1,Fashion,Single,203.61
+979,0.4407,Medium,3,Medium,11.0,0,Mobile Phone,Single,126.19
+323,0.4407,Medium,3,Medium,11.0,0,Mobile Phone,Single,126.19
+770,0.4395,Medium,3,Medium,1.0,0,Laptop & Accessory,Married,187.14
+2873,0.4392,Medium,6,High,1.0,1,Fashion,Married,253.08
+1920,0.4385,Medium,5,High,1.0,1,Laptop & Accessory,Married,174.07
+788,0.4383,Medium,4,Medium,1.0,0,Mobile Phone,Married,164.07
+1474,0.4383,Medium,4,Medium,1.0,0,Mobile Phone,Married,164.07
+2885,0.4382,Medium,6,High,3.0,1,Laptop & Accessory,Single,187.94
+2808,0.4368,Medium,3,Medium,1.0,0,Laptop & Accessory,Married,174.99
+214,0.4345,Medium,3,Medium,,0,Mobile Phone,Divorced,112.81
+114,0.4336,Medium,5,High,0.0,1,Laptop & Accessory,Divorced,141.62
+1634,0.4333,Medium,4,Medium,0.0,0,Mobile Phone,Married,139.55
+244,0.4326,Medium,4,Medium,1.0,0,Mobile Phone,Married,135.91
+2191,0.4325,Medium,4,Medium,0.0,0,Mobile Phone,Married,139.07
+3002,0.4321,Medium,5,High,1.0,0,Mobile Phone,Married,165.66
+3199,0.4311,Medium,3,Medium,11.0,1,Fashion,Single,178.61
+3053,0.4282,Medium,4,Medium,1.0,0,Mobile Phone,Married,142.06
+3019,0.4276,Medium,5,High,1.0,1,Laptop & Accessory,Married,167.6
+2525,0.4276,Medium,5,High,1.0,1,Laptop & Accessory,Married,167.6
+2807,0.4263,Medium,1,Low,15.0,0,Others,Married,324.73
+296,0.4263,Medium,1,Low,15.0,0,Others,Married,324.73
+2711,0.4262,Medium,6,High,1.0,0,Mobile Phone,Single,164.04
+736,0.4259,Medium,3,Medium,10.0,1,Laptop & Accessory,Single,217.78
+2262,0.4245,Medium,3,Medium,,0,Mobile Phone,Divorced,117.06
+3626,0.4242,Medium,5,High,1.0,1,Laptop & Accessory,Married,172.41
+2375,0.4232,Medium,1,Low,5.0,0,Laptop & Accessory,Single,224.36
+675,0.4219,Medium,4,Medium,1.0,0,Mobile Phone,Married,135.91
+3919,0.4211,Medium,4,Medium,1.0,0,Laptop & Accessory,Married,148.77
+3600,0.4209,Medium,4,Medium,1.0,0,Laptop & Accessory,Single,148.98
+1676,0.4209,Medium,4,Medium,1.0,0,Laptop & Accessory,Single,148.98
+2171,0.4196,Medium,5,High,5.0,1,Mobile Phone,Single,151.57
+2611,0.419,Medium,7,High,3.0,1,Mobile Phone,Single,172.23
+1566,0.419,Medium,7,High,3.0,1,Mobile Phone,Single,172.23
+3416,0.4187,Medium,4,Medium,1.0,0,Laptop & Accessory,Single,186.8
+744,0.4184,Medium,5,High,7.0,1,Mobile Phone,Single,152.99
+3614,0.4172,Medium,2,Low,21.0,0,Mobile Phone,Single,146.05
+2195,0.4163,Medium,4,Medium,1.0,0,Mobile Phone,Married,147.44
+2989,0.4158,Medium,4,Medium,1.0,0,Laptop & Accessory,Single,184.63
+2302,0.4158,Medium,4,Medium,1.0,0,Laptop & Accessory,Single,184.63
+1157,0.4149,Medium,1,Low,4.0,0,Laptop & Accessory,Single,199.36
+169,0.4149,Medium,1,Low,4.0,0,Laptop & Accessory,Single,199.36
+2542,0.4143,Medium,5,High,1.0,0,Mobile Phone,Single,160.05
+2546,0.4107,Medium,3,Medium,14.0,1,Fashion,Married,229.75
+1437,0.4099,Medium,5,High,1.0,0,Laptop & Accessory,Single,171.17
+2107,0.4094,Medium,2,Low,4.0,1,Laptop & Accessory,Divorced,172.36
+1361,0.409,Medium,4,Medium,1.0,0,Laptop & Accessory,Married,167.56
+268,0.4051,Medium,3,Medium,,0,Mobile Phone,Divorced,122.59
+610,0.4043,Medium,3,Medium,13.0,1,Mobile Phone,Married,136.17
+3372,0.4042,Medium,5,High,1.0,1,Laptop & Accessory,Divorced,166.62
+1677,0.4039,Medium,1,Low,10.0,0,Fashion,Married,201.44
+3731,0.4029,Medium,3,Medium,15.0,1,Fashion,Single,195.82
+3655,0.4027,Medium,3,Medium,1.0,0,Laptop & Accessory,Divorced,187.72
+475,0.4019,Medium,6,High,2.0,0,Mobile Phone,Single,126.42
+1276,0.4013,Medium,5,High,13.0,1,Mobile Phone,Single,123.42
+1094,0.3993,Medium,3,Medium,1.0,0,Laptop & Accessory,Divorced,173.51
+2960,0.3984,Medium,3,Medium,18.0,1,Fashion,Single,227.09
+3028,0.3984,Medium,3,Medium,18.0,1,Fashion,Single,227.09
+525,0.3978,Medium,4,Medium,1.0,0,Laptop & Accessory,Married,160.4
+2012,0.3978,Medium,4,Medium,1.0,0,Laptop & Accessory,Married,160.4
+2795,0.3976,Medium,5,High,1.0,0,Mobile Phone,Married,153.89
+315,0.3965,Medium,3,Medium,8.0,1,Mobile Phone,Divorced,147.2
+179,0.3962,Medium,3,Medium,,0,Mobile Phone,Married,112.74
+1273,0.3962,Medium,3,Medium,,0,Mobile Phone,Married,112.74
+2021,0.3949,Medium,3,Medium,4.0,1,Mobile Phone,Divorced,139.29
+3276,0.394,Medium,4,Medium,15.0,1,Mobile Phone,Married,126.96
+437,0.394,Medium,4,Medium,15.0,1,Mobile Phone,Married,126.96
+982,0.3934,Medium,6,High,3.0,0,Mobile Phone,Single,162.85
+1925,0.3934,Medium,6,High,3.0,1,Laptop & Accessory,Single,168.77
+651,0.393,Medium,3,Medium,0.0,0,Laptop & Accessory,Married,162.32
+1701,0.3924,Medium,4,Medium,1.0,0,Mobile Phone,Married,145.61
+3437,0.3924,Medium,4,Medium,1.0,0,Mobile Phone,Married,145.61
+2667,0.3922,Medium,5,High,3.0,1,Fashion,Divorced,219.16000000000005
+872,0.3917,Medium,2,Low,10.0,1,Laptop & Accessory,Divorced,196.02
+3633,0.3915,Medium,4,Medium,1.0,0,Laptop & Accessory,Single,190.0
+1783,0.3915,Medium,4,Medium,1.0,0,Laptop & Accessory,Single,190.0
+2722,0.3913,Medium,0,Low,10.0,0,Fashion,Married,222.38
+3015,0.3897,Medium,5,High,0.0,0,Mobile Phone,Single,134.45
+2734,0.3891,Medium,6,High,0.0,0,Mobile Phone,Single,125.8
+2168,0.3891,Medium,6,High,0.0,0,Mobile Phone,Single,125.8
+2947,0.3889,Medium,5,High,0.0,1,Grocery,Married,270.68
+1501,0.3878,Medium,3,Medium,4.0,0,Mobile Phone,Single,125.01
+2881,0.3864,Medium,5,High,0.0,0,Mobile Phone,Divorced,123.23
+1848,0.3857,Medium,3,Medium,5.0,1,Laptop & Accessory,Single,190.82
+1027,0.3856,Medium,3,Medium,5.0,0,Mobile Phone,Single,128.37
+2214,0.3856,Medium,3,Medium,5.0,0,Mobile Phone,Single,128.37
+3596,0.3849,Medium,3,Medium,0.0,0,Laptop & Accessory,Married,148.51
+633,0.3844,Medium,5,High,3.0,1,Laptop & Accessory,Divorced,147.36
+1447,0.3841,Medium,6,High,3.0,1,Laptop & Accessory,Single,168.77
+3087,0.3839,Medium,4,Medium,1.0,0,Mobile Phone,Married,147.26
+3262,0.3839,Medium,4,Medium,1.0,0,Mobile Phone,Married,147.26
+1086,0.3838,Medium,3,Medium,0.0,0,Laptop & Accessory,Married,148.98
+2758,0.3834,Medium,4,Medium,1.0,0,Mobile Phone,Divorced,145.96
+2966,0.3834,Medium,4,Medium,,0,Mobile Phone,Single,120.62
+1917,0.3834,Medium,4,Medium,,0,Mobile Phone,Single,120.62
+1745,0.3829,Medium,4,Medium,,0,Mobile Phone,Single,120.13
+749,0.3827,Medium,6,High,0.0,0,Mobile Phone,Single,126.47
+3050,0.3827,Medium,3,Medium,22.0,1,Others,Single,286.65
+2778,0.3827,Medium,3,Medium,22.0,1,Others,Single,286.65
+583,0.3823,Medium,3,Medium,5.0,1,Mobile Phone,Married,148.56
+985,0.3813,Medium,6,High,0.0,0,Mobile Phone,Single,125.7
+3498,0.3803,Medium,6,High,0.0,0,Mobile Phone,Single,126.1
+1380,0.3778,Medium,5,High,1.0,1,Grocery,Married,295.68
+2219,0.3775,Medium,5,High,1.0,0,Mobile Phone,Married,145.07
+571,0.3775,Medium,5,High,1.0,0,Mobile Phone,Married,145.07
+2237,0.3772,Medium,4,Medium,6.0,1,Mobile Phone,Married,129.09
+1708,0.3771,Medium,3,Medium,0.0,0,Laptop & Accessory,Married,142.56
+3290,0.3766,Medium,3,Medium,5.0,1,Mobile Phone,Divorced,164.29
+2061,0.3762,Medium,4,Medium,10.0,1,Mobile Phone,Married,129.96
+183,0.3761,Medium,3,Medium,0.0,0,Laptop & Accessory,Divorced,162.32
+2645,0.3756,Medium,3,Medium,11.0,1,Mobile Phone,Divorced,130.57
+2240,0.3754,Medium,4,Medium,,0,Mobile Phone,Single,120.45
+1454,0.3744,Medium,3,Medium,11.0,1,Fashion,Single,201.42
+2000,0.3744,Medium,3,Medium,11.0,1,Fashion,Single,201.42
+3663,0.3742,Medium,5,High,1.0,0,Mobile Phone,Single,133.1
+2755,0.374,Medium,5,High,1.0,0,Laptop & Accessory,Married,0.0
+3209,0.374,Medium,3,Medium,11.0,1,Mobile Phone,Married,130.57
+1254,0.3736,Medium,4,Medium,1.0,0,Mobile Phone,Married,163.16
+1415,0.373,Medium,4,Medium,0.0,0,Laptop & Accessory,Single,146.84
+2799,0.373,Medium,4,Medium,0.0,0,Laptop & Accessory,Single,146.84
+2802,0.3729,Medium,3,Medium,5.0,1,Mobile Phone,Married,155.65
+3444,0.3729,Medium,3,Medium,,0,Mobile Phone,Divorced,121.77
+1091,0.3729,Medium,3,Medium,5.0,1,Mobile Phone,Married,155.65
+3381,0.3725,Medium,4,Medium,,0,Mobile Phone,Single,120.45
+205,0.3722,Medium,5,High,1.0,1,Laptop & Accessory,Married,168.34
+3215,0.3718,Medium,4,Medium,0.0,0,Mobile Phone,Married,140.66
+1302,0.3718,Medium,4,Medium,0.0,0,Mobile Phone,Married,140.66
+2622,0.371,Medium,5,High,0.0,0,Mobile Phone,Married,128.86
+536,0.3708,Medium,3,Medium,0.0,0,Laptop & Accessory,Married,149.99
+233,0.3703,Medium,4,Medium,22.0,1,Mobile Phone,Married,125.87
+41,0.3698,Medium,3,Medium,4.0,1,Mobile Phone,Married,139.29
+3018,0.3697,Medium,4,Medium,0.0,0,Mobile Phone,Divorced,139.55
+3480,0.3697,Medium,7,High,2.0,1,Mobile Phone,Single,147.23
+1644,0.3697,Medium,7,High,2.0,1,Mobile Phone,Single,147.23
+2514,0.3678,Medium,4,Medium,1.0,0,Laptop & Accessory,Divorced,165.49
+2122,0.3676,Medium,3,Medium,16.0,1,Mobile Phone,Married,151.96
+3752,0.3674,Medium,0,Low,8.0,0,Fashion,Married,210.0
+1569,0.3674,Medium,3,Medium,7.0,1,Mobile Phone,Married,138.15
+381,0.3674,Medium,4,Medium,,0,Mobile Phone,Single,120.96
+3458,0.3671,Medium,3,Medium,1.0,0,Laptop & Accessory,Married,168.42
+966,0.3656,Medium,3,Medium,13.0,1,Fashion,Single,233.8
+422,0.3655,Medium,3,Medium,5.0,1,Mobile Phone,Married,164.29
+23,0.3653,Medium,4,Medium,30.0,1,Mobile Phone,Married,126.7
+1845,0.3645,Medium,4,Medium,1.0,0,Laptop & Accessory,Single,166.05
+3282,0.3634,Medium,3,Medium,12.0,1,Fashion,Single,208.8
+1980,0.3626,Medium,1,Low,19.0,0,Laptop & Accessory,Single,178.99
+2445,0.3613,Medium,5,High,1.0,0,Mobile Phone,Single,150.7
+983,0.3612,Medium,6,High,3.0,1,Laptop & Accessory,Married,165.25
+2008,0.3612,Medium,6,High,3.0,1,Laptop & Accessory,Married,165.25
+2441,0.3589,Medium,3,Medium,0.0,0,Laptop & Accessory,Divorced,142.56
+1832,0.3584,Medium,3,Medium,0.0,0,Laptop & Accessory,Married,135.4
+2490,0.3578,Medium,3,Medium,12.0,1,Mobile Phone,Divorced,155.57
+2160,0.3575,Medium,3,Medium,1.0,0,Laptop & Accessory,Divorced,173.98
+1227,0.3574,Medium,2,Low,11.0,1,Laptop & Accessory,Divorced,221.02
+3894,0.3565,Medium,3,Medium,5.0,1,Laptop & Accessory,Single,149.98
+1892,0.3565,Medium,3,Medium,5.0,1,Laptop & Accessory,Single,149.98
+773,0.3561,Medium,4,Medium,1.0,0,Mobile Phone,Married,148.23
+3076,0.356,Medium,3,Medium,14.0,1,Fashion,Single,170.82
+3869,0.356,Medium,3,Medium,14.0,1,Fashion,Single,170.82
+39,0.3557,Medium,5,High,0.0,1,Laptop & Accessory,Divorced,141.94
+2944,0.3553,Medium,4,Medium,0.0,0,Laptop & Accessory,Single,165.0
+1202,0.3553,Medium,4,Medium,0.0,0,Laptop & Accessory,Single,165.0
+1114,0.354,Medium,3,Medium,1.0,0,Laptop & Accessory,Married,188.97
+2515,0.354,Medium,3,Medium,1.0,0,Laptop & Accessory,Married,188.97
+1738,0.3536,Medium,3,Medium,8.0,1,Mobile Phone,Married,148.08
+1113,0.3536,Medium,3,Medium,8.0,1,Mobile Phone,Married,148.08
+2080,0.3534,Medium,2,Low,5.0,0,Mobile Phone,Divorced,123.32
+3588,0.3525,Medium,5,High,0.0,0,Mobile Phone,Married,129.42
+840,0.3514,Medium,4,Medium,1.0,0,Laptop & Accessory,Single,156.61
+878,0.3512,Medium,2,Low,19.0,1,Fashion,Married,218.8
+3468,0.3512,Medium,3,Medium,1.0,0,Laptop & Accessory,Married,177.96
+2249,0.3501,Medium,4,Medium,1.0,0,Mobile Phone,Married,131.96
+2148,0.3499,Medium,2,Low,4.0,1,Laptop & Accessory,Married,172.36
+373,0.3488,Medium,4,Medium,0.0,0,Mobile Phone,Married,138.16
+3349,0.3486,Medium,4,Medium,1.0,0,Mobile Phone,Married,154.04
+903,0.3485,Medium,5,High,0.0,1,Laptop & Accessory,Married,161.42
+1337,0.3481,Medium,4,Medium,1.0,0,Laptop & Accessory,Single,156.61
+2258,0.3469,Medium,4,Medium,3.0,0,Laptop & Accessory,Married,222.15
+1460,0.3463,Medium,4,Medium,0.0,0,Laptop & Accessory,Single,141.05
+1637,0.3457,Medium,5,High,0.0,0,Mobile Phone,Single,131.17
+1334,0.3457,Medium,5,High,0.0,0,Mobile Phone,Single,131.17
+1018,0.3455,Medium,3,Medium,1.0,0,Laptop & Accessory,Married,173.51
+3261,0.3437,Medium,5,High,1.0,0,Mobile Phone,Divorced,156.62
+1286,0.3436,Medium,5,High,3.0,1,Laptop & Accessory,Married,147.36
+970,0.343,Medium,4,Medium,1.0,0,Mobile Phone,Divorced,147.44
+1193,0.3416,Medium,5,High,1.0,0,Mobile Phone,Single,151.47
+84,0.341,Medium,1,Low,9.0,0,Fashion,Single,188.58
+3729,0.3409,Medium,3,Medium,4.0,1,Laptop & Accessory,Single,165.82
+229,0.3396,Medium,1,Low,10.0,0,Fashion,Married,221.99
+2130,0.3393,Medium,3,Medium,9.0,1,Laptop & Accessory,Single,186.42
+774,0.3393,Medium,3,Medium,9.0,1,Laptop & Accessory,Single,186.42
+3421,0.339,Medium,3,Medium,9.0,0,Mobile Phone,Single,150.59
+265,0.339,Medium,3,Medium,9.0,0,Mobile Phone,Single,150.59
+1414,0.3387,Medium,3,Medium,17.0,1,Fashion,Single,202.09
+404,0.3387,Medium,3,Medium,17.0,1,Fashion,Single,202.09
+3546,0.3384,Medium,4,Medium,1.0,0,Laptop & Accessory,Single,171.84
+135,0.3383,Medium,3,Medium,4.0,1,Laptop & Accessory,Single,165.82
+801,0.3378,Medium,4,Medium,15.0,1,Mobile Phone,Single,172.21
+1088,0.3369,Medium,3,Medium,15.0,1,Laptop & Accessory,Divorced,123.72
+2682,0.3369,Medium,0,Low,9.0,0,Fashion,Divorced,217.13
+1425,0.3367,Medium,0,Low,8.0,0,Fashion,Divorced,180.2
+2241,0.3365,Medium,3,Medium,10.0,1,Laptop & Accessory,Single,179.1
+3802,0.3365,Medium,3,Medium,14.0,1,Fashion,Single,204.45
+2425,0.3365,Medium,3,Medium,14.0,1,Fashion,Single,204.45
+529,0.3364,Medium,3,Medium,5.0,0,Mobile Phone,Single,124.39
+1486,0.3364,Medium,3,Medium,5.0,0,Mobile Phone,Single,124.39
+80,0.3358,Medium,5,High,0.0,1,Laptop & Accessory,Divorced,163.49
+24,0.3357,Medium,1,Low,5.0,0,Fashion,Single,189.98
+2350,0.334,Medium,3,Medium,1.0,0,Laptop & Accessory,Married,145.58
+2512,0.3334,Medium,2,Low,16.0,1,Fashion,Married,256.91
+2216,0.3331,Medium,3,Medium,5.0,1,Mobile Phone,Divorced,148.56
+2082,0.331,Medium,5,High,3.0,0,Mobile Phone,Single,145.62
+388,0.3304,Medium,3,Medium,10.0,1,Fashion,Single,176.42
+2765,0.3299,Medium,3,Medium,8.0,1,Fashion,Single,188.37
+97,0.3299,Medium,3,Medium,8.0,1,Fashion,Single,188.37
+1431,0.3284,Medium,4,Medium,1.0,0,Mobile Phone,Married,146.45
+1734,0.3282,Medium,4,Medium,0.0,0,Laptop & Accessory,Single,161.8
+1804,0.3282,Medium,4,Medium,4.0,1,Mobile Phone,Married,126.95
+3196,0.3282,Medium,6,High,3.0,1,Laptop & Accessory,Single,146.95
+1053,0.3278,Medium,7,High,3.0,1,Mobile Phone,Married,146.68
+2227,0.3278,Medium,4,Medium,1.0,0,Laptop & Accessory,Single,174.5
+3900,0.3277,Medium,3,Medium,9.0,1,Laptop & Accessory,Single,154.1
+3603,0.3274,Medium,5,High,0.0,0,Mobile Phone,Married,129.04
+3064,0.3258,Medium,6,High,3.0,1,Mobile Phone,Divorced,135.79
+1343,0.3254,Medium,2,Low,8.0,1,Fashion,Divorced,176.32
+782,0.3251,Medium,0,Low,9.0,0,Fashion,Married,170.94
+2962,0.3248,Medium,2,Low,9.0,1,Fashion,Married,228.88
+3705,0.3248,Medium,2,Low,9.0,1,Fashion,Married,228.88
+482,0.3248,Medium,5,High,1.0,1,Laptop & Accessory,Divorced,188.49
+159,0.3242,Medium,2,Low,9.0,1,Fashion,Married,201.32
+3843,0.3238,Medium,3,Medium,,0,Mobile Phone,Married,122.59
+3311,0.3234,Medium,4,Medium,0.0,0,Mobile Phone,Married,144.01
+3691,0.3234,Medium,4,Medium,0.0,0,Mobile Phone,Married,144.01
+3374,0.3211,Medium,3,Medium,0.0,0,Laptop & Accessory,Divorced,162.72
+1992,0.3207,Medium,3,Medium,1.0,0,Laptop & Accessory,Divorced,147.24
+50,0.3204,Medium,3,Medium,0.0,0,Laptop & Accessory,Divorced,152.96
+327,0.3201,Medium,3,Medium,7.0,1,Laptop & Accessory,Single,188.88
+1834,0.3189,Medium,3,Medium,8.0,1,Laptop & Accessory,Single,161.42
+676,0.3189,Medium,3,Medium,8.0,1,Laptop & Accessory,Single,161.42
+3264,0.3171,Medium,3,Medium,0.0,0,Laptop & Accessory,Married,140.11
+1025,0.3167,Medium,5,High,1.0,1,Laptop & Accessory,Divorced,166.94
+3484,0.3166,Medium,6,High,0.0,0,Mobile Phone,Single,126.78
+3450,0.3165,Medium,4,Medium,4.0,1,Laptop & Accessory,Single,193.77
+2415,0.3161,Medium,2,Low,14.0,0,Others,Single,321.26
+3090,0.3161,Medium,2,Low,14.0,0,Others,Single,321.26
+3726,0.3161,Medium,7,High,2.0,1,Mobile Phone,Single,146.54
+977,0.3159,Medium,3,Medium,1.0,0,Laptop & Accessory,Divorced,177.96
+1110,0.3156,Medium,4,Medium,1.0,0,Mobile Phone,Divorced,132.01
+360,0.3153,Medium,3,Medium,8.0,0,Mobile Phone,Single,124.5
+146,0.3153,Medium,3,Medium,8.0,0,Mobile Phone,Single,124.5
+3590,0.3151,Medium,4,Medium,1.0,0,Mobile Phone,Married,149.36
+3413,0.3146,Medium,2,Low,8.0,1,Fashion,Married,203.88
+1930,0.3146,Medium,2,Low,8.0,1,Fashion,Married,203.88
+2250,0.3145,Medium,5,High,1.0,0,Mobile Phone,Single,151.1
+3024,0.3134,Medium,0,Low,7.0,0,Fashion,Married,185.0
+2273,0.3127,Medium,3,Medium,7.0,0,Mobile Phone,Single,129.72
+2907,0.3125,Medium,3,Medium,19.0,0,Mobile Phone,Single,147.74
+1913,0.3125,Medium,3,Medium,19.0,0,Mobile Phone,Single,147.74
+3846,0.312,Medium,5,High,1.0,0,Mobile Phone,Single,133.1
+543,0.3118,Medium,5,High,1.0,0,Mobile Phone,Single,151.78
+3646,0.3117,Medium,4,Medium,0.0,0,Laptop & Accessory,Single,161.8
+1419,0.3113,Medium,3,Medium,,0,Mobile Phone,Married,112.81
+1729,0.3106,Medium,2,Low,18.0,1,Fashion,Divorced,193.8
+2493,0.3101,Medium,5,High,1.0,1,Laptop & Accessory,Married,171.47
+2818,0.31,Medium,0,Low,7.0,0,Fashion,Married,192.5
+2623,0.3091,Medium,5,High,0.0,1,Laptop & Accessory,Married,163.49
+1502,0.3087,Medium,4,Medium,0.0,0,Mobile Phone,Divorced,131.62
+3586,0.3086,Medium,2,Low,9.0,1,Fashion,Divorced,201.32
+3910,0.3083,Medium,4,Medium,11.0,1,Mobile Phone,Married,129.91
+3859,0.3081,Medium,3,Medium,1.0,0,Laptop & Accessory,Married,165.0
+1531,0.3068,Medium,3,Medium,9.0,1,Laptop & Accessory,Single,192.78
+2703,0.3068,Medium,3,Medium,9.0,1,Laptop & Accessory,Single,192.78
+2596,0.3067,Medium,0,Low,13.0,0,Fashion,Married,203.22
+1002,0.3064,Medium,5,High,0.0,0,Mobile Phone,Married,125.44
+1546,0.3053,Medium,4,Medium,15.0,1,Laptop & Accessory,Single,185.32
+1393,0.3053,Medium,4,Medium,15.0,1,Laptop & Accessory,Single,185.32
+3862,0.3047,Medium,3,Medium,0.0,0,Laptop & Accessory,Married,162.14
+1388,0.3036,Medium,3,Medium,11.0,1,Mobile Phone,Divorced,160.64
+1617,0.3025,Medium,2,Low,19.0,1,Fashion,Married,257.45
+2732,0.3009,Medium,3,Medium,15.0,1,Laptop & Accessory,Single,165.45
+816,0.3005,Medium,4,Medium,1.0,0,Mobile Phone,Divorced,131.96
+463,0.3005,Medium,3,Medium,19.0,1,Mobile Phone,Divorced,169.77
+2993,0.3002,Medium,2,Low,9.0,1,Fashion,Married,183.21
+2299,0.2996,Low,0,Low,9.0,0,Fashion,Married,176.44
+2017,0.2996,Low,4,Medium,14.0,1,Mobile Phone,Single,147.21
+1340,0.2996,Low,4,Medium,14.0,1,Mobile Phone,Single,147.21
+3839,0.2995,Low,4,Medium,1.0,0,Laptop & Accessory,Married,165.49
+413,0.2993,Low,3,Medium,0.0,0,Laptop & Accessory,Married,142.27
+1032,0.2989,Low,2,Low,9.0,0,Laptop & Accessory,Single,161.81
+3041,0.2987,Low,2,Low,15.0,0,Laptop & Accessory,Single,142.72
+2704,0.2984,Low,1,Low,10.0,0,Fashion,Divorced,221.99
+3561,0.2984,Low,3,Medium,6.0,1,Fashion,Single,234.58
+2571,0.2983,Low,5,High,0.0,1,Laptop & Accessory,Married,146.47
+1375,0.2982,Low,2,Low,21.0,0,Mobile Phone,Married,123.67
+760,0.2982,Low,2,Low,21.0,0,Mobile Phone,Married,123.67
+3895,0.2981,Low,2,Low,9.0,1,Laptop & Accessory,Divorced,214.66
+3252,0.2976,Low,4,Medium,,0,Mobile Phone,Single,121.09
+822,0.2974,Low,4,Medium,4.0,1,Laptop & Accessory,Single,193.77
+3128,0.2973,Low,3,Medium,12.0,1,Laptop & Accessory,Single,193.61
+3440,0.2972,Low,5,High,3.0,1,Fashion,Divorced,214.16000000000005
+3797,0.2965,Low,4,Medium,1.0,0,Mobile Phone,Divorced,169.2
+3267,0.2964,Low,3,Medium,0.0,0,Laptop & Accessory,Divorced,142.27
+1104,0.296,Low,0,Low,9.0,0,Fashion,Married,203.23
+879,0.2959,Low,4,Medium,1.0,0,Mobile Phone,Married,150.23
+2570,0.2959,Low,3,Medium,2.0,0,Fashion,Divorced,179.18
+581,0.2946,Low,4,Medium,,0,Mobile Phone,Single,120.8
+1847,0.2945,Low,0,Low,8.0,0,Fashion,Divorced,209.03
+443,0.2942,Low,3,Medium,7.0,1,Fashion,Single,259.58
+2185,0.2941,Low,3,Medium,15.0,1,Laptop & Accessory,Single,165.45
+2598,0.2934,Low,5,High,1.0,0,Mobile Phone,Single,159.45
+3198,0.2934,Low,4,Medium,3.0,0,Grocery,Married,286.24
+3012,0.2929,Low,4,Medium,,0,Mobile Phone,Single,120.8
+2796,0.2929,Low,2,Low,19.0,1,Fashion,Divorced,218.8
+2690,0.2926,Low,4,Medium,1.0,0,Laptop & Accessory,Single,174.5
+2585,0.2922,Low,4,Medium,,0,Mobile Phone,Single,122.88
+617,0.2917,Low,1,Low,8.0,0,Fashion,Single,193.62
+409,0.2915,Low,3,Medium,14.0,1,Laptop & Accessory,Single,160.32
+2753,0.2912,Low,3,Medium,12.0,1,Mobile Phone,Married,154.91
+3126,0.2902,Low,4,Medium,1.0,0,Mobile Phone,Married,145.99
+2887,0.2902,Low,2,Low,15.0,0,Mobile Phone,Single,139.68
+3718,0.2901,Low,4,Medium,1.0,0,Mobile Phone,Divorced,148.23
+2672,0.29,Low,3,Medium,,0,Mobile Phone,Divorced,112.23
+3751,0.2898,Low,2,Low,7.0,0,Laptop & Accessory,Single,168.2
+3867,0.2898,Low,2,Low,7.0,0,Laptop & Accessory,Single,168.2
+567,0.2897,Low,5,High,1.0,0,Mobile Phone,Married,156.62
+3375,0.2897,Low,3,Medium,2.0,0,Laptop & Accessory,Divorced,143.35
+2165,0.2896,Low,3,Medium,4.0,1,Mobile Phone,Divorced,160.79
+2296,0.2893,Low,2,Low,13.0,0,Mobile Phone,Married,124.06
+113,0.2893,Low,2,Low,13.0,0,Mobile Phone,Married,124.06
+1256,0.2892,Low,3,Medium,4.0,1,Mobile Phone,Married,130.65
+2190,0.2892,Low,3,Medium,4.0,1,Mobile Phone,Married,130.65
+3335,0.2891,Low,4,Medium,,0,Mobile Phone,Single,120.88
+2142,0.2891,Low,4,Medium,,0,Mobile Phone,Single,120.88
+3310,0.2887,Low,2,Low,23.0,0,Mobile Phone,Divorced,123.8
+280,0.2884,Low,3,Medium,6.0,1,Laptop & Accessory,Single,174.98
+1628,0.2884,Low,3,Medium,6.0,1,Laptop & Accessory,Single,174.98
+1478,0.2882,Low,5,High,3.0,1,Laptop & Accessory,Married,151.26
+2319,0.2875,Low,3,Medium,1.0,0,Laptop & Accessory,Married,167.27
+1803,0.2869,Low,3,Medium,12.0,1,Mobile Phone,Divorced,142.02
+79,0.2867,Low,4,Medium,1.0,0,Mobile Phone,Divorced,149.0
+1330,0.2866,Low,4,Medium,8.0,1,Mobile Phone,Married,161.22
+2837,0.2866,Low,7,High,2.0,1,Mobile Phone,Single,146.54
+2586,0.2861,Low,2,Low,16.0,1,Fashion,Divorced,256.91
+2741,0.2858,Low,3,Medium,12.0,1,Mobile Phone,Married,142.02
+562,0.2854,Low,3,Medium,15.0,1,Mobile Phone,Divorced,146.27
+2723,0.2853,Low,1,Low,8.0,0,Fashion,Single,193.62
+2476,0.2843,Low,3,Medium,12.0,1,Mobile Phone,Married,154.91
+2637,0.2837,Low,1,Low,17.0,0,Others,Divorced,322.4
+358,0.2831,Low,4,Medium,,0,Mobile Phone,Single,121.77
+1960,0.2828,Low,5,High,2.0,0,Mobile Phone,Married,124.51
+591,0.2828,Low,3,Medium,18.0,1,Mobile Phone,Divorced,150.59
+2436,0.2818,Low,3,Medium,13.0,1,Fashion,Single,179.45
+897,0.2818,Low,5,High,2.0,1,Laptop & Accessory,Married,140.25
+856,0.2818,Low,3,Medium,13.0,1,Fashion,Single,179.45
+90,0.2818,Low,5,High,2.0,1,Laptop & Accessory,Married,140.25
+3501,0.2811,Low,2,Low,22.0,0,Mobile Phone,Single,150.59
+2469,0.2811,Low,2,Low,22.0,0,Mobile Phone,Single,150.59
+2426,0.2809,Low,3,Medium,23.0,1,Mobile Phone,Married,150.87
+3073,0.2809,Low,3,Medium,23.0,1,Mobile Phone,Married,150.87
+1824,0.2804,Low,3,Medium,18.0,1,Mobile Phone,Married,150.59
+3567,0.28,Low,1,Low,7.0,0,Fashion,Married,196.19
+3194,0.2797,Low,3,Medium,,0,Mobile Phone,Married,115.63
+2222,0.2791,Low,3,Medium,,0,Mobile Phone,Married,121.41
+1559,0.2791,Low,3,Medium,,0,Mobile Phone,Married,121.41
+1309,0.278,Low,3,Medium,2.0,0,Laptop & Accessory,Married,143.35
+2804,0.2773,Low,2,Low,4.0,0,Mobile Phone,Married,123.29
+809,0.2772,Low,3,Medium,14.0,1,Mobile Phone,Married,147.13
+604,0.2771,Low,2,Low,10.0,0,Fashion,Single,213.58
+2453,0.2767,Low,0,Low,14.0,0,Fashion,Married,228.22
+3084,0.2766,Low,3,Medium,12.0,1,Laptop & Accessory,Single,184.8
+2894,0.2766,Low,3,Medium,12.0,1,Laptop & Accessory,Single,184.8
+223,0.2763,Low,4,Medium,,1,Laptop & Accessory,Married,121.33
+2341,0.2756,Low,4,Medium,0.0,0,Mobile Phone,Married,131.62
+3214,0.275,Low,0,Low,4.0,0,Fashion,Married,217.5
+3177,0.2749,Low,1,Low,5.0,0,Laptop & Accessory,Single,178.32
+2855,0.2749,Low,1,Low,5.0,0,Laptop & Accessory,Single,178.32
+311,0.2742,Low,3,Medium,9.0,1,Mobile Phone,Divorced,160.06
+3611,0.274,Low,2,Low,9.0,1,Laptop & Accessory,Married,146.63
+309,0.2738,Low,3,Medium,1.0,0,Laptop & Accessory,Married,147.24
+1505,0.2727,Low,2,Low,15.0,0,Laptop & Accessory,Single,142.72
+2657,0.2727,Low,2,Low,9.0,0,Laptop & Accessory,Single,161.81
+1997,0.2724,Low,0,Low,17.0,0,Fashion,Divorced,224.85
+1457,0.272,Low,4,Medium,2.0,0,Laptop & Accessory,Single,158.69
+3739,0.2716,Low,5,High,1.0,0,Mobile Phone,Married,127.06
+1466,0.2716,Low,3,Medium,3.0,0,Fashion,Married,192.5
+2494,0.2708,Low,5,High,1.0,0,Mobile Phone,Married,127.06
+937,0.2702,Low,6,High,3.0,1,Mobile Phone,Married,135.79
+210,0.2698,Low,2,Low,8.0,1,Fashion,Married,176.32
+1688,0.2697,Low,3,Medium,16.0,0,Mobile Phone,Single,124.38
+1571,0.2697,Low,3,Medium,16.0,0,Mobile Phone,Single,124.38
+2872,0.2693,Low,4,Medium,,0,Mobile Phone,Single,123.11
+700,0.2687,Low,2,Low,4.0,1,Fashion,Divorced,244.16000000000005
+3451,0.2687,Low,2,Low,10.0,0,Fashion,Single,213.58
+2027,0.2684,Low,4,Medium,1.0,0,Mobile Phone,Divorced,145.99
+3270,0.2682,Low,5,High,2.0,0,Laptop & Accessory,Married,25.0
+3242,0.2681,Low,0,Low,10.0,0,Fashion,Divorced,195.94
+2779,0.2679,Low,3,Medium,18.0,0,Mobile Phone,Single,147.9
+1603,0.2679,Low,3,Medium,18.0,0,Mobile Phone,Single,147.9
+1462,0.2678,Low,3,Medium,,0,Mobile Phone,Married,121.94
+2945,0.2662,Low,7,High,3.0,1,Mobile Phone,Divorced,146.68
+906,0.2657,Low,3,Medium,3.0,0,Fashion,Married,172.64
+3556,0.2657,Low,3,Medium,3.0,0,Fashion,Married,172.64
+2543,0.2657,Low,0,Low,4.0,0,Fashion,Married,215.57
+294,0.2656,Low,3,Medium,11.0,1,Laptop & Accessory,Single,168.61
+1684,0.2646,Low,3,Medium,9.0,1,Fashion,Divorced,228.77
+1876,0.2632,Low,3,Medium,,0,Mobile Phone,Married,120.83
+1958,0.2631,Low,0,Low,8.0,0,Fashion,Divorced,172.95
+1596,0.2628,Low,4,Medium,,1,Laptop & Accessory,Divorced,123.06
+2630,0.2628,Low,3,Medium,22.0,1,Grocery,Single,239.64
+869,0.2628,Low,3,Medium,22.0,1,Grocery,Single,239.64
+1139,0.2625,Low,3,Medium,10.0,1,Fashion,Married,227.52
+1694,0.2624,Low,2,Low,7.0,1,Laptop & Accessory,Married,177.07
+2892,0.2624,Low,2,Low,11.0,1,Laptop & Accessory,Married,221.02
+435,0.2624,Low,3,Medium,11.0,1,Laptop & Accessory,Single,143.17
+3852,0.2618,Low,5,High,3.0,0,Mobile Phone,Divorced,124.76
+255,0.2617,Low,3,Medium,11.0,0,Mobile Phone,Single,128.58
+1175,0.2615,Low,2,Low,20.0,0,Laptop & Accessory,Single,204.91
+366,0.2615,Low,2,Low,20.0,0,Laptop & Accessory,Single,204.91
+645,0.2612,Low,2,Low,9.0,1,Laptop & Accessory,Married,169.62
+1409,0.2612,Low,2,Low,6.0,0,Laptop & Accessory,Single,146.76
+3581,0.2612,Low,2,Low,9.0,1,Laptop & Accessory,Married,169.62
+1741,0.2609,Low,0,Low,10.0,0,Fashion,Divorced,242.13
+1670,0.2603,Low,1,Low,14.0,0,Others,Single,323.33
+297,0.2603,Low,1,Low,14.0,0,Others,Single,323.33
+177,0.2603,Low,3,Medium,16.0,1,Laptop & Accessory,Divorced,185.62
+752,0.2602,Low,5,High,1.0,1,Laptop & Accessory,Married,186.42
+3111,0.2602,Low,5,High,1.0,1,Laptop & Accessory,Married,186.42
+3595,0.259,Low,2,Low,4.0,0,Mobile Phone,Divorced,123.29
+3265,0.2587,Low,3,Medium,1.0,0,Laptop & Accessory,Married,165.0
+234,0.2581,Low,0,Low,4.0,0,Laptop & Accessory,Married,224.57
+318,0.2573,Low,4,Medium,,0,Mobile Phone,Single,122.06
+2713,0.2573,Low,3,Medium,13.0,1,Grocery,Married,296.23
+944,0.2573,Low,4,Medium,23.0,1,Grocery,Single,264.64
+1493,0.2573,Low,4,Medium,23.0,1,Grocery,Single,264.64
+3539,0.2573,Low,3,Medium,23.0,1,Mobile Phone,Married,132.21
+2580,0.2573,Low,3,Medium,13.0,1,Grocery,Married,296.23
+2202,0.2571,Low,0,Low,6.0,0,Fashion,Married,229.22
+1061,0.2571,Low,3,Medium,7.0,1,Mobile Phone,Divorced,136.22
+1188,0.2567,Low,3,Medium,29.0,1,Others,Single,315.45
+3197,0.2567,Low,3,Medium,29.0,1,Others,Single,315.45
+1151,0.2564,Low,3,Medium,5.0,0,Mobile Phone,Single,129.56
+2115,0.2561,Low,5,High,3.0,0,Mobile Phone,Married,126.93
+1864,0.2558,Low,3,Medium,28.0,1,Others,Single,290.45
+1223,0.2553,Low,4,Medium,1.0,0,Laptop & Accessory,Single,149.08
+387,0.2552,Low,3,Medium,11.0,1,Mobile Phone,Married,152.82
+680,0.2552,Low,3,Medium,11.0,1,Mobile Phone,Married,152.82
+2243,0.2544,Low,3,Medium,3.0,0,Fashion,Married,194.19
+2046,0.2543,Low,1,Low,26.0,0,Others,Married,324.99
+1440,0.2542,Low,0,Low,8.0,0,Fashion,Married,210.0
+1026,0.2541,Low,3,Medium,5.0,1,Mobile Phone,Married,151.95
+2729,0.254,Low,6,High,2.0,1,Laptop & Accessory,Single,141.93
+3442,0.2537,Low,3,Medium,8.0,1,Mobile Phone,Married,135.06
+2359,0.2535,Low,3,Medium,6.0,1,Laptop & Accessory,Single,163.88
+1143,0.2526,Low,3,Medium,3.0,0,Fashion,Married,171.4
+2897,0.2526,Low,3,Medium,3.0,0,Fashion,Married,171.4
+2181,0.2524,Low,0,Low,7.0,0,Fashion,Married,186.28
+693,0.2523,Low,4,Medium,1.0,0,Laptop & Accessory,Single,152.53
+3699,0.2523,Low,2,Low,9.0,0,Mobile Phone,Divorced,123.42
+1229,0.2518,Low,3,Medium,15.0,1,Mobile Phone,Married,146.27
+3390,0.2514,Low,3,Medium,4.0,1,Mobile Phone,Married,160.79
+1585,0.2504,Low,5,High,1.0,0,Mobile Phone,Single,151.78
+3905,0.2504,Low,3,Medium,2.0,0,Fashion,Married,219.96
+1870,0.2503,Low,2,Low,9.0,0,Mobile Phone,Married,123.42
+1875,0.2503,Low,2,Low,,0,Laptop & Accessory,Married,120.42
+1201,0.2498,Low,3,Medium,5.0,1,Fashion,Single,196.43
+3665,0.2494,Low,2,Low,10.0,1,Fashion,Married,208.21
+918,0.2494,Low,2,Low,10.0,1,Fashion,Married,208.21
+735,0.249,Low,4,Medium,8.0,1,Mobile Phone,Divorced,161.22
+3686,0.2484,Low,5,High,3.0,0,Fashion,Single,204.88
+3847,0.2482,Low,4,Medium,2.0,0,Laptop & Accessory,Married,197.15
+147,0.248,Low,4,Medium,,1,Laptop & Accessory,Married,123.06
+2908,0.2478,Low,7,High,3.0,1,Laptop & Accessory,Single,166.93
+3278,0.2472,Low,3,Medium,6.0,0,Mobile Phone,Single,153.37
+551,0.247,Low,2,Low,10.0,1,Laptop & Accessory,Married,194.62
+1198,0.247,Low,2,Low,10.0,1,Laptop & Accessory,Married,194.62
+556,0.247,Low,2,Low,16.0,0,Mobile Phone,Single,164.68
+1468,0.2463,Low,3,Medium,10.0,1,Fashion,Married,227.52
+1117,0.2462,Low,2,Low,18.0,1,Grocery,Divorced,258.2
+3094,0.2457,Low,2,Low,20.0,1,Fashion,Married,203.33
+466,0.2457,Low,2,Low,20.0,1,Fashion,Married,203.33
+1429,0.2454,Low,3,Medium,11.0,1,Laptop & Accessory,Single,168.61
+1574,0.245,Low,3,Medium,,0,Mobile Phone,Married,120.99
+3453,0.2447,Low,0,Low,9.0,0,Fashion,Divorced,205.2
+231,0.2446,Low,3,Medium,11.0,1,Laptop & Accessory,Single,166.97
+2784,0.244,Low,3,Medium,0.0,0,Laptop & Accessory,Married,162.72
+2884,0.2434,Low,3,Medium,11.0,1,Mobile Phone,Married,148.26
+163,0.2434,Low,2,Low,23.0,0,Mobile Phone,Married,123.8
+2860,0.243,Low,2,Low,10.0,1,Laptop & Accessory,Married,171.63
+575,0.243,Low,2,Low,10.0,1,Laptop & Accessory,Married,171.63
+3391,0.2422,Low,5,High,1.0,0,Mobile Phone,Single,156.17
+1246,0.2422,Low,3,Medium,1.0,0,Laptop & Accessory,Married,177.06
+713,0.2421,Low,2,Low,6.0,0,Mobile Phone,Married,126.22
+1593,0.2418,Low,0,Low,14.0,0,Laptop & Accessory,Married,130.72
+714,0.2418,Low,0,Low,9.0,0,Fashion,Divorced,196.99
+1815,0.2414,Low,3,Medium,11.0,1,Laptop & Accessory,Single,159.8
+689,0.2413,Low,0,Low,14.0,0,Fashion,Divorced,228.22
+45,0.2409,Low,3,Medium,,0,Mobile Phone,Married,120.08
+285,0.2408,Low,5,High,1.0,0,Mobile Phone,Divorced,127.13
+2979,0.2406,Low,3,Medium,13.0,1,Laptop & Accessory,Divorced,127.41
+1481,0.2401,Low,4,Medium,18.0,1,Mobile Phone,Single,149.36
+3888,0.2395,Low,2,Low,16.0,0,Laptop & Accessory,Single,167.72
+857,0.2394,Low,5,High,3.0,0,Mobile Phone,Single,151.42
+1799,0.2394,Low,3,Medium,0.0,0,Laptop & Accessory,Married,140.0
+1669,0.2394,Low,5,High,3.0,0,Mobile Phone,Single,151.42
+330,0.2392,Low,2,Low,15.0,1,Fashion,Married,231.91000000000005
+2318,0.2387,Low,5,High,2.0,0,Mobile Phone,Married,125.32
+3295,0.2385,Low,2,Low,13.0,0,Mobile Phone,Married,123.45
+2289,0.2385,Low,2,Low,13.0,0,Mobile Phone,Married,123.45
+1577,0.2377,Low,3,Medium,,0,Mobile Phone,Divorced,122.18
+978,0.2375,Low,2,Low,15.0,0,Mobile Phone,Married,125.76
+555,0.2374,Low,5,High,3.0,0,Laptop & Accessory,Single,183.69
+1416,0.2374,Low,5,High,3.0,0,Laptop & Accessory,Single,183.69
+47,0.2364,Low,3,Medium,5.0,1,Mobile Phone,Married,151.95
+1545,0.2362,Low,2,Low,15.0,1,Fashion,Divorced,231.91000000000005
+324,0.2345,Low,2,Low,13.0,1,Fashion,Divorced,204.75
+1665,0.2338,Low,3,Medium,,0,Mobile Phone,Married,121.77
+3273,0.2334,Low,3,Medium,18.0,1,Mobile Phone,Married,144.77
+368,0.233,Low,2,Low,17.0,0,Mobile Phone,Single,172.39
+1473,0.2323,Low,4,Medium,26.0,1,Others,Single,315.68
+3025,0.2323,Low,4,Medium,26.0,1,Others,Single,315.68
+588,0.2318,Low,2,Low,8.0,0,Mobile Phone,Divorced,124.04
+875,0.2315,Low,3,Medium,12.0,0,Mobile Phone,Single,153.58
+3693,0.2309,Low,4,Medium,31.0,1,Mobile Phone,Married,158.46
+3333,0.2308,Low,5,High,2.0,0,Mobile Phone,Married,125.32
+3744,0.2296,Low,4,Medium,1.0,0,Mobile Phone,Married,150.44
+2329,0.2296,Low,4,Medium,1.0,0,Mobile Phone,Married,150.44
+3488,0.2291,Low,2,Low,18.0,1,Others,Divorced,320.13
+1746,0.2289,Low,2,Low,8.0,0,Mobile Phone,Single,154.72
+2975,0.2288,Low,3,Medium,0.0,0,Laptop & Accessory,Married,163.97
+3577,0.2288,Low,3,Medium,0.0,0,Laptop & Accessory,Married,163.97
+3097,0.2287,Low,2,Low,10.0,0,Mobile Phone,Single,146.8
+192,0.2287,Low,4,Medium,15.0,1,Laptop & Accessory,Single,193.11
+2959,0.2285,Low,2,Low,9.0,0,Laptop & Accessory,Single,190.4
+994,0.2273,Low,4,Medium,1.0,0,Laptop & Accessory,Single,152.53
+3932,0.227,Low,3,Medium,14.0,1,Mobile Phone,Divorced,147.66
+2406,0.2263,Low,1,Low,5.0,0,Fashion,Divorced,214.43
+992,0.2263,Low,3,Medium,5.0,1,Fashion,Single,196.43
+3443,0.2254,Low,3,Medium,,0,Mobile Phone,Married,120.61
+1749,0.2254,Low,3,Medium,,0,Mobile Phone,Married,120.61
+2814,0.2249,Low,1,Low,10.0,0,Mobile Phone,Divorced,134.52
+3683,0.2247,Low,5,High,2.0,0,Mobile Phone,Single,145.8
+2932,0.2241,Low,2,Low,13.0,1,Others,Married,316.97
+921,0.2241,Low,2,Low,13.0,1,Others,Married,316.97
+1442,0.2241,Low,1,Low,4.0,0,Fashion,Single,221.67
+148,0.2241,Low,3,Medium,,0,Mobile Phone,Married,117.06
+2423,0.2239,Low,3,Medium,8.0,1,Laptop & Accessory,Single,170.38
+2828,0.2239,Low,3,Medium,8.0,1,Laptop & Accessory,Single,170.38
+3914,0.2233,Low,0,Low,11.0,0,Fashion,Divorced,188.23
+850,0.2232,Low,1,Low,7.0,0,Fashion,Single,186.21
+204,0.2229,Low,2,Low,9.0,1,Laptop & Accessory,Married,214.66
+474,0.2226,Low,0,Low,9.0,0,Fashion,Divorced,197.95
+1305,0.2223,Low,1,Low,26.0,0,Others,Divorced,324.99
+2228,0.222,Low,2,Low,10.0,0,Fashion,Single,200.87
+1780,0.2219,Low,2,Low,8.0,0,Mobile Phone,Single,148.11
+2322,0.2219,Low,2,Low,8.0,0,Mobile Phone,Single,148.11
+3439,0.2214,Low,0,Low,8.0,0,Grocery,Married,295.07
+3051,0.2214,Low,0,Low,8.0,0,Grocery,Married,295.07
+429,0.2208,Low,4,Medium,2.0,0,Fashion,Single,179.88
+100,0.2208,Low,4,Medium,2.0,0,Fashion,Single,179.88
+3508,0.2208,Low,0,Low,4.0,0,Fashion,Married,207.93
+1322,0.2208,Low,2,Low,20.0,1,Grocery,Married,237.7
+1184,0.2205,Low,0,Low,16.0,0,Fashion,Married,175.1
+27,0.2205,Low,0,Low,16.0,0,Fashion,Married,175.1
+427,0.2203,Low,3,Medium,8.0,1,Laptop & Accessory,Single,142.49
+1499,0.2201,Low,0,Low,16.0,0,Others,Married,309.3
+3427,0.2197,Low,0,Low,14.0,0,Others,Married,319.36
+3702,0.2196,Low,3,Medium,28.0,1,Grocery,Single,298.28
+1563,0.2191,Low,2,Low,9.0,0,Mobile Phone,Single,146.78
+2554,0.2191,Low,4,Medium,,0,Mobile Phone,Single,122.01
+3152,0.219,Low,5,High,3.0,0,Mobile Phone,Single,149.68
+75,0.2189,Low,2,Low,8.0,0,Fashion,Single,211.21
+1976,0.2189,Low,2,Low,8.0,0,Fashion,Single,211.21
+461,0.2179,Low,3,Medium,3.0,0,Laptop & Accessory,Married,213.53
+1056,0.2176,Low,2,Low,4.0,0,Fashion,Single,209.74
+1215,0.2176,Low,2,Low,4.0,0,Fashion,Single,209.74
+1961,0.2174,Low,0,Low,29.0,0,Grocery,Married,211.03
+1540,0.2174,Low,1,Low,13.0,0,Laptop & Accessory,Single,150.94
+1149,0.2168,Low,0,Low,9.0,0,Fashion,Married,217.13
+142,0.2168,Low,1,Low,26.0,0,Mobile Phone,Divorced,154.5
+108,0.2167,Low,2,Low,8.0,0,Mobile Phone,Married,124.04
+415,0.2165,Low,3,Medium,,0,Mobile Phone,Married,119.51
+1987,0.2165,Low,4,Medium,2.0,0,Laptop & Accessory,Single,173.98
+2552,0.2165,Low,4,Medium,2.0,0,Laptop & Accessory,Single,173.98
+858,0.2162,Low,4,Medium,31.0,1,Mobile Phone,Divorced,158.46
+118,0.2158,Low,2,Low,14.0,1,Laptop & Accessory,Married,190.16
+2548,0.2158,Low,2,Low,14.0,1,Laptop & Accessory,Married,190.16
+3153,0.2152,Low,3,Medium,30.0,1,Mobile Phone,Married,133.46
+1488,0.2145,Low,0,Low,7.0,0,Laptop & Accessory,Married,224.98
+1899,0.2145,Low,1,Low,11.0,0,Fashion,Single,199.91
+3787,0.2142,Low,6,High,3.0,0,Mobile Phone,Single,126.32
+703,0.214,Low,0,Low,9.0,0,Fashion,Married,196.99
+155,0.2137,Low,4,Medium,,0,Mobile Phone,Single,121.44
+338,0.2137,Low,4,Medium,,0,Mobile Phone,Single,121.44
+768,0.2136,Low,3,Medium,0.0,0,Laptop & Accessory,Married,152.06
+1697,0.2136,Low,3,Medium,0.0,0,Laptop & Accessory,Married,152.06
+2851,0.2135,Low,0,Low,5.0,0,Fashion,Married,204.22
+1112,0.2135,Low,0,Low,5.0,0,Fashion,Married,204.22
+823,0.213,Low,1,Low,6.0,0,Laptop & Accessory,Single,143.2
+1902,0.213,Low,1,Low,6.0,0,Laptop & Accessory,Single,143.2
+3249,0.213,Low,2,Low,20.0,0,Laptop & Accessory,Single,129.76
+274,0.2126,Low,3,Medium,4.0,0,Mobile Phone,Single,174.68
+512,0.2126,Low,3,Medium,4.0,0,Mobile Phone,Single,174.68
+2009,0.2123,Low,2,Low,7.0,0,Mobile Phone,Divorced,163.38
+3873,0.2122,Low,3,Medium,1.0,0,Laptop & Accessory,Married,165.11
+892,0.212,Low,0,Low,17.0,0,Fashion,Married,202.48
+2688,0.2119,Low,3,Medium,3.0,0,Laptop & Accessory,Married,141.15
+1871,0.2119,Low,3,Medium,3.0,0,Laptop & Accessory,Married,141.15
+399,0.2113,Low,4,Medium,,0,Mobile Phone,Married,123.05
+2072,0.2113,Low,4,Medium,,0,Mobile Phone,Married,123.05
+93,0.2113,Low,1,Low,19.0,0,Laptop & Accessory,Single,179.91
+1040,0.2109,Low,3,Medium,2.0,0,Fashion,Married,179.18
+3658,0.2103,Low,2,Low,5.0,0,Mobile Phone,Single,150.01
+3461,0.2096,Low,3,Medium,20.0,1,Fashion,Divorced,215.71
+3755,0.2094,Low,2,Low,12.0,1,Grocery,Married,271.23
+757,0.2093,Low,0,Low,17.0,0,Fashion,Married,224.85
+1324,0.2093,Low,2,Low,6.0,1,Laptop & Accessory,Married,152.07
+2409,0.2093,Low,2,Low,6.0,1,Laptop & Accessory,Married,152.07
+31,0.2086,Low,0,Low,12.0,0,Fashion,Married,196.13
+1434,0.2083,Low,1,Low,9.0,0,Fashion,Married,227.74
+483,0.2083,Low,1,Low,9.0,0,Fashion,Married,227.74
+2786,0.2082,Low,0,Low,4.0,0,Fashion,Married,219.19
+3154,0.2079,Low,3,Medium,11.0,0,Mobile Phone,Single,124.4
+390,0.2079,Low,3,Medium,11.0,0,Mobile Phone,Single,124.4
+69,0.2077,Low,0,Low,13.0,0,Fashion,Married,204.35
+348,0.2076,Low,0,Low,6.0,0,Laptop & Accessory,Married,217.04
+2414,0.2075,Low,3,Medium,13.0,1,Grocery,Single,264.37
+2093,0.2072,Low,2,Low,12.0,0,Mobile Phone,Single,151.19
+650,0.2072,Low,2,Low,12.0,0,Mobile Phone,Single,151.19
+2869,0.2072,Low,4,Medium,1.0,0,Laptop & Accessory,Married,166.74
+2161,0.2069,Low,2,Low,10.0,1,Laptop & Accessory,Married,144.49
+1811,0.2065,Low,2,Low,17.0,1,Laptop & Accessory,Married,170.22
+2290,0.2065,Low,3,Medium,7.0,1,Laptop & Accessory,Single,145.38
+81,0.2065,Low,3,Medium,7.0,1,Laptop & Accessory,Single,145.38
+2358,0.2061,Low,2,Low,25.0,0,Mobile Phone,Divorced,129.5
+1667,0.206,Low,0,Low,19.0,0,Fashion,Divorced,205.27
+696,0.2054,Low,2,Low,10.0,1,Laptop & Accessory,Divorced,144.49
+1222,0.2053,Low,1,Low,10.0,0,Fashion,Single,224.8
+1162,0.2051,Low,3,Medium,17.0,1,Mobile Phone,Married,131.95
+1983,0.2049,Low,4,Medium,19.0,1,Laptop & Accessory,Single,182.69
+3824,0.2049,Low,4,Medium,19.0,1,Laptop & Accessory,Single,182.69
+1059,0.2048,Low,1,Low,4.0,0,Grocery,Single,264.22
+718,0.2045,Low,2,Low,4.0,1,Fashion,Divorced,239.16000000000005
+1689,0.2044,Low,3,Medium,,0,Mobile Phone,Divorced,121.43
+3056,0.2042,Low,3,Medium,,0,Mobile Phone,Married,120.28
+3622,0.204,Low,2,Low,14.0,0,Laptop & Accessory,Single,175.94
+1717,0.2037,Low,1,Low,6.0,0,Fashion,Single,214.98
+1515,0.2037,Low,1,Low,5.0,0,Laptop & Accessory,Single,146.48
+133,0.2037,Low,1,Low,5.0,0,Laptop & Accessory,Single,146.48
+1096,0.2035,Low,2,Low,16.0,1,Fashion,Divorced,199.06
+2083,0.2033,Low,5,High,14.0,1,Mobile Phone,Single,148.42
+1877,0.2028,Low,3,Medium,9.0,0,Mobile Phone,Single,125.19
+3814,0.2026,Low,2,Low,4.0,1,Laptop & Accessory,Divorced,168.33
+647,0.2023,Low,2,Low,5.0,0,Mobile Phone,Divorced,123.7
+1423,0.2022,Low,4,Medium,3.0,0,Grocery,Married,286.24
+3363,0.202,Low,2,Low,11.0,1,Laptop & Accessory,Married,169.49
+1418,0.2017,Low,0,Low,6.0,0,Fashion,Married,229.22
+1465,0.2016,Low,5,High,2.0,1,Laptop & Accessory,Married,166.23
+2910,0.2014,Low,4,Medium,3.0,0,Laptop & Accessory,Married,211.2
+1933,0.2014,Low,0,Low,12.0,0,Laptop & Accessory,Married,224.24
+1367,0.2014,Low,4,Medium,18.0,1,Mobile Phone,Single,149.36
+2363,0.2014,Low,0,Low,12.0,0,Laptop & Accessory,Married,224.24
+38,0.2012,Low,3,Medium,,0,Mobile Phone,Married,122.18
+3764,0.2011,Low,0,Low,17.0,0,Fashion,Married,200.1
+2110,0.2,Low,1,Low,13.0,0,Laptop & Accessory,Single,192.82
+2301,0.1997,Low,1,Low,4.0,0,Laptop & Accessory,Single,153.32
+3286,0.1997,Low,1,Low,4.0,0,Laptop & Accessory,Single,153.32
+2914,0.1995,Low,1,Low,13.0,0,Others,Single,296.26
+2052,0.1995,Low,1,Low,13.0,0,Others,Single,296.26
+2040,0.1987,Low,2,Low,18.0,1,Fashion,Married,207.61
+2141,0.1982,Low,1,Low,30.0,0,Laptop & Accessory,Single,151.71
+1646,0.198,Low,3,Medium,14.0,1,Laptop & Accessory,Married,169.22
+322,0.1977,Low,4,Medium,11.0,1,Mobile Phone,Single,139.44
+3753,0.1975,Low,3,Medium,3.0,0,Fashion,Married,204.18
+2658,0.1971,Low,2,Low,6.0,0,Mobile Phone,Single,165.25
+2136,0.1971,Low,2,Low,6.0,0,Mobile Phone,Single,165.25
+2819,0.1969,Low,0,Low,7.0,0,Laptop & Accessory,Married,145.05
+2132,0.1967,Low,5,High,2.0,1,Laptop & Accessory,Married,166.23
+1339,0.1966,Low,3,Medium,3.0,0,Laptop & Accessory,Divorced,199.57
+3066,0.1965,Low,1,Low,5.0,0,Laptop & Accessory,Single,196.79
+723,0.1965,Low,1,Low,5.0,0,Laptop & Accessory,Single,196.79
+2628,0.1963,Low,3,Medium,1.0,0,Laptop & Accessory,Divorced,179.72
+1428,0.196,Low,3,Medium,18.0,1,Mobile Phone,Married,156.95
+3383,0.1959,Low,0,Low,12.0,0,Grocery,Married,220.31
+1854,0.1959,Low,4,Medium,18.0,1,Laptop & Accessory,Single,157.69
+1335,0.1959,Low,4,Medium,18.0,1,Laptop & Accessory,Single,157.69
+1610,0.1959,Low,0,Low,19.0,0,Fashion,Married,185.78
+3226,0.1958,Low,6,High,2.0,0,Mobile Phone,Single,123.4
+1080,0.1957,Low,2,Low,19.0,0,Mobile Phone,Single,159.52
+433,0.1956,Low,0,Low,11.0,0,Fashion,Divorced,220.61
+291,0.1956,Low,1,Low,16.0,0,Mobile Phone,Married,152.66
+3623,0.1953,Low,0,Low,10.0,0,Fashion,Married,195.94
+11,0.1951,Low,1,Low,6.0,0,Fashion,Married,221.1
+2996,0.1944,Low,1,Low,29.0,0,Others,Married,320.86
+2831,0.1941,Low,0,Low,12.0,0,Grocery,Married,227.42
+667,0.1941,Low,3,Medium,6.0,1,Laptop & Accessory,Married,12.0
+630,0.1941,Low,5,High,2.0,0,Mobile Phone,Divorced,156.96
+2757,0.1939,Low,3,Medium,,0,Mobile Phone,Married,120.24
+584,0.1939,Low,3,Medium,31.0,1,Mobile Phone,Married,151.7
+1469,0.1938,Low,2,Low,8.0,1,Laptop & Accessory,Divorced,189.66
+557,0.1933,Low,2,Low,9.0,0,Fashion,Single,211.06
+1794,0.1932,Low,3,Medium,15.0,1,Mobile Phone,Divorced,172.66
+150,0.1926,Low,2,Low,9.0,0,Mobile Phone,Single,146.78
+2440,0.1925,Low,1,Low,14.0,0,Laptop & Accessory,Married,193.52
+1142,0.1924,Low,2,Low,19.0,0,Mobile Phone,Single,146.77
+1782,0.1924,Low,2,Low,14.0,0,Mobile Phone,Married,124.51
+2467,0.1924,Low,2,Low,19.0,0,Mobile Phone,Single,146.77
+2772,0.1924,Low,1,Low,5.0,0,Fashion,Married,240.57
+3756,0.192,Low,2,Low,20.0,0,Mobile Phone,Single,159.23
+1131,0.1918,Low,3,Medium,10.0,1,Laptop & Accessory,Single,141.97
+3393,0.1918,Low,3,Medium,10.0,1,Laptop & Accessory,Single,141.97
+659,0.1917,Low,1,Low,5.0,0,Fashion,Single,212.44
+484,0.1917,Low,1,Low,4.0,0,Laptop & Accessory,Single,168.12
+1836,0.1917,Low,1,Low,5.0,0,Fashion,Single,212.44
+2101,0.1915,Low,1,Low,8.0,0,Fashion,Single,223.88
+2162,0.191,Low,4,Medium,3.0,0,Fashion,Divorced,244.35
+1008,0.1901,Low,4,Medium,17.0,1,Mobile Phone,Divorced,128.18
+220,0.1896,Low,2,Low,7.0,0,Laptop & Accessory,Single,160.29
+699,0.1895,Low,5,High,2.0,1,Laptop & Accessory,Divorced,172.79
+534,0.1894,Low,1,Low,21.0,0,Fashion,Single,178.98
+2025,0.1893,Low,1,Low,13.0,0,Others,Divorced,317.72
+899,0.1889,Low,2,Low,29.0,1,Others,Married,321.36
+1570,0.1889,Low,2,Low,29.0,1,Others,Married,321.36
+1449,0.1888,Low,4,Medium,2.0,0,Mobile Phone,Married,148.77
+725,0.1888,Low,1,Low,19.0,0,Laptop & Accessory,Single,173.5
+154,0.1888,Low,4,Medium,2.0,0,Mobile Phone,Married,148.77
+464,0.1888,Low,1,Low,19.0,0,Laptop & Accessory,Single,173.5
+1444,0.1885,Low,1,Low,14.0,0,Fashion,Married,234.32
+3337,0.1885,Low,1,Low,14.0,0,Fashion,Married,234.32
+3118,0.1881,Low,3,Medium,18.0,1,Mobile Phone,Married,156.95
+3844,0.1879,Low,0,Low,13.0,0,Fashion,Married,221.13
+1504,0.1877,Low,4,Medium,2.0,0,Laptop & Accessory,Married,163.84
+3447,0.1874,Low,3,Medium,14.0,1,Laptop & Accessory,Single,168.11
+199,0.1866,Low,0,Low,20.0,0,Fashion,Married,210.78
+2147,0.1866,Low,0,Low,20.0,0,Fashion,Married,210.78
+3203,0.1865,Low,5,High,3.0,1,Laptop & Accessory,Married,191.23
+1159,0.1865,Low,3,Medium,8.0,0,Mobile Phone,Single,168.81
+1706,0.1864,Low,2,Low,20.0,1,Others,Married,318.28
+3639,0.1861,Low,1,Low,17.0,0,Others,Married,318.92
+3548,0.1861,Low,2,Low,17.0,0,Fashion,Single,227.31
+2353,0.1858,Low,3,Medium,9.0,1,Fashion,Divorced,231.85
+590,0.1858,Low,1,Low,15.0,0,Laptop & Accessory,Married,214.38
+2579,0.1857,Low,0,Low,16.0,0,Fashion,Divorced,199.85
+1476,0.1856,Low,4,Medium,3.0,0,Fashion,Single,196.67
+2309,0.1856,Low,5,High,3.0,1,Laptop & Accessory,Married,191.23
+353,0.1856,Low,4,Medium,3.0,0,Fashion,Single,196.67
+905,0.1855,Low,2,Low,10.0,1,Fashion,Married,221.85
+549,0.1855,Low,0,Low,5.0,0,Fashion,Married,232.93
+829,0.1854,Low,4,Medium,3.0,0,Laptop & Accessory,Married,191.44
+1568,0.1853,Low,5,High,2.0,1,Laptop & Accessory,Divorced,150.56
+1005,0.1852,Low,5,High,3.0,0,Mobile Phone,Single,147.01
+1252,0.1851,Low,3,Medium,19.0,1,Fashion,Married,233.51
+3117,0.1848,Low,4,Medium,3.0,0,Mobile Phone,Married,154.74
+442,0.1848,Low,4,Medium,3.0,0,Mobile Phone,Married,154.74
+1996,0.1847,Low,4,Medium,1.0,0,Laptop & Accessory,Divorced,166.74
+3246,0.1845,Low,5,High,2.0,0,Mobile Phone,Married,125.14
+3248,0.1841,Low,3,Medium,13.0,1,Laptop & Accessory,Divorced,186.2
+2762,0.1839,Low,3,Medium,20.0,1,Laptop & Accessory,Single,182.72
+374,0.1836,Low,0,Low,20.0,0,Others,Married,321.27
+1888,0.1835,Low,3,Medium,,0,Laptop & Accessory,Single,122.72
+2867,0.1835,Low,3,Medium,,0,Laptop & Accessory,Single,122.72
+893,0.1834,Low,2,Low,7.0,1,Fashion,Divorced,170.83
+2016,0.1826,Low,2,Low,13.0,0,Mobile Phone,Married,123.87
+2694,0.1822,Low,2,Low,18.0,0,Laptop & Accessory,Single,184.85
+134,0.1821,Low,2,Low,13.0,1,Laptop & Accessory,Married,165.16
+3553,0.1821,Low,3,Medium,25.0,1,Others,Single,290.68
+3497,0.1821,Low,3,Medium,25.0,1,Others,Single,290.68
+281,0.182,Low,1,Low,6.0,0,Fashion,Single,214.98
+1810,0.1819,Low,1,Low,8.0,0,Laptop & Accessory,Single,165.4
+1822,0.1819,Low,2,Low,7.0,0,Mobile Phone,Divorced,125.85
+722,0.1819,Low,3,Medium,6.0,1,Mobile Phone,Married,157.98
+3911,0.1818,Low,1,Low,9.0,0,Fashion,Divorced,234.03
+3165,0.1815,Low,2,Low,15.0,1,Fashion,Married,174.06
+457,0.1814,Low,1,Low,8.0,0,Fashion,Single,186.06
+3786,0.1814,Low,1,Low,8.0,0,Fashion,Single,186.06
+2158,0.1813,Low,1,Low,31.0,0,Mobile Phone,Married,147.67
+1873,0.1811,Low,3,Medium,14.0,1,Grocery,Single,289.37
+277,0.1811,Low,1,Low,31.0,0,Fashion,Married,227.66
+3434,0.1808,Low,4,Medium,8.0,1,Mobile Phone,Single,149.3
+1841,0.1808,Low,4,Medium,8.0,1,Mobile Phone,Single,149.3
+873,0.1806,Low,0,Low,4.0,0,Fashion,Divorced,189.43
+2060,0.1804,Low,2,Low,11.0,1,Fashion,Married,215.1
+48,0.1803,Low,2,Low,11.0,0,Mobile Phone,Single,171.8
+708,0.1798,Low,0,Low,8.0,0,Fashion,Married,219.96
+1216,0.1796,Low,1,Low,5.0,0,Grocery,Single,289.22
+2447,0.1796,Low,1,Low,5.0,0,Grocery,Single,289.22
+2279,0.1795,Low,2,Low,19.0,1,Others,Married,293.28
+3823,0.1795,Low,2,Low,19.0,1,Others,Married,293.28
+3187,0.1793,Low,1,Low,14.0,0,Mobile Phone,Married,160.44
+1266,0.1793,Low,4,Medium,3.0,0,Laptop & Accessory,Divorced,191.44
+1813,0.1793,Low,1,Low,14.0,0,Mobile Phone,Married,160.44
+1541,0.1792,Low,0,Low,7.0,0,Laptop & Accessory,Divorced,224.98
+2834,0.1791,Low,2,Low,13.0,1,Grocery,Divorced,295.68
+3925,0.1791,Low,2,Low,14.0,1,Laptop & Accessory,Divorced,152.41
+1702,0.1791,Low,3,Medium,,0,Mobile Phone,Divorced,122.67
+1424,0.1789,Low,3,Medium,10.0,1,Laptop & Accessory,Married,213.47
+2790,0.1788,Low,0,Low,8.0,0,Laptop & Accessory,Married,150.93
+117,0.1787,Low,0,Low,7.0,0,Laptop & Accessory,Married,151.21
+1562,0.1787,Low,0,Low,7.0,0,Laptop & Accessory,Married,151.21
+1213,0.178,Low,3,Medium,13.0,1,Laptop & Accessory,Married,127.41
+2653,0.178,Low,3,Medium,6.0,0,Mobile Phone,Single,123.42
+3760,0.1777,Low,2,Low,11.0,1,Fashion,Married,215.1
+452,0.1775,Low,1,Low,8.0,0,Laptop & Accessory,Single,136.81
+1947,0.1775,Low,2,Low,7.0,0,Mobile Phone,Divorced,151.22
+1491,0.1775,Low,2,Low,13.0,1,Fashion,Married,204.75
+602,0.1773,Low,3,Medium,,0,Mobile Phone,Divorced,122.44
+3418,0.1769,Low,1,Low,7.0,0,Mobile Phone,Divorced,132.94
+603,0.1766,Low,0,Low,26.0,0,Grocery,Married,218.36
+1919,0.1764,Low,4,Medium,10.0,1,Mobile Phone,Single,151.44
+2649,0.1764,Low,4,Medium,10.0,1,Mobile Phone,Single,151.44
+1968,0.1762,Low,3,Medium,11.0,1,Laptop & Accessory,Married,158.11
+2597,0.1762,Low,5,High,2.0,1,Laptop & Accessory,Married,150.56
+3872,0.1758,Low,2,Low,7.0,0,Mobile Phone,Married,125.85
+3121,0.1751,Low,2,Low,21.0,1,Grocery,Married,262.7
+115,0.1751,Low,2,Low,21.0,1,Grocery,Married,262.7
+1564,0.1745,Low,2,Low,12.0,0,Fashion,Single,220.26
+195,0.1744,Low,1,Low,18.0,0,Laptop & Accessory,Single,148.5
+26,0.1744,Low,1,Low,18.0,0,Laptop & Accessory,Single,148.5
+3472,0.1741,Low,0,Low,4.0,0,Fashion,Married,210.31
+526,0.1741,Low,0,Low,4.0,0,Fashion,Married,210.31
+78,0.174,Low,3,Medium,9.0,1,Laptop & Accessory,Single,167.49
+3835,0.1737,Low,2,Low,10.0,0,Laptop & Accessory,Single,189.99
+3414,0.1735,Low,0,Low,20.0,0,Others,Married,321.27
+2400,0.1731,Low,3,Medium,7.0,1,Laptop & Accessory,Married,37.0
+655,0.1727,Low,3,Medium,17.0,0,Mobile Phone,Single,137.08
+469,0.1727,Low,3,Medium,17.0,0,Mobile Phone,Single,137.08
+2564,0.1726,Low,1,Low,4.0,0,Fashion,Married,196.4
+305,0.1726,Low,1,Low,10.0,0,Fashion,Single,224.8
+698,0.1726,Low,1,Low,4.0,0,Fashion,Married,196.4
+3101,0.1721,Low,0,Low,14.0,0,Laptop & Accessory,Divorced,208.96
+2556,0.1721,Low,2,Low,4.0,0,Laptop & Accessory,Single,185.91
+2930,0.1718,Low,0,Low,6.0,0,Laptop & Accessory,Divorced,217.04
+1757,0.1718,Low,6,High,3.0,1,Laptop & Accessory,Divorced,175.56
+566,0.1717,Low,1,Low,8.0,0,Laptop & Accessory,Single,186.25
+3858,0.1717,Low,3,Medium,5.0,1,Mobile Phone,Married,173.21
+1382,0.1717,Low,1,Low,8.0,0,Laptop & Accessory,Single,186.25
+3356,0.1715,Low,1,Low,8.0,0,Mobile Phone,Divorced,150.85
+599,0.1711,Low,2,Low,23.0,0,Fashion,Single,170.0
+3584,0.1711,Low,2,Low,8.0,0,Laptop & Accessory,Single,185.29
+542,0.1711,Low,2,Low,12.0,0,Laptop & Accessory,Single,211.86
+727,0.1705,Low,3,Medium,,0,Mobile Phone,Married,121.45
+507,0.1705,Low,0,Low,16.0,0,Fashion,Divorced,208.2
+987,0.1704,Low,1,Low,16.0,0,Mobile Phone,Divorced,145.93
+1909,0.1699,Low,4,Medium,17.0,1,Mobile Phone,Married,128.18
+1895,0.1699,Low,3,Medium,14.0,1,Fashion,Single,235.91000000000005
+3808,0.1696,Low,3,Medium,18.0,0,Mobile Phone,Single,162.08
+2848,0.1696,Low,2,Low,4.0,0,Mobile Phone,Married,162.61
+3619,0.1693,Low,3,Medium,2.0,0,Fashion,Married,201.55
+839,0.1688,Low,3,Medium,24.0,1,Laptop & Accessory,Single,154.41
+1282,0.1687,Low,1,Low,8.0,0,Fashion,Single,223.88
+3897,0.168,Low,1,Low,8.0,0,Fashion,Single,202.21
+1882,0.168,Low,1,Low,8.0,0,Fashion,Single,202.21
+2521,0.1675,Low,6,High,3.0,0,Mobile Phone,Single,129.83
+3189,0.1675,Low,6,High,3.0,0,Mobile Phone,Single,129.83
+527,0.1674,Low,0,Low,8.0,0,Fashion,Married,209.03
+638,0.1674,Low,0,Low,8.0,0,Fashion,Married,178.23
+3610,0.1671,Low,1,Low,6.0,0,Mobile Phone,Divorced,138.38
+1561,0.1671,Low,3,Medium,,0,Mobile Phone,Married,121.43
+863,0.1665,Low,2,Low,11.0,0,Mobile Phone,Married,25.0
+1625,0.1664,Low,3,Medium,12.0,1,Fashion,Married,240.1
+2189,0.1664,Low,2,Low,16.0,1,Grocery,Divorced,260.64
+2876,0.1661,Low,5,High,3.0,0,Mobile Phone,Single,147.01
+1957,0.1661,Low,3,Medium,27.0,1,Laptop & Accessory,Single,144.4
+3088,0.1659,Low,1,Low,8.0,0,Laptop & Accessory,Single,186.42
+2242,0.1659,Low,1,Low,8.0,0,Laptop & Accessory,Single,186.42
+3149,0.1658,Low,1,Low,30.0,0,Fashion,Single,205.12
+1868,0.1658,Low,4,Medium,20.0,1,Mobile Phone,Single,132.94
+453,0.1657,Low,2,Low,12.0,0,Laptop & Accessory,Single,211.86
+702,0.1657,Low,3,Medium,3.0,0,Laptop & Accessory,Married,147.79
+1332,0.1656,Low,1,Low,16.0,0,Laptop & Accessory,Single,176.55
+795,0.1656,Low,1,Low,16.0,0,Laptop & Accessory,Single,176.55
+956,0.1652,Low,2,Low,6.0,0,Mobile Phone,Single,149.39
+3898,0.1652,Low,1,Low,14.0,0,Mobile Phone,Married,149.06
+3570,0.1651,Low,0,Low,27.0,0,Fashion,Married,195.05
+1927,0.1651,Low,0,Low,27.0,0,Fashion,Married,195.05
+1907,0.1648,Low,3,Medium,16.0,1,Laptop & Accessory,Married,185.62
+2297,0.1647,Low,2,Low,8.0,0,Mobile Phone,Married,145.29
+57,0.1647,Low,2,Low,8.0,0,Mobile Phone,Married,145.29
+2994,0.1644,Low,3,Medium,2.0,0,Fashion,Married,199.8
+3336,0.164,Low,2,Low,18.0,1,Laptop & Accessory,Married,179.54
+1880,0.164,Low,2,Low,31.0,0,Laptop & Accessory,Single,179.73
+2627,0.1639,Low,3,Medium,4.0,1,Mobile Phone,Divorced,148.21
+1956,0.1638,Low,0,Low,9.0,0,Fashion,Married,205.2
+683,0.1637,Low,0,Low,10.0,0,Fashion,Married,242.13
+1214,0.1637,Low,2,Low,20.0,1,Laptop & Accessory,Married,145.91
+1712,0.1636,Low,1,Low,31.0,0,Laptop & Accessory,Single,179.05
+1744,0.1636,Low,1,Low,31.0,0,Laptop & Accessory,Single,179.05
+3061,0.1634,Low,2,Low,17.0,1,Grocery,Divorced,233.2
+1962,0.1633,Low,1,Low,22.0,0,Others,Married,321.65
+3820,0.1633,Low,1,Low,22.0,0,Others,Married,321.65
+1891,0.1632,Low,3,Medium,2.0,0,Laptop & Accessory,Married,166.44
+1014,0.1632,Low,3,Medium,3.0,0,Laptop & Accessory,Divorced,153.01
+3503,0.1627,Low,2,Low,11.0,0,Mobile Phone,Married,124.68
+2205,0.1626,Low,1,Low,6.0,0,Grocery,Single,274.44
+2041,0.1626,Low,1,Low,6.0,0,Grocery,Single,274.44
+1081,0.1625,Low,4,Medium,20.0,1,Mobile Phone,Single,132.94
+632,0.1625,Low,0,Low,21.0,0,Fashion,Married,225.04
+1199,0.1624,Low,1,Low,31.0,0,Mobile Phone,Divorced,147.67
+141,0.1622,Low,2,Low,17.0,0,Fashion,Single,227.31
+167,0.1621,Low,2,Low,31.0,0,Laptop & Accessory,Single,176.71
+3661,0.1621,Low,4,Medium,2.0,0,Laptop & Accessory,Married,173.77
+3123,0.1621,Low,3,Medium,30.0,1,Mobile Phone,Married,167.57
+208,0.1621,Low,3,Medium,30.0,1,Mobile Phone,Married,167.57
+3776,0.1619,Low,5,High,2.0,0,Mobile Phone,Divorced,127.0
+695,0.1617,Low,3,Medium,8.0,0,Mobile Phone,Single,142.3
+1301,0.1617,Low,3,Medium,,0,Mobile Phone,Divorced,120.96
+1306,0.1617,Low,3,Medium,8.0,0,Mobile Phone,Single,142.3
+1327,0.1616,Low,2,Low,5.0,0,Mobile Phone,Single,140.25
+2288,0.1616,Low,2,Low,11.0,1,Fashion,Married,246.85
+2705,0.1616,Low,2,Low,5.0,0,Mobile Phone,Single,140.25
+914,0.1614,Low,2,Low,31.0,0,Laptop & Accessory,Single,176.71
+3340,0.1614,Low,3,Medium,2.0,0,Laptop & Accessory,Married,142.62
+1448,0.1612,Low,2,Low,24.0,1,Grocery,Divorced,293.8
+1150,0.161,Low,1,Low,11.0,0,Laptop & Accessory,Married,220.25
+3044,0.161,Low,2,Low,10.0,0,Mobile Phone,Divorced,129.73
+2539,0.1609,Low,4,Medium,3.0,0,Mobile Phone,Married,149.51
+1555,0.1609,Low,4,Medium,3.0,0,Mobile Phone,Married,149.51
+293,0.1608,Low,2,Low,16.0,1,Laptop & Accessory,Married,148.72
+2551,0.1604,Low,2,Low,16.0,1,Laptop & Accessory,Divorced,177.31
+981,0.1602,Low,1,Low,21.0,0,Laptop & Accessory,Single,154.76
+109,0.1602,Low,1,Low,21.0,0,Laptop & Accessory,Single,154.76
+3632,0.1599,Low,0,Low,8.0,0,Laptop & Accessory,Divorced,146.01
+1750,0.1598,Low,4,Medium,2.0,0,Laptop & Accessory,Single,174.08
+805,0.1595,Low,2,Low,16.0,1,Laptop & Accessory,Married,156.79
+1116,0.1595,Low,2,Low,16.0,1,Laptop & Accessory,Married,156.79
+249,0.1592,Low,1,Low,19.0,0,Fashion,Married,222.56
+3652,0.1592,Low,4,Medium,,0,Mobile Phone,Single,121.15
+3116,0.1592,Low,1,Low,19.0,0,Fashion,Married,222.56
+2859,0.1589,Low,1,Low,19.0,0,Grocery,Married,292.92
+974,0.1587,Low,3,Medium,12.0,1,Laptop & Accessory,Married,183.11
+742,0.1587,Low,3,Medium,12.0,1,Laptop & Accessory,Married,183.11
+1321,0.1585,Low,3,Medium,15.0,1,Fashion,Single,260.91
+2485,0.1581,Low,2,Low,8.0,1,Laptop & Accessory,Married,156.89
+3659,0.1581,Low,2,Low,8.0,1,Laptop & Accessory,Married,156.89
+2274,0.1579,Low,2,Low,16.0,0,Others,Single,321.13
+1557,0.1579,Low,2,Low,16.0,0,Others,Single,321.13
+2039,0.1578,Low,1,Low,16.0,0,Fashion,Single,202.31
+1220,0.1577,Low,3,Medium,14.0,1,Fashion,Single,235.91000000000005
+2173,0.1577,Low,0,Low,7.0,0,Grocery,Married,270.07
+1928,0.1574,Low,1,Low,13.0,0,Others,Single,298.33
+930,0.1572,Low,0,Low,20.0,0,Fashion,Married,218.96
+3893,0.1572,Low,0,Low,20.0,0,Fashion,Married,218.96
+3169,0.1571,Low,1,Low,15.0,0,Mobile Phone,Married,149.51
+2144,0.1571,Low,1,Low,15.0,0,Mobile Phone,Married,149.51
+2377,0.1568,Low,0,Low,16.0,0,Others,Married,309.3
+1686,0.1567,Low,3,Medium,,0,Mobile Phone,Divorced,120.11
+245,0.1567,Low,2,Low,8.0,1,Laptop & Accessory,Married,147.88
+3505,0.1565,Low,2,Low,8.0,0,Mobile Phone,Divorced,157.94
+3884,0.1564,Low,1,Low,6.0,0,Laptop & Accessory,Single,171.48
+828,0.1564,Low,0,Low,13.0,0,Fashion,Married,208.55
+185,0.1564,Low,1,Low,6.0,0,Laptop & Accessory,Single,171.48
+398,0.1563,Low,3,Medium,3.0,0,Fashion,Married,184.12
+3489,0.1562,Low,2,Low,19.0,0,Fashion,Single,213.65
+3091,0.1561,Low,4,Medium,2.0,0,Laptop & Accessory,Married,190.49
+1090,0.1559,Low,2,Low,5.0,0,Mobile Phone,Single,146.09
+1929,0.1559,Low,3,Medium,,0,Mobile Phone,Divorced,122.58
+3008,0.1559,Low,2,Low,5.0,0,Mobile Phone,Single,146.09
+2256,0.1558,Low,4,Medium,7.0,1,Mobile Phone,Married,129.32
+350,0.1558,Low,4,Medium,7.0,1,Mobile Phone,Married,129.32
+515,0.1556,Low,1,Low,7.0,0,Fashion,Single,198.88
+3408,0.1553,Low,1,Low,11.0,0,Fashion,Single,195.26
+2829,0.1549,Low,1,Low,15.0,0,Laptop & Accessory,Single,193.7
+993,0.1549,Low,1,Low,15.0,0,Laptop & Accessory,Single,193.7
+572,0.1544,Low,0,Low,11.0,0,Fashion,Married,220.61
+3102,0.1541,Low,4,Medium,,0,Mobile Phone,Single,121.15
+304,0.1537,Low,2,Low,25.0,0,Mobile Phone,Married,129.5
+728,0.1536,Low,4,Medium,12.0,1,Mobile Phone,Single,164.44
+243,0.1534,Low,3,Medium,4.0,1,Mobile Phone,Married,148.21
+2495,0.1531,Low,3,Medium,3.0,0,Laptop & Accessory,Married,168.35
+3159,0.1531,Low,1,Low,18.0,0,Laptop & Accessory,Single,184.33
+289,0.153,Low,4,Medium,2.0,0,Laptop & Accessory,Single,181.61
+2471,0.153,Low,1,Low,13.0,0,Grocery,Married,252.42
+501,0.153,Low,4,Medium,17.0,1,Laptop & Accessory,Single,165.81
+2234,0.1528,Low,3,Medium,,0,Mobile Phone,Married,122.69
+2833,0.1526,Low,0,Low,4.0,0,Fashion,Married,209.12
+3327,0.1524,Low,2,Low,16.0,1,Fashion,Married,199.06
+2372,0.1523,Low,2,Low,11.0,1,Fashion,Married,246.85
+3645,0.1522,Low,3,Medium,5.0,1,Mobile Phone,Divorced,173.21
+1355,0.1519,Low,2,Low,19.0,1,Laptop & Accessory,Married,175.06
+1809,0.1514,Low,0,Low,14.0,0,Fashion,Divorced,183.92
+1155,0.1512,Low,2,Low,24.0,1,Others,Married,318.31
+308,0.1511,Low,0,Low,6.0,0,Laptop & Accessory,Married,145.39
+3668,0.1511,Low,3,Medium,2.0,0,Laptop & Accessory,Married,142.62
+545,0.151,Low,2,Low,18.0,0,Mobile Phone,Single,159.2
+230,0.151,Low,2,Low,18.0,0,Mobile Phone,Single,159.2
+116,0.151,Low,2,Low,29.0,0,Mobile Phone,Married,151.62
+1556,0.1509,Low,1,Low,12.0,0,Grocery,Single,233.41000000000005
+1060,0.1509,Low,1,Low,12.0,0,Grocery,Single,233.41000000000005
+2798,0.1507,Low,1,Low,5.0,0,Fashion,Single,211.59
+1389,0.1502,Low,5,High,2.0,0,Mobile Phone,Married,129.74
+2864,0.1502,Low,1,Low,13.0,0,Laptop & Accessory,Divorced,177.04
+1158,0.1502,Low,5,High,2.0,0,Mobile Phone,Married,129.74
+614,0.1501,Low,1,Low,11.0,0,Mobile Phone,Divorced,154.73
+1801,0.1498,Low,2,Low,15.0,1,Fashion,Married,201.24
+2967,0.1498,Low,1,Low,27.0,0,Laptop & Accessory,Single,137.8
+3258,0.1498,Low,2,Low,15.0,1,Fashion,Married,201.24
+787,0.1498,Low,2,Low,9.0,1,Laptop & Accessory,Married,155.62
+1268,0.1496,Low,2,Low,5.0,1,Laptop & Accessory,Married,193.33
+1673,0.1492,Low,1,Low,14.0,0,Fashion,Married,233.55
+2483,0.1487,Low,0,Low,10.0,0,Fashion,Married,225.96
+2849,0.1486,Low,2,Low,11.0,0,Mobile Phone,Married,125.92
+1208,0.1486,Low,2,Low,11.0,0,Mobile Phone,Married,126.1
+490,0.1486,Low,2,Low,11.0,0,Mobile Phone,Married,126.1
+3163,0.1486,Low,2,Low,11.0,0,Mobile Phone,Married,125.92
+3255,0.1485,Low,2,Low,30.0,0,Mobile Phone,Married,123.72
+1724,0.1485,Low,2,Low,30.0,0,Mobile Phone,Married,123.72
+546,0.1485,Low,3,Medium,18.0,1,Mobile Phone,Divorced,153.18
+2031,0.1482,Low,1,Low,9.0,0,Fashion,Single,218.62
+1725,0.1481,Low,1,Low,23.0,0,Fashion,Single,192.08
+2283,0.1478,Low,0,Low,10.0,0,Fashion,Married,188.34
+859,0.1478,Low,0,Low,10.0,0,Fashion,Married,188.34
+1935,0.1478,Low,0,Low,19.0,0,Others,Married,317.02
+3323,0.1476,Low,0,Low,7.0,0,Fashion,Divorced,241.91000000000005
+209,0.1474,Low,1,Low,12.0,0,Laptop & Accessory,Single,166.98
+1439,0.1474,Low,1,Low,12.0,0,Laptop & Accessory,Single,166.98
+627,0.1473,Low,2,Low,10.0,0,Mobile Phone,Single,150.19
+2116,0.1473,Low,2,Low,10.0,0,Mobile Phone,Single,150.19
+2830,0.1472,Low,5,High,3.0,0,Mobile Phone,Married,150.32
+3095,0.1472,Low,0,Low,11.0,0,Fashion,Married,188.23
+2919,0.147,Low,2,Low,7.0,0,Laptop & Accessory,Single,194.49
+414,0.1469,Low,3,Medium,,0,Mobile Phone,Married,112.23
+2058,0.1469,Low,1,Low,22.0,0,Fashion,Single,203.98
+3263,0.1468,Low,4,Medium,2.0,0,Mobile Phone,Divorced,135.52
+1323,0.1467,Low,1,Low,30.0,0,Laptop & Accessory,Single,154.05
+1924,0.1466,Low,0,Low,5.0,0,Fashion,Married,261.75
+3747,0.1465,Low,0,Low,8.0,0,Fashion,Married,211.28
+1918,0.1465,Low,1,Low,6.0,0,Laptop & Accessory,Single,146.82
+3125,0.1465,Low,0,Low,8.0,0,Fashion,Married,211.28
+2978,0.1464,Low,2,Low,6.0,0,Mobile Phone,Divorced,148.32
+408,0.1461,Low,0,Low,6.0,0,Laptop & Accessory,Divorced,145.39
+2313,0.1461,Low,3,Medium,,0,Mobile Phone,Divorced,122.58
+2034,0.146,Low,2,Low,24.0,1,Others,Married,318.31
+2212,0.146,Low,5,High,21.0,1,Mobile Phone,Single,157.94
+283,0.1459,Low,0,Low,6.0,0,Fashion,Divorced,216.91000000000005
+1140,0.1459,Low,0,Low,14.0,0,Others,Married,305.41
+3251,0.1459,Low,0,Low,4.0,0,Fashion,Married,236.75
+227,0.1458,Low,1,Low,4.0,0,Mobile Phone,Divorced,149.76
+2973,0.1457,Low,2,Low,8.0,1,Fashion,Divorced,206.85
+3448,0.1454,Low,2,Low,19.0,0,Fashion,Single,213.65
+3514,0.1452,Low,0,Low,16.0,0,Fashion,Married,207.98
+3870,0.1451,Low,1,Low,7.0,0,Grocery,Single,299.44
+2134,0.1451,Low,1,Low,7.0,0,Grocery,Single,299.44
+3517,0.145,Low,0,Low,12.0,0,Others,Married,292.72
+594,0.1449,Low,2,Low,6.0,1,Laptop & Accessory,Divorced,154.88
+2150,0.1448,Low,5,High,2.0,0,Mobile Phone,Married,128.04
+3865,0.1448,Low,5,High,2.0,0,Mobile Phone,Married,128.04
+3145,0.1446,Low,1,Low,30.0,0,Fashion,Single,176.37
+2282,0.1443,Low,1,Low,22.0,0,Fashion,Single,145.0
+3882,0.1441,Low,3,Medium,8.0,1,Mobile Phone,Married,154.32
+2146,0.1441,Low,0,Low,15.0,0,Others,Married,284.3
+3850,0.1441,Low,3,Medium,8.0,1,Mobile Phone,Married,154.32
+1529,0.1439,Low,4,Medium,2.0,0,Laptop & Accessory,Married,191.74
+3035,0.1439,Low,2,Low,9.0,1,Laptop & Accessory,Married,181.89
+1748,0.1436,Low,2,Low,4.0,0,Mobile Phone,Single,154.83
+3269,0.1436,Low,0,Low,13.0,0,Laptop & Accessory,Divorced,134.48
+2613,0.1436,Low,2,Low,4.0,0,Mobile Phone,Single,154.83
+2856,0.1434,Low,0,Low,26.0,0,Fashion,Married,170.05
+960,0.1434,Low,0,Low,26.0,0,Fashion,Married,170.05
+165,0.1433,Low,2,Low,26.0,1,Fashion,Married,209.34
+2520,0.1432,Low,1,Low,12.0,0,Others,Single,294.31
+3930,0.143,Low,0,Low,6.0,0,Fashion,Married,171.19
+1544,0.143,Low,6,High,2.0,1,Laptop & Accessory,Married,193.34
+3738,0.143,Low,3,Medium,9.0,0,Mobile Phone,Single,149.5
+2792,0.143,Low,1,Low,24.0,0,Mobile Phone,Married,148.8
+3885,0.1426,Low,5,High,2.0,0,Mobile Phone,Single,146.44
+2650,0.1426,Low,5,High,2.0,0,Mobile Phone,Single,146.44
+1475,0.1425,Low,2,Low,15.0,1,Fashion,Married,229.47
+259,0.1425,Low,2,Low,15.0,1,Fashion,Married,229.47
+2500,0.1419,Low,2,Low,18.0,0,Mobile Phone,Single,134.52
+1484,0.1419,Low,0,Low,5.0,0,Laptop & Accessory,Divorced,194.32
+3916,0.1418,Low,2,Low,5.0,0,Mobile Phone,Divorced,127.43
+3325,0.1417,Low,3,Medium,12.0,1,Laptop & Accessory,Single,181.66
+745,0.1416,Low,6,High,2.0,1,Laptop & Accessory,Married,193.34
+1233,0.1415,Low,1,Low,10.0,0,Fashion,Divorced,200.96
+2396,0.1415,Low,2,Low,19.0,0,Mobile Phone,Single,134.23
+1044,0.1414,Low,3,Medium,2.0,0,Laptop & Accessory,Married,188.53
+1605,0.1414,Low,3,Medium,18.0,1,Fashion,Married,208.51
+2291,0.1414,Low,3,Medium,2.0,0,Laptop & Accessory,Married,188.53
+1657,0.1412,Low,1,Low,13.0,0,Grocery,Married,245.31
+999,0.1412,Low,1,Low,13.0,0,Grocery,Married,245.31
+3229,0.1411,Low,3,Medium,,0,Mobile Phone,Married,121.32
+3679,0.1411,Low,3,Medium,,0,Mobile Phone,Married,121.32
+1742,0.141,Low,3,Medium,,0,Mobile Phone,Divorced,120.7
+2051,0.1409,Low,5,High,3.0,0,Mobile Phone,Married,146.09
+2167,0.1408,Low,1,Low,6.0,0,Fashion,Single,237.44
+3040,0.1408,Low,1,Low,6.0,0,Fashion,Single,237.44
+2692,0.1407,Low,2,Low,7.0,0,Mobile Phone,Married,129.96
+1829,0.1406,Low,3,Medium,31.0,1,Fashion,Married,230.52
+673,0.1403,Low,0,Low,13.0,0,Fashion,Married,221.13
+1535,0.1403,Low,0,Low,7.0,0,Laptop & Accessory,Married,154.84
+3481,0.1402,Low,1,Low,18.0,0,Fashion,Single,188.65
+2178,0.1401,Low,1,Low,13.0,0,Mobile Phone,Married,135.44
+585,0.1401,Low,1,Low,13.0,0,Mobile Phone,Married,135.44
+1370,0.1401,Low,2,Low,7.0,0,Mobile Phone,Single,143.81
+3784,0.1401,Low,0,Low,19.0,0,Others,Divorced,317.02
+3377,0.1401,Low,2,Low,7.0,0,Mobile Phone,Single,143.81
+3840,0.1399,Low,4,Medium,23.0,1,Grocery,Single,244.11
+720,0.1399,Low,4,Medium,23.0,1,Grocery,Single,244.11
+1450,0.1396,Low,2,Low,20.0,1,Fashion,Married,228.68
+2510,0.1396,Low,2,Low,20.0,1,Fashion,Married,228.68
+1633,0.1394,Low,2,Low,8.0,0,Mobile Phone,Divorced,123.76
+3728,0.1394,Low,3,Medium,,0,Mobile Phone,Married,120.96
+3715,0.1391,Low,3,Medium,12.0,1,Laptop & Accessory,Single,181.66
+3201,0.1391,Low,3,Medium,3.0,0,Laptop & Accessory,Married,199.57
+1949,0.1389,Low,2,Low,5.0,0,Mobile Phone,Divorced,147.18
+761,0.1387,Low,1,Low,27.0,0,Laptop & Accessory,Single,137.8
+2712,0.1387,Low,0,Low,7.0,0,Fashion,Divorced,243.78
+1739,0.1384,Low,1,Low,24.0,0,Others,Single,324.26
+793,0.1382,Low,2,Low,8.0,0,Fashion,Single,241.31
+3651,0.1381,Low,2,Low,5.0,0,Mobile Phone,Married,128.27
+95,0.1376,Low,2,Low,8.0,1,Laptop & Accessory,Married,189.66
+2824,0.1372,Low,1,Low,10.0,0,Mobile Phone,Divorced,161.88
+3241,0.137,Low,0,Low,15.0,0,Others,Married,292.32
+2260,0.137,Low,2,Low,30.0,1,Others,Divorced,297.01
+1955,0.1366,Low,0,Low,21.0,0,Others,Married,321.58
+2724,0.1366,Low,1,Low,9.0,0,Laptop & Accessory,Married,125.71
+550,0.1366,Low,1,Low,9.0,0,Laptop & Accessory,Married,125.71
+1315,0.1366,Low,0,Low,21.0,0,Others,Married,321.58
+620,0.1365,Low,2,Low,24.0,0,Mobile Phone,Divorced,127.23
+1285,0.1365,Low,1,Low,9.0,0,Fashion,Single,175.87
+1121,0.136,Low,0,Low,9.0,0,Fashion,Divorced,175.96
+128,0.1358,Low,2,Low,14.0,1,Fashion,Married,181.89
+2418,0.1357,Low,2,Low,19.0,0,Mobile Phone,Single,134.23
+1508,0.1354,Low,1,Low,28.0,0,Laptop & Accessory,Single,173.69
+1042,0.1354,Low,3,Medium,16.0,1,Laptop & Accessory,Single,140.81
+1307,0.1354,Low,1,Low,28.0,0,Laptop & Accessory,Single,173.69
+3737,0.1353,Low,1,Low,12.0,0,Fashion,Divorced,245.61
+3174,0.1352,Low,2,Low,12.0,1,Others,Married,291.97
+3822,0.1352,Low,2,Low,12.0,1,Others,Married,291.97
+950,0.1349,Low,2,Low,19.0,0,Laptop & Accessory,Single,191.32
+1271,0.1349,Low,2,Low,19.0,0,Laptop & Accessory,Single,191.32
+2349,0.1349,Low,4,Medium,2.0,0,Laptop & Accessory,Single,181.61
+25,0.1349,Low,1,Low,9.0,0,Fashion,Single,205.95
+345,0.1348,Low,3,Medium,9.0,0,Mobile Phone,Single,149.5
+1168,0.1347,Low,3,Medium,3.0,0,Fashion,Married,224.8
+3105,0.1345,Low,1,Low,20.0,0,Fashion,Single,186.33
+1376,0.1345,Low,1,Low,20.0,0,Fashion,Single,186.33
+4,0.1339,Low,0,Low,20.0,0,Fashion,Divorced,230.27
+1636,0.1338,Low,2,Low,19.0,1,Laptop & Accessory,Married,146.15
+1650,0.1338,Low,2,Low,19.0,1,Laptop & Accessory,Married,146.15
+3845,0.1338,Low,2,Low,13.0,1,Laptop & Accessory,Married,140.69
+1647,0.1338,Low,3,Medium,3.0,0,Laptop & Accessory,Married,194.31
+176,0.1338,Low,2,Low,27.0,1,Laptop & Accessory,Divorced,148.06
+891,0.1337,Low,1,Low,14.0,0,Fashion,Married,222.05
+130,0.1337,Low,4,Medium,3.0,0,Mobile Phone,Married,137.61
+2791,0.1337,Low,1,Low,14.0,0,Fashion,Married,222.05
+1828,0.1336,Low,5,High,2.0,0,Mobile Phone,Married,140.63
+3257,0.1336,Low,1,Low,5.0,0,Fashion,Married,214.43
+3238,0.1335,Low,1,Low,4.0,0,Mobile Phone,Divorced,145.97
+2977,0.1334,Low,3,Medium,23.0,1,Others,Married,320.02
+1085,0.1333,Low,1,Low,5.0,0,Laptop & Accessory,Single,177.38
+3124,0.1333,Low,2,Low,4.0,0,Mobile Phone,Divorced,163.33
+3670,0.1333,Low,1,Low,5.0,0,Laptop & Accessory,Single,177.38
+182,0.1333,Low,4,Medium,3.0,0,Mobile Phone,Married,132.04
+1606,0.1331,Low,2,Low,16.0,1,Laptop & Accessory,Married,179.1
+2999,0.1331,Low,2,Low,16.0,1,Laptop & Accessory,Married,179.1
+1394,0.1329,Low,2,Low,17.0,1,Laptop & Accessory,Married,154.54
+3075,0.1329,Low,1,Low,6.0,0,Laptop & Accessory,Single,151.47
+941,0.1329,Low,1,Low,6.0,0,Laptop & Accessory,Single,151.47
+3573,0.1328,Low,6,High,3.0,1,Laptop & Accessory,Married,207.68
+3913,0.1328,Low,1,Low,12.0,0,Laptop & Accessory,Single,201.25
+1946,0.1328,Low,6,High,3.0,1,Laptop & Accessory,Married,207.68
+1037,0.1327,Low,1,Low,15.0,0,Laptop & Accessory,Single,162.44
+2638,0.1326,Low,0,Low,15.0,0,Others,Married,319.19
+3438,0.1326,Low,0,Low,15.0,0,Others,Married,319.19
+3140,0.1324,Low,5,High,21.0,1,Mobile Phone,Single,157.94
+3933,0.1323,Low,3,Medium,20.0,1,Laptop & Accessory,Married,171.15
+224,0.1323,Low,0,Low,4.0,0,Laptop & Accessory,Divorced,164.1
+284,0.1323,Low,2,Low,5.0,0,Mobile Phone,Divorced,148.29
+1954,0.1323,Low,3,Medium,20.0,1,Laptop & Accessory,Married,171.15
+678,0.1321,Low,1,Low,15.0,0,Laptop & Accessory,Single,175.03
+917,0.132,Low,1,Low,14.0,0,Fashion,Single,192.41
+2362,0.132,Low,1,Low,11.0,0,Laptop & Accessory,Married,220.25
+3313,0.1318,Low,1,Low,14.0,0,Laptop & Accessory,Single,150.03
+2497,0.1318,Low,1,Low,14.0,0,Laptop & Accessory,Single,150.03
+3589,0.1316,Low,1,Low,10.0,0,Laptop & Accessory,Single,193.15
+1522,0.1315,Low,1,Low,14.0,0,Laptop & Accessory,Divorced,173.76
+3400,0.1314,Low,1,Low,11.0,0,Fashion,Married,232.06
+3750,0.1314,Low,1,Low,11.0,0,Fashion,Married,232.06
+3706,0.1312,Low,1,Low,10.0,0,Mobile Phone,Married,130.22
+1707,0.131,Low,1,Low,25.0,0,Mobile Phone,Married,134.82
+303,0.1308,Low,2,Low,8.0,0,Mobile Phone,Married,123.76
+2760,0.1306,Low,2,Low,17.0,1,Others,Divorced,295.13
+1148,0.1305,Low,0,Low,14.0,0,Laptop & Accessory,Married,190.13
+2676,0.1304,Low,1,Low,11.0,0,Fashion,Single,173.51
+98,0.1304,Low,2,Low,4.0,1,Fashion,Married,239.16000000000005
+989,0.1304,Low,1,Low,11.0,0,Fashion,Single,173.51
+1671,0.1302,Low,2,Low,7.0,0,Laptop & Accessory,Single,171.82
+2746,0.1301,Low,1,Low,16.0,0,Fashion,Single,202.31
+3599,0.13,Low,2,Low,7.0,0,Mobile Phone,Married,163.38
+1217,0.1299,Low,2,Low,8.0,0,Mobile Phone,Married,124.3
+1049,0.1299,Low,2,Low,8.0,0,Mobile Phone,Married,124.3
+2327,0.1298,Low,3,Medium,,0,Mobile Phone,Married,121.87
+1940,0.1298,Low,3,Medium,,0,Mobile Phone,Married,121.87
+3342,0.1297,Low,0,Low,29.0,0,Fashion,Married,227.39
+1698,0.1297,Low,3,Medium,20.0,1,Fashion,Married,231.73
+3462,0.1296,Low,4,Medium,2.0,0,Laptop & Accessory,Divorced,172.24
+3227,0.1296,Low,1,Low,6.0,0,Fashion,Single,236.59
+1300,0.1296,Low,2,Low,6.0,1,Laptop & Accessory,Married,148.78
+2878,0.1296,Low,3,Medium,25.0,1,Laptop & Accessory,Single,179.41
+808,0.1293,Low,3,Medium,3.0,0,Laptop & Accessory,Married,194.31
+1181,0.1293,Low,1,Low,7.0,0,Laptop & Accessory,Single,177.56
+2644,0.1292,Low,4,Medium,3.0,0,Mobile Phone,Married,137.61
+2002,0.1291,Low,2,Low,8.0,0,Mobile Phone,Divorced,125.72
+682,0.1289,Low,6,High,3.0,0,Mobile Phone,Single,164.83
+837,0.1289,Low,0,Low,11.0,0,Fashion,Divorced,219.34
+626,0.1289,Low,0,Low,4.0,0,Fashion,Married,207.93
+624,0.1287,Low,1,Low,12.0,0,Fashion,Single,198.51
+2961,0.1287,Low,1,Low,12.0,0,Fashion,Single,198.51
+2700,0.1285,Low,1,Low,13.0,0,Fashion,Single,203.8
+3402,0.1285,Low,0,Low,14.0,0,Others,Divorced,305.41
+3509,0.1285,Low,1,Low,13.0,0,Fashion,Single,203.8
+1211,0.1284,Low,3,Medium,16.0,0,Mobile Phone,Single,124.55
+834,0.1284,Low,0,Low,4.0,0,Laptop & Accessory,Married,169.32
+3716,0.1279,Low,2,Low,8.0,0,Laptop & Accessory,Single,172.59
+1827,0.1279,Low,1,Low,17.0,0,Laptop & Accessory,Divorced,193.04
+2067,0.1278,Low,2,Low,9.0,0,Mobile Phone,Divorced,147.58
+3386,0.1276,Low,3,Medium,9.0,1,Fashion,Married,231.85
+3186,0.1275,Low,1,Low,28.0,0,Laptop & Accessory,Single,162.8
+410,0.1275,Low,2,Low,8.0,0,Mobile Phone,Married,126.9
+1938,0.1275,Low,2,Low,8.0,0,Mobile Phone,Married,126.9
+1345,0.1267,Low,3,Medium,31.0,1,Laptop & Accessory,Married,181.6
+1260,0.1267,Low,3,Medium,6.0,0,Mobile Phone,Single,125.0
+2408,0.1267,Low,3,Medium,,0,Mobile Phone,Married,120.89
+2499,0.1265,Low,2,Low,10.0,0,Mobile Phone,Married,0.0
+2356,0.1264,Low,0,Low,13.0,0,Laptop & Accessory,Divorced,188.89
+2561,0.1264,Low,0,Low,14.0,0,Others,Married,291.41
+3793,0.1263,Low,4,Medium,,0,Mobile Phone,Single,121.53
+1029,0.1263,Low,2,Low,18.0,1,Others,Married,315.49
+3904,0.1261,Low,2,Low,15.0,1,Laptop & Accessory,Married,150.87
+3398,0.1261,Low,2,Low,15.0,1,Laptop & Accessory,Married,150.87
+1581,0.1257,Low,0,Low,4.0,0,Laptop & Accessory,Divorced,178.01
+124,0.1257,Low,0,Low,11.0,0,Laptop & Accessory,Married,199.24
+2402,0.1256,Low,0,Low,18.0,0,Grocery,Married,267.92
+131,0.1249,Low,3,Medium,26.0,0,Mobile Phone,Single,157.12
+1349,0.1248,Low,2,Low,11.0,1,Fashion,Married,177.56
+2251,0.1248,Low,0,Low,11.0,0,Laptop & Accessory,Married,165.53
+2225,0.1248,Low,2,Low,11.0,1,Fashion,Married,177.56
+2990,0.1248,Low,1,Low,4.0,0,Laptop & Accessory,Single,190.77
+912,0.1246,Low,3,Medium,,0,Mobile Phone,Married,122.67
+261,0.1245,Low,3,Medium,,0,Mobile Phone,Married,121.87
+2044,0.1245,Low,3,Medium,,0,Mobile Phone,Married,121.87
+2941,0.1241,Low,6,High,3.0,0,Mobile Phone,Single,164.83
+854,0.1239,Low,4,Medium,3.0,0,Mobile Phone,Divorced,152.0
+815,0.1238,Low,2,Low,18.0,1,Laptop & Accessory,Married,136.33
+3411,0.1236,Low,2,Low,25.0,1,Grocery,Divorced,232.47000000000003
+1403,0.1236,Low,1,Low,7.0,0,Laptop & Accessory,Single,161.25
+3115,0.1236,Low,1,Low,7.0,0,Laptop & Accessory,Single,161.25
+46,0.1236,Low,0,Low,4.0,0,Fashion,Married,197.64
+3535,0.1235,Low,1,Low,13.0,0,Grocery,Single,258.41
+1099,0.1235,Low,0,Low,29.0,0,Grocery,Divorced,211.03
+3648,0.1234,Low,1,Low,17.0,0,Mobile Phone,Divorced,147.58
+3171,0.1234,Low,0,Low,9.0,0,Fashion,Married,200.96
+3455,0.1233,Low,3,Medium,20.0,1,Grocery,Married,293.72
+3182,0.1233,Low,3,Medium,,0,Mobile Phone,Married,122.07
+827,0.123,Low,1,Low,20.0,0,Laptop & Accessory,Single,149.6
+1174,0.123,Low,2,Low,25.0,0,Mobile Phone,Single,132.12
+2533,0.123,Low,1,Low,20.0,0,Laptop & Accessory,Single,149.6
+1485,0.123,Low,4,Medium,,0,Mobile Phone,Single,121.53
+138,0.123,Low,0,Low,30.0,0,Others,Married,324.43
+2744,0.1228,Low,2,Low,17.0,0,Mobile Phone,Single,149.38
+1572,0.1228,Low,1,Low,7.0,0,Laptop & Accessory,Single,177.56
+1963,0.1227,Low,1,Low,12.0,0,Mobile Phone,Married,150.92
+1767,0.1227,Low,1,Low,12.0,0,Mobile Phone,Married,150.92
+226,0.1223,Low,0,Low,14.0,0,Laptop & Accessory,Married,208.96
+818,0.1222,Low,0,Low,9.0,0,Fashion,Married,180.08
+1287,0.1222,Low,0,Low,9.0,0,Fashion,Married,180.08
+3495,0.1219,Low,1,Low,12.0,0,Laptop & Accessory,Single,167.82
+662,0.1218,Low,4,Medium,3.0,0,Fashion,Single,184.74
+3775,0.1218,Low,0,Low,6.0,0,Laptop & Accessory,Married,199.98
+3829,0.1216,Low,1,Low,8.0,0,Fashion,Single,244.94
+612,0.1215,Low,2,Low,31.0,0,Mobile Phone,Divorced,146.77
+242,0.1215,Low,0,Low,20.0,0,Others,Divorced,315.81
+2022,0.1215,Low,2,Low,6.0,1,Laptop & Accessory,Divorced,165.78
+3831,0.1215,Low,1,Low,4.0,0,Mobile Phone,Married,157.04
+3703,0.1215,Low,4,Medium,2.0,0,Mobile Phone,Divorced,152.13
+2925,0.1213,Low,0,Low,4.0,0,Laptop & Accessory,Married,164.1
+3446,0.1213,Low,0,Low,13.0,0,Laptop & Accessory,Divorced,143.27
+382,0.1212,Low,1,Low,5.0,0,Laptop & Accessory,Divorced,189.1
+1231,0.1211,Low,1,Low,8.0,0,Laptop & Accessory,Married,0.0
+841,0.1211,Low,3,Medium,29.0,1,Mobile Phone,Married,142.57
+494,0.1211,Low,1,Low,30.0,0,Mobile Phone,Divorced,145.66
+407,0.121,Low,3,Medium,16.0,0,Mobile Phone,Single,124.55
+615,0.1208,Low,1,Low,16.0,0,Mobile Phone,Married,148.76
+2206,0.1208,Low,2,Low,31.0,1,Fashion,Married,219.39
+3711,0.1204,Low,0,Low,9.0,0,Laptop & Accessory,Divorced,156.47
+754,0.1203,Low,0,Low,13.0,0,Laptop & Accessory,Divorced,183.96
+2668,0.12,Low,0,Low,10.0,0,Laptop & Accessory,Married,193.42
+866,0.12,Low,0,Low,10.0,0,Laptop & Accessory,Married,193.42
+22,0.1199,Low,3,Medium,3.0,0,Laptop & Accessory,Married,153.01
+1132,0.1196,Low,0,Low,27.0,0,Fashion,Divorced,207.25
+3379,0.1192,Low,0,Low,9.0,0,Laptop & Accessory,Married,193.83
+1461,0.1192,Low,0,Low,9.0,0,Laptop & Accessory,Married,193.83
+489,0.1192,Low,0,Low,8.0,0,Fashion,Married,172.95
+3848,0.1192,Low,3,Medium,3.0,0,Laptop & Accessory,Divorced,146.27
+2987,0.119,Low,4,Medium,2.0,0,Laptop & Accessory,Single,161.6
+3151,0.1186,Low,1,Low,9.0,0,Mobile Phone,Divorced,149.04
+1392,0.1185,Low,3,Medium,5.0,0,Mobile Phone,Single,127.18
+467,0.1185,Low,1,Low,9.0,0,Mobile Phone,Married,149.04
+962,0.1185,Low,3,Medium,5.0,0,Mobile Phone,Single,127.18
+674,0.1184,Low,1,Low,18.0,0,Others,Single,280.61
+3520,0.1184,Low,0,Low,8.0,0,Laptop & Accessory,Divorced,190.0
+2880,0.1184,Low,2,Low,6.0,0,Mobile Phone,Divorced,127.56
+1203,0.1182,Low,3,Medium,,0,Mobile Phone,Married,120.89
+3828,0.1181,Low,4,Medium,3.0,0,Mobile Phone,Married,150.14
+2097,0.1179,Low,0,Low,8.0,0,Laptop & Accessory,Married,222.25
+2326,0.1177,Low,1,Low,9.0,0,Laptop & Accessory,Single,166.53
+797,0.1177,Low,2,Low,11.0,0,Mobile Phone,Single,161.29
+1994,0.1176,Low,1,Low,12.0,0,Laptop & Accessory,Single,149.06
+836,0.1173,Low,0,Low,14.0,0,Laptop & Accessory,Married,190.13
+1165,0.117,Low,0,Low,12.0,0,Fashion,Married,196.13
+425,0.1169,Low,0,Low,15.0,0,Fashion,Married,233.48
+258,0.1169,Low,0,Low,15.0,0,Fashion,Married,233.48
+851,0.1164,Low,0,Low,4.0,0,Laptop & Accessory,Divorced,169.32
+1350,0.1163,Low,1,Low,9.0,0,Laptop & Accessory,Single,166.53
+820,0.1162,Low,0,Low,31.0,0,Others,Married,320.66
+2665,0.1161,Low,3,Medium,,0,Mobile Phone,Married,120.07
+800,0.1161,Low,3,Medium,,0,Mobile Phone,Married,120.07
+16,0.116,Low,1,Low,10.0,0,Laptop & Accessory,Single,193.15
+1886,0.1159,Low,1,Low,9.0,0,Laptop & Accessory,Married,25.0
+3046,0.1158,Low,3,Medium,12.0,1,Fashion,Married,202.56
+2913,0.1158,Low,3,Medium,12.0,1,Fashion,Married,202.56
+3322,0.1157,Low,1,Low,18.0,0,Laptop & Accessory,Married,123.48
+3654,0.1157,Low,0,Low,9.0,0,Laptop & Accessory,Married,166.52
+2968,0.1157,Low,1,Low,18.0,0,Laptop & Accessory,Married,123.48
+1641,0.1156,Low,0,Low,10.0,0,Laptop & Accessory,Married,151.63
+2397,0.1156,Low,1,Low,20.0,0,Others,Single,314.47
+3518,0.1155,Low,0,Low,4.0,0,Laptop & Accessory,Married,166.15
+2310,0.1155,Low,0,Low,4.0,0,Laptop & Accessory,Married,166.15
+2695,0.1152,Low,0,Low,8.0,0,Laptop & Accessory,Married,222.25
+2405,0.1149,Low,3,Medium,26.0,0,Mobile Phone,Single,157.12
+2364,0.1138,Low,0,Low,15.0,0,Fashion,Divorced,208.92
+335,0.1136,Low,2,Low,16.0,0,Laptop & Accessory,Single,192.81
+3868,0.1134,Low,1,Low,13.0,0,Others,Single,319.31
+2853,0.1133,Low,2,Low,25.0,0,Mobile Phone,Single,132.12
+3578,0.1133,Low,2,Low,17.0,0,Mobile Phone,Single,134.2
+1621,0.1133,Low,2,Low,17.0,0,Mobile Phone,Single,134.2
+2578,0.1131,Low,2,Low,7.0,1,Laptop & Accessory,Married,181.03
+2419,0.1128,Low,0,Low,8.0,0,Fashion,Married,202.74
+2706,0.1128,Low,0,Low,8.0,0,Fashion,Married,202.74
+1070,0.1128,Low,0,Low,10.0,0,Laptop & Accessory,Married,165.02
+2519,0.1126,Low,4,Medium,3.0,0,Fashion,Married,244.35
+922,0.1125,Low,0,Low,13.0,0,Others,Married,294.36
+1189,0.1125,Low,0,Low,13.0,0,Others,Married,294.36
+3530,0.1124,Low,4,Medium,2.0,0,Mobile Phone,Married,132.91
+1989,0.1124,Low,4,Medium,2.0,0,Mobile Phone,Married,132.91
+1599,0.1123,Low,0,Low,19.0,0,Fashion,Married,205.27
+3909,0.1121,Low,2,Low,28.0,1,Laptop & Accessory,Married,179.85
+1674,0.1121,Low,2,Low,28.0,1,Laptop & Accessory,Married,179.85
+934,0.112,Low,0,Low,11.0,0,Laptop & Accessory,Divorced,189.47
+394,0.1115,Low,1,Low,17.0,0,Laptop & Accessory,Single,159.85
+3460,0.1115,Low,1,Low,17.0,0,Laptop & Accessory,Single,159.85
+530,0.1114,Low,1,Low,17.0,0,Fashion,Married,232.98
+1204,0.1113,Low,3,Medium,,0,Mobile Phone,Married,121.57
+1984,0.1112,Low,1,Low,7.0,0,Laptop & Accessory,Single,176.47
+843,0.1112,Low,1,Low,10.0,0,Laptop & Accessory,Single,141.07
+1408,0.1112,Low,1,Low,7.0,0,Laptop & Accessory,Single,176.47
+789,0.1111,Low,2,Low,10.0,0,Mobile Phone,Married,129.73
+657,0.1109,Low,0,Low,5.0,0,Laptop & Accessory,Married,140.87
+548,0.1106,Low,0,Low,16.0,0,Others,Divorced,317.32
+1102,0.1105,Low,2,Low,7.0,0,Laptop & Accessory,Single,147.59
+2882,0.1105,Low,1,Low,8.0,0,Mobile Phone,Married,154.96
+1191,0.1105,Low,1,Low,10.0,0,Laptop & Accessory,Single,191.53
+1901,0.1105,Low,2,Low,7.0,0,Laptop & Accessory,Single,147.59
+3191,0.1104,Low,3,Medium,3.0,0,Laptop & Accessory,Married,153.04
+384,0.1103,Low,5,High,3.0,1,Laptop & Accessory,Married,152.09
+2452,0.1102,Low,6,High,3.0,0,Mobile Phone,Single,125.64
+2088,0.1101,Low,0,Low,17.0,0,Laptop & Accessory,Divorced,147.68
+2518,0.1098,Low,0,Low,30.0,0,Grocery,Married,236.03
+61,0.1098,Low,6,High,3.0,0,Mobile Phone,Single,125.64
+3519,0.1098,Low,2,Low,11.0,1,Laptop & Accessory,Married,167.84
+1007,0.1098,Low,2,Low,11.0,1,Laptop & Accessory,Married,167.84
+2244,0.1097,Low,1,Low,10.0,0,Mobile Phone,Married,134.52
+3660,0.1097,Low,2,Low,10.0,1,Laptop & Accessory,Married,142.84
+3219,0.1094,Low,0,Low,22.0,0,Fashion,Married,174.03
+1787,0.1093,Low,0,Low,6.0,0,Laptop & Accessory,Divorced,199.98
+3103,0.1092,Low,3,Medium,26.0,1,Fashion,Divorced,204.69
+1743,0.1092,Low,1,Low,14.0,0,Grocery,Single,257.37
+3281,0.1092,Low,1,Low,26.0,0,Fashion,Single,229.45
+3818,0.109,Low,1,Low,22.0,0,Mobile Phone,Married,132.11
+2797,0.1087,Low,0,Low,10.0,0,Fashion,Married,205.08
+1521,0.1086,Low,2,Low,8.0,0,Mobile Phone,Married,124.26
+2871,0.1084,Low,2,Low,10.0,1,Laptop & Accessory,Married,180.62
+2740,0.1084,Low,2,Low,10.0,1,Laptop & Accessory,Married,180.62
+3500,0.1083,Low,1,Low,6.0,0,Fashion,Single,236.59
+887,0.108,Low,4,Medium,2.0,0,Laptop & Accessory,Divorced,191.74
+2028,0.1076,Low,1,Low,6.0,0,Mobile Phone,Married,131.43
+1771,0.1076,Low,2,Low,27.0,1,Laptop & Accessory,Married,154.85
+1190,0.1076,Low,1,Low,6.0,0,Mobile Phone,Married,131.43
+403,0.1075,Low,3,Medium,9.0,0,Mobile Phone,Married,127.41
+524,0.1075,Low,1,Low,10.0,0,Mobile Phone,Divorced,146.43
+2728,0.1075,Low,3,Medium,9.0,0,Mobile Phone,Married,127.41
+1695,0.1073,Low,1,Low,9.0,0,Laptop & Accessory,Single,169.25
+1069,0.1073,Low,1,Low,9.0,0,Laptop & Accessory,Single,169.25
+3304,0.1072,Low,4,Medium,2.0,0,Mobile Phone,Married,160.91
+2270,0.1071,Low,0,Low,6.0,0,Fashion,Married,171.19
+821,0.1069,Low,1,Low,19.0,0,Grocery,Divorced,292.92
+1368,0.1067,Low,1,Low,12.0,0,Laptop & Accessory,Single,167.82
+1789,0.1066,Low,1,Low,18.0,0,Grocery,Single,267.04
+1386,0.1066,Low,1,Low,18.0,0,Grocery,Single,267.04
+2226,0.1066,Low,1,Low,8.0,0,Mobile Phone,Married,154.96
+2738,0.1064,Low,2,Low,4.0,0,Mobile Phone,Married,151.13
+1298,0.1063,Low,3,Medium,,0,Mobile Phone,Married,122.58
+1197,0.1062,Low,1,Low,27.0,0,Fashion,Divorced,200.25
+3247,0.1062,Low,2,Low,10.0,0,Mobile Phone,Single,145.88
+2677,0.1062,Low,2,Low,10.0,0,Mobile Phone,Single,145.88
+2948,0.106,Low,2,Low,14.0,1,Laptop & Accessory,Married,154.67
+3880,0.106,Low,3,Medium,,0,Mobile Phone,Married,122.97
+2145,0.1059,Low,1,Low,18.0,0,Laptop & Accessory,Single,170.41
+3141,0.1058,Low,0,Low,5.0,0,Laptop & Accessory,Married,140.87
+2838,0.1056,Low,3,Medium,8.0,0,Mobile Phone,Married,129.77
+3130,0.1055,Low,1,Low,5.0,0,Laptop & Accessory,Married,189.1
+2839,0.1053,Low,2,Low,16.0,0,Laptop & Accessory,Single,192.81
+1435,0.1052,Low,1,Low,13.0,0,Grocery,Single,232.37
+3477,0.1052,Low,0,Low,20.0,0,Laptop & Accessory,Married,198.79
+521,0.1052,Low,1,Low,13.0,0,Grocery,Single,232.37
+3296,0.1051,Low,1,Low,20.0,0,Others,Married,312.89
+1275,0.1051,Low,1,Low,29.0,0,Others,Married,315.38
+63,0.1051,Low,2,Low,4.0,0,Mobile Phone,Married,129.11
+3748,0.105,Low,0,Low,15.0,0,Laptop & Accessory,Married,155.38
+1690,0.105,Low,0,Low,15.0,0,Laptop & Accessory,Married,155.38
+447,0.105,Low,0,Low,21.0,0,Laptop & Accessory,Married,174.78
+990,0.105,Low,1,Low,15.0,0,Mobile Phone,Married,148.41
+3656,0.105,Low,3,Medium,11.0,1,Laptop & Accessory,Married,191.94
+120,0.1049,Low,2,Low,5.0,0,Mobile Phone,Married,148.29
+5,0.1048,Low,1,Low,30.0,0,Others,Single,322.17
+747,0.1048,Low,1,Low,23.0,0,Laptop & Accessory,Single,170.07
+3799,0.1048,Low,1,Low,30.0,0,Others,Single,322.17
+3031,0.1046,Low,0,Low,12.0,0,Laptop & Accessory,Married,152.95
+51,0.1045,Low,4,Medium,3.0,0,Laptop & Accessory,Single,140.11
+173,0.1043,Low,3,Medium,8.0,1,Laptop & Accessory,Married,182.47
+91,0.1041,Low,2,Low,30.0,1,Fashion,Divorced,219.04
+2850,0.104,Low,1,Low,12.0,0,Fashion,Married,245.61
+53,0.104,Low,2,Low,16.0,1,Fashion,Married,226.24
+3732,0.104,Low,0,Low,24.0,0,Others,Married,320.17
+1319,0.104,Low,2,Low,16.0,1,Fashion,Married,226.24
+2068,0.1037,Low,0,Low,8.0,0,Laptop & Accessory,Married,190.38
+623,0.1034,Low,0,Low,22.0,0,Grocery,Married,231.2
+2047,0.1032,Low,0,Low,27.0,0,Fashion,Divorced,207.39
+3085,0.1031,Low,3,Medium,30.0,1,Laptop & Accessory,Married,156.6
+3939,0.1031,Low,3,Medium,30.0,1,Laptop & Accessory,Married,156.6
+2934,0.103,Low,0,Low,16.0,0,Others,Married,313.8
+94,0.103,Low,3,Medium,,0,Mobile Phone,Married,120.75
+1681,0.103,Low,2,Low,15.0,1,Laptop & Accessory,Divorced,152.31
+945,0.1029,Low,1,Low,23.0,0,Mobile Phone,Divorced,138.75
+3162,0.1029,Low,1,Low,10.0,0,Mobile Phone,Divorced,139.2
+2210,0.1028,Low,1,Low,8.0,0,Laptop & Accessory,Single,187.74
+2193,0.1027,Low,2,Low,8.0,0,Mobile Phone,Married,125.72
+3083,0.1025,Low,1,Low,11.0,0,Mobile Phone,Married,155.22
+2466,0.1025,Low,2,Low,16.0,1,Grocery,Divorced,303.61
+2394,0.1025,Low,2,Low,6.0,0,Mobile Phone,Married,148.32
+2203,0.1025,Low,2,Low,19.0,1,Laptop & Accessory,Divorced,161.33
+2075,0.1022,Low,2,Low,9.0,0,Mobile Phone,Married,149.3
+2577,0.102,Low,2,Low,8.0,1,Fashion,Married,203.77
+1777,0.1017,Low,3,Medium,,0,Mobile Phone,Married,120.01
+601,0.1017,Low,1,Low,4.0,0,Laptop & Accessory,Single,152.38
+3299,0.1016,Low,2,Low,30.0,1,Others,Married,297.01
+3108,0.1015,Low,0,Low,5.0,0,Laptop & Accessory,Divorced,192.04
+503,0.1012,Low,1,Low,17.0,0,Grocery,Married,301.03
+325,0.1012,Low,1,Low,17.0,0,Grocery,Married,301.03
+2308,0.1011,Low,1,Low,9.0,0,Fashion,Single,227.21
+1685,0.1011,Low,1,Low,9.0,0,Fashion,Single,227.21
+2055,0.101,Low,1,Low,6.0,0,Laptop & Accessory,Single,175.55
+3927,0.1008,Low,1,Low,15.0,0,Laptop & Accessory,Single,167.81
+2842,0.1007,Low,2,Low,28.0,1,Others,Married,296.36
+1638,0.1005,Low,2,Low,11.0,0,Mobile Phone,Divorced,126.84
+1967,0.1004,Low,3,Medium,17.0,1,Grocery,Married,291.27
+855,0.1003,Low,1,Low,11.0,0,Laptop & Accessory,Married,188.34
+1999,0.1002,Low,0,Low,9.0,0,Laptop & Accessory,Married,156.74
+402,0.1001,Low,1,Low,13.0,0,Mobile Phone,Married,133.77
+2854,0.1001,Low,1,Low,4.0,0,Mobile Phone,Married,137.74
+786,0.1,Low,1,Low,21.0,0,Fashion,Single,211.33
+1152,0.0999,Low,2,Low,9.0,0,Mobile Phone,Single,168.23
+3131,0.0999,Low,2,Low,9.0,0,Mobile Phone,Single,168.23
+646,0.0998,Low,0,Low,12.0,0,Laptop & Accessory,Divorced,187.61
+957,0.0997,Low,2,Low,16.0,1,Laptop & Accessory,Married,175.87
+3523,0.0997,Low,2,Low,14.0,0,Laptop & Accessory,Single,161.51
+1076,0.0997,Low,2,Low,14.0,0,Laptop & Accessory,Single,161.51
+778,0.0997,Low,2,Low,24.0,1,Others,Divorced,317.37
+2407,0.0995,Low,2,Low,14.0,1,Laptop & Accessory,Married,152.41
+1816,0.0993,Low,1,Low,21.0,0,Laptop & Accessory,Single,142.4
+2065,0.0993,Low,1,Low,21.0,0,Laptop & Accessory,Single,142.4
+1751,0.0993,Low,2,Low,17.0,1,Grocery,Married,233.2
+1758,0.0993,Low,2,Low,24.0,0,Mobile Phone,Married,127.23
+375,0.0993,Low,1,Low,21.0,0,Laptop & Accessory,Single,174.6
+691,0.0991,Low,1,Low,10.0,0,Laptop & Accessory,Single,191.53
+3745,0.0991,Low,2,Low,8.0,1,Fashion,Married,222.13
+85,0.0991,Low,2,Low,8.0,1,Fashion,Married,222.13
+3129,0.0989,Low,0,Low,17.0,0,Fashion,Married,233.2
+3836,0.0988,Low,1,Low,12.0,0,Mobile Phone,Divorced,153.21
+1232,0.0987,Low,3,Medium,,0,Mobile Phone,Married,122.44
+767,0.0987,Low,2,Low,11.0,1,Fashion,Married,187.4
+2468,0.0987,Low,0,Low,13.0,0,Laptop & Accessory,Married,188.89
+2138,0.0986,Low,3,Medium,3.0,0,Laptop & Accessory,Married,178.73
+2286,0.0986,Low,0,Low,5.0,0,Fashion,Married,232.93
+326,0.0985,Low,3,Medium,11.0,1,Laptop & Accessory,Married,153.29
+152,0.0985,Low,0,Low,8.0,0,Laptop & Accessory,Divorced,190.38
+2331,0.0984,Low,0,Low,31.0,0,Laptop & Accessory,Married,192.55
+523,0.0983,Low,0,Low,12.0,0,Fashion,Married,231.09
+2998,0.0982,Low,0,Low,12.0,0,Laptop & Accessory,Married,193.93
+104,0.0982,Low,3,Medium,14.0,1,Laptop & Accessory,Married,199.57
+1172,0.098,Low,0,Low,16.0,0,Fashion,Married,208.2
+1719,0.0979,Low,2,Low,4.0,0,Mobile Phone,Married,163.33
+1134,0.0979,Low,1,Low,15.0,0,Laptop & Accessory,Single,167.81
+2624,0.0976,Low,2,Low,14.0,0,Mobile Phone,Married,127.82
+1313,0.0976,Low,0,Low,19.0,0,Fashion,Married,193.96
+1896,0.0976,Low,0,Low,19.0,0,Fashion,Married,193.96
+1399,0.0975,Low,0,Low,5.0,0,Laptop & Accessory,Married,208.46
+70,0.0975,Low,0,Low,5.0,0,Laptop & Accessory,Married,208.46
+2503,0.0972,Low,2,Low,26.0,0,Laptop & Accessory,Single,124.5
+2937,0.097,Low,3,Medium,13.0,0,Mobile Phone,Single,128.09
+1456,0.097,Low,1,Low,10.0,0,Laptop & Accessory,Single,202.79
+2169,0.0969,Low,2,Low,28.0,0,Mobile Phone,Married,126.62
+3874,0.0969,Low,2,Low,28.0,0,Mobile Phone,Married,126.62
+2090,0.0968,Low,2,Low,19.0,0,Grocery,Single,292.04
+2478,0.0968,Low,2,Low,19.0,0,Grocery,Single,292.04
+3049,0.0965,Low,1,Low,30.0,0,Laptop & Accessory,Single,154.73
+505,0.0964,Low,0,Low,5.0,0,Fashion,Married,221.37
+1366,0.0964,Low,0,Low,20.0,0,Laptop & Accessory,Married,198.79
+2390,0.0963,Low,0,Low,4.0,0,Fashion,Married,206.48
+2398,0.0963,Low,0,Low,4.0,0,Fashion,Married,206.48
+1554,0.0961,Low,2,Low,15.0,0,Laptop & Accessory,Single,186.51
+3080,0.0959,Low,3,Medium,3.0,0,Laptop & Accessory,Married,146.27
+1862,0.0959,Low,1,Low,13.0,0,Laptop & Accessory,Married,182.36
+2879,0.0959,Low,3,Medium,13.0,1,Laptop & Accessory,Married,186.2
+250,0.0957,Low,2,Low,24.0,0,Fashion,Single,229.96
+1310,0.0957,Low,2,Low,6.0,0,Mobile Phone,Divorced,152.43
+2023,0.0956,Low,0,Low,14.0,0,Laptop & Accessory,Married,182.15
+3385,0.0956,Low,0,Low,14.0,0,Laptop & Accessory,Married,182.15
+1894,0.0956,Low,5,High,2.0,1,Laptop & Accessory,Married,141.87
+3003,0.0955,Low,0,Low,13.0,0,Laptop & Accessory,Divorced,148.76
+2689,0.0954,Low,0,Low,11.0,0,Laptop & Accessory,Divorced,165.53
+1716,0.0954,Low,3,Medium,8.0,0,Mobile Phone,Single,128.59
+125,0.0953,Low,0,Low,6.0,0,Grocery,Married,261.84
+1405,0.0952,Low,1,Low,19.0,0,Others,Single,305.61
+541,0.0952,Low,1,Low,19.0,0,Others,Single,305.61
+3754,0.0951,Low,3,Medium,,0,Mobile Phone,Married,122.58
+3642,0.0951,Low,5,High,2.0,0,Mobile Phone,Married,156.96
+362,0.0949,Low,2,Low,14.0,1,Laptop & Accessory,Married,165.69
+1082,0.0949,Low,3,Medium,,0,Mobile Phone,Married,122.69
+1840,0.0949,Low,2,Low,14.0,1,Laptop & Accessory,Married,165.69
+3617,0.0948,Low,0,Low,19.0,0,Grocery,Divorced,301.5
+2890,0.0946,Low,1,Low,8.0,0,Laptop & Accessory,Single,187.74
+1472,0.0945,Low,3,Medium,,0,Mobile Phone,Married,120.97
+2306,0.0944,Low,1,Low,11.0,0,Laptop & Accessory,Single,186.86
+726,0.0944,Low,0,Low,9.0,0,Fashion,Married,215.69
+2905,0.0943,Low,5,High,2.0,0,Mobile Phone,Single,139.83
+1903,0.0942,Low,2,Low,12.0,0,Mobile Phone,Married,149.68
+1893,0.0942,Low,3,Medium,9.0,1,Fashion,Married,202.52
+1045,0.0942,Low,0,Low,6.0,0,Grocery,Married,261.84
+2844,0.0942,Low,2,Low,12.0,0,Mobile Phone,Married,149.68
+2188,0.0941,Low,0,Low,16.0,0,Fashion,Married,258.48
+3423,0.0941,Low,0,Low,16.0,0,Fashion,Married,258.48
+3326,0.094,Low,0,Low,11.0,0,Laptop & Accessory,Divorced,162.61
+2902,0.0939,Low,1,Low,12.0,0,Fashion,Single,178.8
+2673,0.0939,Low,1,Low,12.0,0,Fashion,Single,178.8
+307,0.0937,Low,0,Low,19.0,0,Laptop & Accessory,Divorced,189.34
+2594,0.0936,Low,1,Low,17.0,0,Laptop & Accessory,Single,145.41
+197,0.0936,Low,2,Low,11.0,0,Mobile Phone,Divorced,164.2
+2392,0.0934,Low,1,Low,6.0,0,Mobile Phone,Married,153.27
+87,0.0933,Low,1,Low,11.0,0,Laptop & Accessory,Single,141.98
+1838,0.0931,Low,0,Low,19.0,0,Others,Married,296.27
+2432,0.0931,Low,3,Medium,,0,Mobile Phone,Married,120.7
+3069,0.093,Low,0,Low,19.0,0,Others,Married,296.27
+3542,0.0929,Low,1,Low,24.0,0,Mobile Phone,Married,163.75
+264,0.0929,Low,3,Medium,2.0,0,Laptop & Accessory,Married,167.21
+1477,0.0928,Low,1,Low,11.0,0,Laptop & Accessory,Single,166.07
+2325,0.0928,Low,1,Low,11.0,0,Laptop & Accessory,Single,166.07
+3183,0.0924,Low,0,Low,7.0,0,Laptop & Accessory,Divorced,144.9
+2769,0.0922,Low,2,Low,12.0,0,Laptop & Accessory,Single,165.28
+1580,0.092,Low,1,Low,13.0,0,Fashion,Single,208.76
+2038,0.0919,Low,1,Low,10.0,0,Fashion,Single,174.91
+378,0.0918,Low,1,Low,13.0,0,Fashion,Single,234.99
+2550,0.0918,Low,2,Low,8.0,1,Laptop & Accessory,Divorced,140.14
+3204,0.0918,Low,2,Low,18.0,0,Laptop & Accessory,Single,166.32
+1910,0.0918,Low,1,Low,31.0,0,Fashion,Married,233.83
+1922,0.0918,Low,2,Low,18.0,0,Laptop & Accessory,Single,166.32
+328,0.0917,Low,1,Low,6.0,0,Laptop & Accessory,Married,183.78
+3250,0.0914,Low,2,Low,9.0,0,Mobile Phone,Married,152.05
+56,0.0913,Low,0,Low,8.0,0,Laptop & Accessory,Married,179.84
+3332,0.0912,Low,3,Medium,9.0,1,Fashion,Married,202.52
+1351,0.0911,Low,0,Low,10.0,0,Laptop & Accessory,Married,163.34
+3361,0.0911,Low,0,Low,10.0,0,Laptop & Accessory,Married,163.34
+1470,0.0909,Low,1,Low,10.0,0,Mobile Phone,Married,153.35
+111,0.0908,Low,3,Medium,24.0,0,Mobile Phone,Single,128.38
+1487,0.0908,Low,3,Medium,24.0,0,Mobile Phone,Single,128.38
+3435,0.0908,Low,0,Low,8.0,0,Laptop & Accessory,Divorced,153.63
+3712,0.0904,Low,1,Low,5.0,0,Laptop & Accessory,Single,150.55
+3301,0.0903,Low,0,Low,6.0,0,Laptop & Accessory,Divorced,143.73
+1812,0.0903,Low,2,Low,9.0,0,Mobile Phone,Married,128.35
+544,0.09,Low,2,Low,24.0,1,Others,Married,306.72
+707,0.0898,Low,2,Low,24.0,1,Others,Married,298.47
+1038,0.0898,Low,2,Low,24.0,1,Others,Married,298.47
+454,0.0897,Low,0,Low,15.0,0,Grocery,Married,235.25
+3853,0.0896,Low,2,Low,15.0,1,Laptop & Accessory,Married,179.67
+1379,0.0896,Low,2,Low,7.0,0,Mobile Phone,Married,145.08
+2429,0.0895,Low,2,Low,26.0,0,Laptop & Accessory,Single,124.5
+3876,0.0895,Low,0,Low,18.0,0,Others,Married,292.02
+677,0.0894,Low,2,Low,15.0,0,Mobile Phone,Married,127.66
+2365,0.0894,Low,0,Low,4.0,0,Laptop & Accessory,Married,172.79
+1553,0.0894,Low,2,Low,15.0,0,Mobile Phone,Married,127.66
+2213,0.0894,Low,0,Low,4.0,0,Laptop & Accessory,Married,172.79
+3005,0.0892,Low,0,Low,28.0,0,Fashion,Divorced,209.76
+616,0.0891,Low,2,Low,25.0,0,Fashion,Single,199.84
+862,0.0891,Low,2,Low,9.0,1,Laptop & Accessory,Married,188.47
+712,0.0891,Low,0,Low,24.0,0,Others,Married,320.17
+1035,0.0891,Low,2,Low,9.0,1,Laptop & Accessory,Married,188.47
+1072,0.0891,Low,0,Low,25.0,0,Others,Married,299.99
+1398,0.089,Low,2,Low,10.0,0,Mobile Phone,Married,148.42
+1103,0.0889,Low,0,Low,19.0,0,Laptop & Accessory,Divorced,152.58
+988,0.0889,Low,0,Low,19.0,0,Others,Divorced,290.81
+514,0.0888,Low,1,Low,8.0,0,Laptop & Accessory,Single,165.33
+2761,0.0888,Low,1,Low,8.0,0,Laptop & Accessory,Single,165.33
+2955,0.0887,Low,2,Low,23.0,1,Others,Married,287.4
+2371,0.0886,Low,1,Low,9.0,0,Laptop & Accessory,Single,144.85
+2655,0.0886,Low,5,High,2.0,0,Mobile Phone,Single,139.83
+2123,0.0886,Low,1,Low,9.0,0,Laptop & Accessory,Single,144.85
+1413,0.0886,Low,0,Low,14.0,0,Others,Divorced,291.89
+2915,0.0884,Low,3,Medium,8.0,1,Laptop & Accessory,Married,206.03
+2587,0.0884,Low,2,Low,4.0,1,Fashion,Married,198.52
+1768,0.0883,Low,0,Low,15.0,0,Others,Married,284.3
+1542,0.0882,Low,5,High,3.0,0,Mobile Phone,Divorced,138.33
+3695,0.0881,Low,1,Low,8.0,0,Mobile Phone,Married,145.08
+1071,0.0881,Low,1,Low,8.0,0,Mobile Phone,Married,145.08
+417,0.0881,Low,2,Low,4.0,0,Mobile Phone,Single,151.32
+1010,0.088,Low,0,Low,7.0,0,Laptop & Accessory,Divorced,165.0
+908,0.088,Low,3,Medium,11.0,1,Laptop & Accessory,Married,154.05
+880,0.0879,Low,1,Low,10.0,0,Laptop & Accessory,Single,202.79
+2699,0.0879,Low,0,Low,20.0,0,Others,Married,315.81
+122,0.0878,Low,5,High,3.0,0,Mobile Phone,Married,152.2
+310,0.0878,Low,1,Low,16.0,0,Mobile Phone,Married,145.93
+3714,0.0878,Low,0,Low,8.0,0,Laptop & Accessory,Married,147.17
+3664,0.0876,Low,2,Low,17.0,1,Laptop & Accessory,Married,157.43
+392,0.0875,Low,1,Low,27.0,0,Laptop & Accessory,Single,149.5
+3511,0.0874,Low,1,Low,10.0,0,Mobile Phone,Married,130.34
+1818,0.0874,Low,1,Low,19.0,0,Others,Single,289.47
+2852,0.0873,Low,0,Low,5.0,0,Laptop & Accessory,Divorced,194.29
+654,0.0873,Low,0,Low,9.0,0,Fashion,Married,175.96
+3034,0.0873,Low,2,Low,23.0,0,Fashion,Single,234.65
+3470,0.0872,Low,2,Low,19.0,1,Fashion,Married,206.73
+2754,0.0871,Low,1,Low,14.0,0,Fashion,Single,259.99
+2536,0.0871,Low,1,Low,14.0,0,Fashion,Single,259.99
+687,0.087,Low,3,Medium,,0,Mobile Phone,Married,122.31
+3089,0.087,Low,1,Low,14.0,0,Laptop & Accessory,Single,168.7
+3387,0.0869,Low,2,Low,9.0,0,Mobile Phone,Divorced,137.81
+3851,0.0869,Low,4,Medium,3.0,0,Mobile Phone,Divorced,156.8
+2768,0.0869,Low,3,Medium,4.0,0,Mobile Phone,Single,147.06
+2276,0.0869,Low,2,Low,19.0,1,Laptop & Accessory,Married,161.33
+824,0.0867,Low,2,Low,27.0,1,Laptop & Accessory,Married,148.06
+430,0.0867,Low,1,Low,5.0,0,Laptop & Accessory,Single,150.1
+2473,0.0866,Low,6,High,3.0,1,Laptop & Accessory,Married,166.87
+3043,0.0866,Low,1,Low,10.0,0,Laptop & Accessory,Married,181.47
+2366,0.0864,Low,0,Low,14.0,0,Others,Married,291.89
+3630,0.0864,Low,2,Low,12.0,0,Laptop & Accessory,Single,165.28
+213,0.0863,Low,0,Low,20.0,0,Others,Married,296.58
+3059,0.0863,Low,0,Low,20.0,0,Others,Married,296.58
+2076,0.0863,Low,0,Low,7.0,0,Laptop & Accessory,Married,144.44
+1944,0.0862,Low,0,Low,26.0,0,Laptop & Accessory,Divorced,156.49
+2010,0.0862,Low,2,Low,5.0,1,Laptop & Accessory,Divorced,152.28
+3531,0.0861,Low,4,Medium,2.0,0,Laptop & Accessory,Married,172.24
+3525,0.0861,Low,2,Low,11.0,1,Fashion,Married,262.44
+943,0.0861,Low,1,Low,27.0,0,Laptop & Accessory,Single,208.81
+33,0.0861,Low,2,Low,11.0,1,Fashion,Married,262.44
+1509,0.086,Low,3,Medium,8.0,1,Fashion,Married,195.83
+955,0.086,Low,2,Low,28.0,1,Laptop & Accessory,Divorced,140.35
+2949,0.0859,Low,1,Low,19.0,0,Mobile Phone,Married,151.54
+2560,0.0858,Low,2,Low,9.0,0,Laptop & Accessory,Single,168.12
+3564,0.0858,Low,2,Low,24.0,0,Fashion,Single,229.96
+3348,0.0858,Low,1,Low,27.0,0,Laptop & Accessory,Single,149.5
+3062,0.0857,Low,4,Medium,2.0,0,Mobile Phone,Married,160.91
+3568,0.0857,Low,0,Low,10.0,0,Laptop & Accessory,Divorced,181.74
+1923,0.0856,Low,0,Low,18.0,0,Laptop & Accessory,Married,143.85
+838,0.0856,Low,0,Low,18.0,0,Laptop & Accessory,Married,143.85
+688,0.0856,Low,4,Medium,2.0,0,Laptop & Accessory,Single,177.53
+2030,0.0853,Low,2,Low,16.0,0,Laptop & Accessory,Single,168.32
+3841,0.0852,Low,0,Low,12.0,0,Others,Divorced,292.72
+3641,0.0852,Low,2,Low,25.0,1,Fashion,Divorced,179.69
+2120,0.0852,Low,2,Low,7.0,1,Laptop & Accessory,Married,179.88
+3907,0.0851,Low,1,Low,15.0,0,Laptop & Accessory,Single,151.55
+1912,0.085,Low,0,Low,5.0,0,Laptop & Accessory,Married,200.47
+894,0.0848,Low,1,Low,8.0,0,Laptop & Accessory,Single,144.25
+193,0.0848,Low,4,Medium,31.0,1,Grocery,Single,262.26
+3941,0.0848,Low,3,Medium,2.0,0,Laptop & Accessory,Married,153.73
+2197,0.0848,Low,1,Low,8.0,0,Laptop & Accessory,Single,144.25
+3388,0.0846,Low,3,Medium,19.0,1,Grocery,Married,268.72
+639,0.0846,Low,3,Medium,25.0,0,Mobile Phone,Single,153.38
+225,0.0846,Low,3,Medium,25.0,0,Mobile Phone,Single,153.38
+882,0.0844,Low,1,Low,9.0,0,Laptop & Accessory,Single,173.59
+1915,0.0844,Low,1,Low,9.0,0,Laptop & Accessory,Single,173.59
+1988,0.0843,Low,2,Low,17.0,1,Fashion,Married,178.79
+1830,0.0843,Low,2,Low,17.0,1,Fashion,Married,178.79
+1718,0.0842,Low,2,Low,4.0,0,Mobile Phone,Divorced,127.91
+1031,0.0842,Low,2,Low,9.0,0,Mobile Phone,Married,147.58
+1407,0.0842,Low,0,Low,12.0,0,Laptop & Accessory,Divorced,152.04
+833,0.084,Low,1,Low,20.0,0,Mobile Phone,Married,134.2
+3487,0.0838,Low,1,Low,11.0,0,Mobile Phone,Married,159.52
+3207,0.0837,Low,0,Low,5.0,0,Laptop & Accessory,Divorced,144.65
+3777,0.0835,Low,1,Low,14.0,0,Mobile Phone,Married,158.77
+1941,0.0835,Low,1,Low,14.0,0,Mobile Phone,Married,158.77
+2420,0.0834,Low,1,Low,17.0,0,Laptop & Accessory,Single,145.41
+1338,0.0834,Low,2,Low,23.0,1,Others,Married,293.31
+2087,0.0834,Low,1,Low,13.0,0,Laptop & Accessory,Single,166.08
+2175,0.0832,Low,0,Low,28.0,0,Others,Married,295.86
+207,0.0832,Low,4,Medium,2.0,0,Mobile Phone,Married,153.56
+2152,0.0829,Low,2,Low,9.0,0,Mobile Phone,Married,137.81
+2157,0.0828,Low,1,Low,12.0,0,Laptop & Accessory,Single,141.08
+1062,0.0828,Low,1,Low,12.0,0,Laptop & Accessory,Single,141.08
+248,0.0828,Low,0,Low,25.0,0,Laptop & Accessory,Divorced,131.49
+1860,0.0825,Low,1,Low,8.0,0,Fashion,Single,180.95
+803,0.0825,Low,1,Low,8.0,0,Fashion,Single,180.95
+1530,0.0825,Low,2,Low,23.0,1,Grocery,Divorced,268.8
+1107,0.0824,Low,2,Low,10.0,1,Laptop & Accessory,Married,166.94
+2774,0.0824,Low,0,Low,10.0,0,Laptop & Accessory,Married,174.41
+618,0.0824,Low,0,Low,4.0,0,Laptop & Accessory,Married,175.47
+2339,0.0824,Low,2,Low,8.0,0,Mobile Phone,Married,157.94
+194,0.0823,Low,0,Low,16.0,0,Laptop & Accessory,Married,147.65
+2870,0.0822,Low,2,Low,10.0,0,Mobile Phone,Single,171.78
+3602,0.0822,Low,0,Low,18.0,0,Laptop & Accessory,Married,145.42
+1735,0.0821,Low,1,Low,26.0,0,Mobile Phone,Married,159.82
+2718,0.0821,Low,1,Low,26.0,0,Mobile Phone,Married,159.82
+2073,0.082,Low,3,Medium,18.0,0,Mobile Phone,Single,156.62
+1765,0.082,Low,3,Medium,18.0,0,Mobile Phone,Single,156.62
+1489,0.0819,Low,2,Low,11.0,1,Laptop & Accessory,Married,184.74
+3837,0.0815,Low,0,Low,28.0,0,Fashion,Married,230.02
+3902,0.0815,Low,1,Low,13.0,0,Mobile Phone,Married,147.32
+3147,0.0813,Low,0,Low,9.0,0,Laptop & Accessory,Divorced,172.17
+2330,0.0812,Low,3,Medium,20.0,1,Laptop & Accessory,Single,141.63
+401,0.0812,Low,3,Medium,14.0,0,Mobile Phone,Single,153.09
+3394,0.0812,Low,3,Medium,14.0,0,Mobile Phone,Single,153.09
+2812,0.0811,Low,1,Low,10.0,0,Laptop & Accessory,Married,191.52
+267,0.0811,Low,1,Low,10.0,0,Laptop & Accessory,Married,191.52
+570,0.0811,Low,0,Low,22.0,0,Laptop & Accessory,Divorced,147.89
+3212,0.081,Low,0,Low,7.0,0,Laptop & Accessory,Married,202.25
+3717,0.081,Low,0,Low,23.0,0,Others,Married,316.61
+1979,0.081,Low,0,Low,23.0,0,Others,Married,316.61
+3864,0.081,Low,1,Low,15.0,0,Laptop & Accessory,Married,189.3
+1265,0.081,Low,1,Low,15.0,0,Laptop & Accessory,Married,189.3
+2917,0.0809,Low,0,Low,18.0,0,Fashion,Married,152.1
+1346,0.0809,Low,0,Low,18.0,0,Fashion,Married,152.1
+3351,0.0807,Low,3,Medium,,0,Mobile Phone,Married,122.32
+1404,0.0807,Low,3,Medium,,0,Mobile Phone,Married,122.32
+1731,0.0807,Low,0,Low,19.0,0,Laptop & Accessory,Married,148.48
+476,0.0806,Low,1,Low,4.0,0,Mobile Phone,Married,149.76
+2886,0.0803,Low,1,Low,19.0,0,Mobile Phone,Married,146.32
+2501,0.0801,Low,3,Medium,20.0,1,Laptop & Accessory,Single,141.63
+705,0.08,Low,1,Low,10.0,0,Fashion,Married,200.96
+3284,0.08,Low,0,Low,11.0,0,Laptop & Accessory,Divorced,190.02
+1507,0.08,Low,1,Low,26.0,0,Fashion,Single,229.45
+3838,0.0798,Low,2,Low,17.0,1,Laptop & Accessory,Married,181.79
+1795,0.0798,Low,0,Low,13.0,0,Laptop & Accessory,Married,177.95
+1591,0.0798,Low,0,Low,13.0,0,Laptop & Accessory,Married,177.95
+1565,0.0798,Low,2,Low,17.0,1,Laptop & Accessory,Married,181.79
+1247,0.0797,Low,1,Low,11.0,0,Laptop & Accessory,Married,176.63
+611,0.0797,Low,3,Medium,,0,Mobile Phone,Married,120.14
+926,0.0796,Low,1,Low,5.0,0,Laptop & Accessory,Single,150.55
+765,0.0794,Low,2,Low,10.0,1,Laptop & Accessory,Divorced,190.86
+2815,0.0794,Low,2,Low,16.0,0,Mobile Phone,Married,173.41
+3479,0.0794,Low,2,Low,16.0,0,Mobile Phone,Married,173.41
+870,0.0793,Low,0,Low,10.0,0,Laptop & Accessory,Married,176.31
+3300,0.0793,Low,1,Low,8.0,0,Laptop & Accessory,Married,192.12
+3684,0.0793,Low,0,Low,10.0,0,Laptop & Accessory,Married,176.31
+1138,0.0793,Low,2,Low,11.0,0,Mobile Phone,Divorced,128.44
+2459,0.0792,Low,1,Low,7.0,0,Mobile Phone,Married,145.28
+1843,0.0792,Low,1,Low,7.0,0,Mobile Phone,Married,145.28
+2648,0.0792,Low,0,Low,13.0,0,Laptop & Accessory,Married,183.96
+3042,0.0792,Low,1,Low,8.0,0,Fashion,Single,187.89
+2037,0.0791,Low,0,Low,16.0,0,Grocery,Married,243.36
+3650,0.0791,Low,0,Low,22.0,0,Laptop & Accessory,Married,206.2
+302,0.079,Low,0,Low,19.0,0,Laptop & Accessory,Married,152.58
+347,0.079,Low,1,Low,25.0,0,Mobile Phone,Divorced,152.23
+49,0.0789,Low,1,Low,24.0,0,Fashion,Single,174.84
+1455,0.0789,Low,1,Low,14.0,0,Mobile Phone,Married,148.87
+2726,0.0788,Low,4,Medium,3.0,0,Mobile Phone,Divorced,146.57
+1317,0.0787,Low,0,Low,21.0,0,Laptop & Accessory,Married,175.7
+3734,0.0786,Low,1,Low,17.0,0,Fashion,Married,259.0
+2109,0.0784,Low,1,Low,15.0,0,Mobile Phone,Married,152.82
+715,0.0783,Low,0,Low,8.0,0,Laptop & Accessory,Married,153.63
+2557,0.0783,Low,1,Low,31.0,0,Fashion,Married,233.83
+889,0.0783,Low,1,Low,4.0,0,Laptop & Accessory,Divorced,190.78
+2517,0.0782,Low,0,Low,27.0,0,Fashion,Married,207.39
+1526,0.0782,Low,1,Low,15.0,0,Laptop & Accessory,Single,187.3
+1124,0.0782,Low,0,Low,22.0,0,Laptop & Accessory,Divorced,206.2
+582,0.0781,Low,0,Low,13.0,0,Others,Divorced,290.33
+665,0.0779,Low,0,Low,15.0,0,Laptop & Accessory,Divorced,145.23
+121,0.0779,Low,5,High,2.0,0,Mobile Phone,Married,174.36
+538,0.0779,Low,0,Low,16.0,0,Others,Divorced,308.03
+2281,0.0778,Low,2,Low,30.0,1,Grocery,Divorced,259.02
+1467,0.0776,Low,1,Low,9.0,0,Fashion,Single,212.89
+2563,0.0776,Low,1,Low,9.0,0,Fashion,Single,212.89
+3430,0.0776,Low,0,Low,8.0,0,Laptop & Accessory,Married,176.21
+2770,0.0776,Low,0,Low,8.0,0,Laptop & Accessory,Married,176.21
+3532,0.0775,Low,4,Medium,31.0,1,Grocery,Single,262.26
+1,0.0775,Low,1,Low,15.0,0,Laptop & Accessory,Single,143.32
+3086,0.0775,Low,0,Low,6.0,0,Laptop & Accessory,Divorced,176.75
+2526,0.0774,Low,1,Low,9.0,0,Laptop & Accessory,Single,159.14
+1981,0.0774,Low,1,Low,15.0,0,Fashion,Single,217.41
+2015,0.0774,Low,2,Low,7.0,1,Fashion,Married,197.13
+1791,0.0774,Low,0,Low,19.0,0,Laptop & Accessory,Married,176.54
+1835,0.0774,Low,0,Low,19.0,0,Laptop & Accessory,Married,176.54
+3358,0.0774,Low,2,Low,7.0,1,Fashion,Married,197.13
+73,0.0774,Low,1,Low,15.0,0,Fashion,Single,217.41
+2992,0.0774,Low,2,Low,17.0,1,Others,Married,295.13
+1235,0.0772,Low,3,Medium,12.0,0,Mobile Phone,Single,149.4
+3563,0.0772,Low,3,Medium,12.0,0,Mobile Phone,Single,149.4
+126,0.0769,Low,5,High,2.0,0,Mobile Phone,Married,174.36
+2198,0.0769,Low,0,Low,6.0,0,Laptop & Accessory,Divorced,192.25
+694,0.0768,Low,0,Low,10.0,0,Laptop & Accessory,Married,178.47
+528,0.0768,Low,1,Low,6.0,0,Mobile Phone,Divorced,164.31
+180,0.0768,Low,0,Low,10.0,0,Laptop & Accessory,Married,178.47
+1135,0.0768,Low,2,Low,5.0,1,Laptop & Accessory,Married,140.78
+2725,0.0768,Low,0,Low,21.0,0,Fashion,Married,244.57
+670,0.0768,Low,2,Low,23.0,1,Grocery,Married,268.8
+3274,0.0767,Low,2,Low,6.0,1,Laptop & Accessory,Divorced,188.22
+10,0.0766,Low,2,Low,17.0,1,Laptop & Accessory,Married,157.43
+3559,0.0766,Low,0,Low,22.0,0,Laptop & Accessory,Married,189.39
+1145,0.0764,Low,4,Medium,3.0,0,Laptop & Accessory,Single,165.77
+3803,0.0764,Low,0,Low,5.0,0,Laptop & Accessory,Married,192.04
+3420,0.0764,Low,4,Medium,3.0,0,Laptop & Accessory,Single,165.77
+3551,0.0763,Low,0,Low,16.0,0,Fashion,Married,234.0
+1762,0.076,Low,0,Low,20.0,0,Fashion,Married,219.57
+2102,0.0759,Low,4,Medium,2.0,0,Laptop & Accessory,Single,145.54
+804,0.0758,Low,3,Medium,,0,Mobile Phone,Married,122.26
+3366,0.0758,Low,3,Medium,,0,Mobile Phone,Married,122.26
+2336,0.0755,Low,2,Low,5.0,0,Mobile Phone,Married,123.14
+3796,0.0755,Low,1,Low,8.0,0,Laptop & Accessory,Divorced,184.57
+3328,0.0755,Low,0,Low,6.0,0,Laptop & Accessory,Married,191.67
+2104,0.0754,Low,3,Medium,2.0,0,Laptop & Accessory,Married,170.58
+598,0.0754,Low,2,Low,11.0,1,Laptop & Accessory,Married,184.74
+1721,0.0754,Low,3,Medium,2.0,0,Laptop & Accessory,Married,146.49
+1887,0.0754,Low,1,Low,11.0,0,Fashion,Single,261.64
+2731,0.0754,Low,3,Medium,2.0,0,Laptop & Accessory,Married,170.58
+1048,0.0753,Low,1,Low,12.0,0,Mobile Phone,Married,158.06
+3428,0.0753,Low,0,Low,22.0,0,Grocery,Divorced,231.2
+963,0.0752,Low,3,Medium,,0,Mobile Phone,Married,120.64
+853,0.0751,Low,2,Low,8.0,0,Laptop & Accessory,Single,178.43
+1722,0.0751,Low,1,Low,30.0,0,Fashion,Married,208.83
+3158,0.0751,Low,3,Medium,,0,Mobile Phone,Married,120.11
+1802,0.075,Low,0,Low,4.0,0,Laptop & Accessory,Divorced,182.75
+942,0.075,Low,0,Low,22.0,0,Fashion,Married,250.04
+3554,0.0749,Low,0,Low,19.0,0,Laptop & Accessory,Divorced,161.97
+3474,0.0748,Low,2,Low,5.0,1,Laptop & Accessory,Divorced,163.22
+910,0.0748,Low,1,Low,14.0,0,Laptop & Accessory,Married,159.48
+2137,0.0748,Low,0,Low,27.0,0,Fashion,Divorced,206.86
+1872,0.0747,Low,4,Medium,3.0,0,Mobile Phone,Married,152.0
+3380,0.0746,Low,0,Low,20.0,0,Fashion,Married,219.57
+3217,0.0742,Low,2,Low,8.0,0,Laptop & Accessory,Single,178.43
+776,0.0741,Low,1,Low,7.0,0,Laptop & Accessory,Single,161.42
+3370,0.0741,Low,1,Low,7.0,0,Laptop & Accessory,Single,161.42
+636,0.0741,Low,0,Low,11.0,0,Laptop & Accessory,Married,188.47
+2451,0.074,Low,0,Low,4.0,0,Laptop & Accessory,Married,178.01
+2559,0.074,Low,0,Low,11.0,0,Laptop & Accessory,Married,190.02
+3445,0.0739,Low,2,Low,7.0,1,Laptop & Accessory,Married,157.47
+1839,0.0739,Low,2,Low,7.0,1,Laptop & Accessory,Married,157.47
+2385,0.0739,Low,0,Low,4.0,0,Laptop & Accessory,Married,177.94
+1609,0.0738,Low,0,Low,24.0,0,Fashion,Married,224.9
+2748,0.0737,Low,3,Medium,4.0,0,Mobile Phone,Single,152.2
+1297,0.0734,Low,0,Low,6.0,0,Laptop & Accessory,Married,165.87
+3879,0.0734,Low,0,Low,16.0,0,Laptop & Accessory,Married,193.25
+2106,0.0733,Low,2,Low,8.0,1,Fashion,Married,206.85
+3392,0.0731,Low,0,Low,28.0,0,Fashion,Divorced,232.39
+2266,0.0731,Low,1,Low,10.0,0,Fashion,Single,174.91
+931,0.0731,Low,1,Low,13.0,0,Fashion,Single,234.38
+2541,0.0731,Low,1,Low,13.0,0,Fashion,Single,234.38
+794,0.073,Low,3,Medium,27.0,1,Grocery,Married,254.65
+1023,0.073,Low,0,Low,9.0,0,Laptop & Accessory,Married,153.47
+1237,0.073,Low,2,Low,31.0,1,Fashion,Married,219.39
+3236,0.073,Low,0,Low,9.0,0,Laptop & Accessory,Married,153.47
+3778,0.0729,Low,0,Low,12.0,0,Fashion,Married,199.91
+1178,0.0729,Low,0,Low,12.0,0,Fashion,Married,199.91
+2720,0.0729,Low,1,Low,8.0,0,Laptop & Accessory,Divorced,169.9
+520,0.0728,Low,2,Low,6.0,0,Mobile Phone,Married,127.56
+3389,0.0727,Low,1,Low,28.0,0,Others,Divorced,291.87
+2922,0.0726,Low,2,Low,10.0,1,Fashion,Married,237.44
+2954,0.0725,Low,1,Low,21.0,0,Fashion,Single,209.99
+1612,0.0724,Low,2,Low,17.0,1,Others,Married,290.49
+984,0.0724,Low,2,Low,17.0,1,Others,Married,290.49
+1279,0.0724,Low,2,Low,10.0,1,Laptop & Accessory,Married,159.74
+74,0.0724,Low,0,Low,24.0,0,Fashion,Divorced,224.9
+1826,0.0722,Low,1,Low,17.0,0,Laptop & Accessory,Single,159.33
+2269,0.0722,Low,1,Low,17.0,0,Laptop & Accessory,Single,159.33
+1945,0.0722,Low,0,Low,7.0,0,Laptop & Accessory,Married,144.9
+1587,0.072,Low,2,Low,30.0,1,Grocery,Married,259.02
+1747,0.072,Low,0,Low,9.0,0,Laptop & Accessory,Married,152.37
+1575,0.072,Low,0,Low,18.0,0,Others,Divorced,292.02
+3280,0.0719,Low,0,Low,19.0,0,Fashion,Married,208.45
+1065,0.0719,Low,0,Low,18.0,0,Grocery,Divorced,267.92
+971,0.0719,Low,2,Low,22.0,0,Others,Single,307.65
+2983,0.0719,Low,0,Low,19.0,0,Laptop & Accessory,Married,189.34
+1009,0.0719,Low,2,Low,17.0,1,Grocery,Married,294.59
+1093,0.0715,Low,5,High,2.0,0,Mobile Phone,Single,158.1
+2239,0.0713,Low,1,Low,21.0,0,Others,Single,282.65
+2707,0.0712,Low,3,Medium,12.0,1,Laptop & Accessory,Married,179.05
+909,0.0712,Low,1,Low,5.0,0,Mobile Phone,Married,154.11
+1720,0.0712,Low,1,Low,9.0,0,Laptop & Accessory,Divorced,178.63
+3017,0.0711,Low,1,Low,23.0,0,Mobile Phone,Divorced,160.8
+3268,0.071,Low,1,Low,16.0,0,Mobile Phone,Married,150.76
+1166,0.071,Low,1,Low,16.0,0,Mobile Phone,Married,150.76
+3529,0.0709,Low,0,Low,13.0,0,Others,Divorced,280.41
+2492,0.0708,Low,3,Medium,2.0,0,Laptop & Accessory,Married,186.2
+946,0.0708,Low,3,Medium,4.0,1,Laptop & Accessory,Married,177.09
+1119,0.0705,Low,0,Low,6.0,0,Laptop & Accessory,Married,130.55
+559,0.0705,Low,0,Low,16.0,0,Grocery,Married,301.65
+3830,0.0705,Low,0,Low,6.0,0,Laptop & Accessory,Married,130.55
+1030,0.0704,Low,0,Low,13.0,0,Laptop & Accessory,Married,148.76
+3243,0.0701,Low,1,Low,17.0,0,Laptop & Accessory,Married,193.04
+2956,0.0701,Low,1,Low,15.0,0,Others,Single,296.13
+2911,0.0701,Low,1,Low,15.0,0,Others,Single,296.13
+3547,0.0699,Low,0,Low,7.0,0,Laptop & Accessory,Divorced,195.47
+3063,0.0699,Low,4,Medium,2.0,0,Mobile Phone,Divorced,131.8
+2974,0.0698,Low,2,Low,18.0,1,Grocery,Married,234.96
+2671,0.0697,Low,2,Low,20.0,1,Laptop & Accessory,Married,175.21
+1898,0.0697,Low,1,Low,16.0,0,Laptop & Accessory,Divorced,170.23
+3499,0.0697,Low,2,Low,8.0,1,Laptop & Accessory,Married,140.14
+3114,0.0695,Low,2,Low,9.0,1,Laptop & Accessory,Divorced,165.14
+191,0.0695,Low,0,Low,8.0,0,Laptop & Accessory,Married,190.0
+2174,0.0694,Low,4,Medium,2.0,0,Laptop & Accessory,Single,145.54
+3612,0.0694,Low,1,Low,28.0,0,Others,Single,287.22
+3344,0.0693,Low,3,Medium,27.0,1,Grocery,Married,254.65
+2678,0.0692,Low,0,Low,4.0,0,Laptop & Accessory,Divorced,169.29
+3795,0.0692,Low,1,Low,14.0,0,Grocery,Single,260.15
+1336,0.0692,Low,1,Low,15.0,0,Grocery,Single,259.92
+1073,0.0692,Low,1,Low,14.0,0,Grocery,Single,260.15
+2433,0.0691,Low,0,Low,15.0,0,Others,Divorced,292.32
+1825,0.0689,Low,1,Low,6.0,0,Mobile Phone,Divorced,148.7
+88,0.0689,Low,1,Low,4.0,0,Mobile Phone,Married,145.97
+3557,0.0687,Low,1,Low,12.0,0,Fashion,Single,209.38
+1518,0.0687,Low,2,Low,9.0,0,Laptop & Accessory,Single,191.46
+3143,0.0687,Low,0,Low,12.0,0,Laptop & Accessory,Married,172.35
+3202,0.0686,Low,0,Low,21.0,0,Laptop & Accessory,Married,175.7
+764,0.0686,Low,2,Low,10.0,0,Mobile Phone,Married,152.41
+968,0.0685,Low,1,Low,21.0,0,Others,Single,282.65
+3666,0.0685,Low,0,Low,18.0,0,Laptop & Accessory,Divorced,136.97
+2574,0.0684,Low,5,High,2.0,0,Mobile Phone,Married,127.03
+938,0.0683,Low,2,Low,26.0,1,Grocery,Married,229.65
+257,0.0683,Low,1,Low,29.0,0,Others,Single,312.22
+479,0.0682,Low,1,Low,20.0,0,Laptop & Accessory,Single,180.62
+3228,0.0682,Low,1,Low,20.0,0,Laptop & Accessory,Single,180.62
+1095,0.068,Low,2,Low,24.0,1,Others,Married,317.37
+3260,0.0679,Low,1,Low,12.0,0,Laptop & Accessory,Married,187.88
+826,0.0679,Low,1,Low,12.0,0,Laptop & Accessory,Married,187.88
+2736,0.0679,Low,0,Low,6.0,0,Laptop & Accessory,Married,161.46
+500,0.0679,Low,2,Low,6.0,1,Laptop & Accessory,Married,153.68
+1614,0.0677,Low,1,Low,25.0,0,Fashion,Single,204.45
+2716,0.0677,Low,1,Low,8.0,0,Laptop & Accessory,Married,170.05
+416,0.0676,Low,5,High,3.0,0,Mobile Phone,Married,153.04
+1161,0.0675,Low,1,Low,31.0,0,Fashion,Single,230.12
+3825,0.0674,Low,1,Low,14.0,0,Fashion,Married,262.57
+3292,0.0674,Low,1,Low,14.0,0,Fashion,Married,262.57
+3767,0.0673,Low,1,Low,27.0,0,Laptop & Accessory,Single,148.69
+2535,0.0673,Low,1,Low,27.0,0,Laptop & Accessory,Single,148.69
+1527,0.0673,Low,2,Low,19.0,1,Laptop & Accessory,Married,150.21
+3354,0.0671,Low,2,Low,15.0,1,Laptop & Accessory,Married,179.67
+3429,0.067,Low,0,Low,13.0,0,Laptop & Accessory,Married,144.48
+2636,0.067,Low,0,Low,18.0,0,Fashion,Married,174.41
+1360,0.067,Low,0,Low,13.0,0,Laptop & Accessory,Married,144.48
+1772,0.0669,Low,0,Low,20.0,0,Laptop & Accessory,Married,150.7
+2583,0.0667,Low,2,Low,9.0,0,Laptop & Accessory,Single,191.46
+1726,0.0667,Low,3,Medium,,0,Mobile Phone,Married,120.44
+1792,0.0666,Low,1,Low,11.0,0,Mobile Phone,Married,155.34
+3016,0.0666,Low,1,Low,19.0,0,Laptop & Accessory,Single,155.62
+1874,0.0666,Low,1,Low,19.0,0,Laptop & Accessory,Single,155.62
+2946,0.0666,Low,1,Low,11.0,0,Mobile Phone,Married,155.34
+2352,0.0666,Low,1,Low,25.0,0,Mobile Phone,Married,145.75
+3079,0.0666,Low,5,High,2.0,0,Mobile Phone,Married,157.01
+1728,0.0666,Low,4,Medium,2.0,0,Mobile Phone,Married,152.06
+810,0.0665,Low,1,Low,22.0,0,Laptop & Accessory,Single,145.07
+3931,0.0665,Low,1,Low,22.0,0,Laptop & Accessory,Single,145.07
+2461,0.0662,Low,2,Low,25.0,0,Grocery,Single,256.42
+3099,0.0662,Low,2,Low,25.0,0,Grocery,Single,256.42
+2149,0.0661,Low,0,Low,9.0,0,Laptop & Accessory,Married,175.93
+1272,0.0661,Low,0,Low,9.0,0,Laptop & Accessory,Married,175.93
+55,0.0661,Low,0,Low,9.0,0,Laptop & Accessory,Married,156.47
+877,0.066,Low,1,Low,7.0,0,Mobile Phone,Married,152.56
+1051,0.066,Low,1,Low,11.0,0,Laptop & Accessory,Married,182.31
+290,0.0659,Low,0,Low,16.0,0,Laptop & Accessory,Married,170.56
+275,0.0659,Low,0,Low,16.0,0,Laptop & Accessory,Married,170.56
+3924,0.0659,Low,2,Low,4.0,0,Mobile Phone,Married,127.91
+12,0.0658,Low,0,Low,16.0,0,Laptop & Accessory,Married,180.38
+2809,0.0658,Low,0,Low,16.0,0,Laptop & Accessory,Married,180.38
+336,0.0657,Low,2,Low,5.0,1,Laptop & Accessory,Married,190.83
+2001,0.0657,Low,2,Low,5.0,1,Laptop & Accessory,Married,190.83
+2529,0.0656,Low,3,Medium,21.0,1,Laptop & Accessory,Single,166.63
+153,0.0656,Low,2,Low,26.0,1,Grocery,Married,229.65
+2172,0.0655,Low,1,Low,19.0,0,Grocery,Single,275.67
+2211,0.0655,Low,2,Low,27.0,1,Grocery,Divorced,300.84
+2421,0.0654,Low,1,Low,4.0,0,Mobile Phone,Married,153.62
+3504,0.0654,Low,1,Low,4.0,0,Mobile Phone,Married,153.62
+102,0.0653,Low,0,Low,19.0,0,Others,Married,290.81
+2042,0.0653,Low,0,Low,8.0,0,Laptop & Accessory,Married,169.44
+2523,0.0651,Low,0,Low,24.0,0,Grocery,Married,298.99
+1525,0.065,Low,2,Low,22.0,1,Others,Married,295.02
+1770,0.065,Low,1,Low,10.0,0,Laptop & Accessory,Single,169.85
+19,0.065,Low,2,Low,19.0,1,Grocery,Married,259.96
+3235,0.065,Low,1,Low,28.0,0,Others,Single,287.22
+385,0.065,Low,0,Low,5.0,0,Laptop & Accessory,Divorced,151.75
+2827,0.065,Low,1,Low,10.0,0,Laptop & Accessory,Single,169.85
+2868,0.0649,Low,2,Low,29.0,1,Laptop & Accessory,Divorced,179.15
+2981,0.0649,Low,0,Low,23.0,0,Fashion,Married,199.03
+2481,0.0648,Low,0,Low,8.0,0,Fashion,Married,190.69
+766,0.0646,Low,2,Low,20.0,1,Laptop & Accessory,Married,150.67
+1126,0.0645,Low,3,Medium,3.0,0,Laptop & Accessory,Married,171.49
+379,0.0643,Low,2,Low,6.0,0,Mobile Phone,Single,155.38
+2280,0.0643,Low,0,Low,15.0,0,Laptop & Accessory,Married,155.72
+1331,0.0642,Low,0,Low,19.0,0,Others,Divorced,287.89
+3164,0.0641,Low,2,Low,9.0,0,Mobile Phone,Single,150.06
+3155,0.0641,Low,0,Low,14.0,0,Grocery,Married,235.7
+1680,0.0641,Low,1,Low,4.0,0,Laptop & Accessory,Married,190.78
+1696,0.064,Low,0,Low,7.0,0,Laptop & Accessory,Divorced,165.38
+2293,0.0639,Low,3,Medium,,0,Mobile Phone,Married,120.44
+252,0.0638,Low,1,Low,15.0,0,Grocery,Married,260.7
+3233,0.0638,Low,0,Low,18.0,0,Fashion,Married,174.41
+1249,0.0637,Low,1,Low,24.0,0,Grocery,Single,231.42
+2156,0.0633,Low,0,Low,20.0,0,Laptop & Accessory,Married,150.7
+539,0.0633,Low,1,Low,13.0,0,Fashion,Single,259.64
+3628,0.0631,Low,0,Low,19.0,0,Fashion,Married,199.41
+690,0.0631,Low,0,Low,8.0,0,Laptop & Accessory,Married,134.07
+2573,0.0631,Low,1,Low,23.0,0,Mobile Phone,Married,138.75
+1659,0.063,Low,0,Low,15.0,0,Others,Married,288.8
+1209,0.063,Low,3,Medium,21.0,1,Laptop & Accessory,Single,166.63
+1496,0.063,Low,0,Low,15.0,0,Others,Married,288.8
+2874,0.0629,Low,0,Low,13.0,0,Grocery,Married,235.03
+3696,0.0628,Low,2,Low,7.0,0,Mobile Phone,Married,127.68
+3826,0.0628,Low,2,Low,7.0,0,Mobile Phone,Married,127.68
+1372,0.0627,Low,1,Low,7.0,0,Laptop & Accessory,Single,153.43
+254,0.0625,Low,0,Low,19.0,0,Fashion,Married,204.53
+145,0.0625,Low,0,Low,19.0,0,Fashion,Married,204.53
+1264,0.0624,Low,2,Low,15.0,1,Grocery,Married,278.61
+1495,0.0623,Low,0,Low,7.0,0,Laptop & Accessory,Married,202.25
+2581,0.0623,Low,0,Low,13.0,0,Laptop & Accessory,Married,146.39
+1041,0.0623,Low,1,Low,19.0,0,Grocery,Single,275.67
+3724,0.0623,Low,3,Medium,3.0,0,Laptop & Accessory,Divorced,157.75
+3667,0.0623,Low,0,Low,18.0,0,Others,Married,316.9
+3804,0.0622,Low,0,Low,9.0,0,Laptop & Accessory,Divorced,156.74
+1914,0.0621,Low,2,Low,8.0,0,Mobile Phone,Married,152.68
+171,0.0621,Low,0,Low,7.0,0,Laptop & Accessory,Married,165.38
+1154,0.0621,Low,2,Low,9.0,1,Laptop & Accessory,Married,165.14
+1806,0.062,Low,0,Low,24.0,0,Laptop & Accessory,Divorced,149.36
+578,0.0619,Low,2,Low,5.0,0,Mobile Phone,Married,147.18
+3861,0.0618,Low,0,Low,17.0,0,Grocery,Divorced,296.59
+1196,0.0615,Low,0,Low,13.0,0,Others,Married,280.41
+2877,0.0615,Low,0,Low,9.0,0,Laptop & Accessory,Married,143.74
+719,0.0615,Low,2,Low,10.0,0,Mobile Phone,Single,135.0
+730,0.0615,Low,2,Low,10.0,0,Mobile Phone,Single,135.0
+1100,0.0613,Low,0,Low,20.0,0,Laptop & Accessory,Divorced,177.58
+320,0.0611,Low,2,Low,16.0,0,Mobile Phone,Single,161.73
+3710,0.0611,Low,2,Low,18.0,1,Fashion,Married,203.79
+3293,0.0611,Low,0,Low,15.0,0,Laptop & Accessory,Married,145.56
+2654,0.061,Low,0,Low,16.0,0,Laptop & Accessory,Married,152.57
+346,0.0608,Low,2,Low,12.0,0,Mobile Phone,Divorced,153.99
+3562,0.0606,Low,2,Low,29.0,1,Grocery,Divorced,234.02
+3254,0.0605,Low,0,Low,23.0,0,Laptop & Accessory,Married,190.67
+1950,0.0605,Low,1,Low,23.0,0,Mobile Phone,Divorced,136.9
+3371,0.0605,Low,1,Low,12.0,0,Laptop & Accessory,Married,177.49
+2806,0.0603,Low,0,Low,21.0,0,Grocery,Divorced,254.02
+189,0.0602,Low,2,Low,17.0,0,Mobile Phone,Single,160.39
+1263,0.0601,Low,1,Low,6.0,0,Mobile Phone,Married,159.33
+1774,0.0601,Low,1,Low,6.0,0,Mobile Phone,Married,159.33
+2253,0.06,Low,2,Low,10.0,0,Mobile Phone,Single,136.29
+1713,0.0597,Low,1,Low,8.0,0,Mobile Phone,Married,147.31
+697,0.0596,Low,1,Low,14.0,0,Grocery,Married,260.03
+3647,0.0595,Low,0,Low,20.0,0,Grocery,Married,291.06
+2,0.0595,Low,2,Low,7.0,0,Mobile Phone,Married,129.29
+1704,0.0595,Low,2,Low,11.0,0,Mobile Phone,Single,160.0
+1578,0.059,Low,2,Low,18.0,1,Laptop & Accessory,Married,182.43
+3287,0.0589,Low,2,Low,16.0,1,Laptop & Accessory,Married,177.31
+3315,0.0588,Low,4,Medium,2.0,0,Mobile Phone,Married,147.07
+2793,0.0588,Low,4,Medium,2.0,0,Mobile Phone,Married,147.07
+3331,0.0587,Low,0,Low,28.0,0,Others,Married,290.38
+157,0.0586,Low,1,Low,16.0,0,Grocery,Single,284.92
+2661,0.0585,Low,1,Low,8.0,0,Mobile Phone,Divorced,151.91
+1067,0.0584,Low,0,Low,11.0,0,Laptop & Accessory,Married,182.68
+1849,0.0584,Low,0,Low,11.0,0,Laptop & Accessory,Married,182.68
+3275,0.0584,Low,1,Low,7.0,0,Laptop & Accessory,Single,153.37
+2382,0.0584,Low,3,Medium,7.0,0,Mobile Phone,Single,148.42
+3912,0.0583,Low,0,Low,16.0,0,Laptop & Accessory,Divorced,168.04
+359,0.0583,Low,2,Low,17.0,0,Mobile Phone,Single,131.62
+273,0.0583,Low,2,Low,16.0,1,Grocery,Married,269.59
+3540,0.0583,Low,2,Low,17.0,0,Mobile Phone,Single,131.62
+3357,0.0583,Low,1,Low,7.0,0,Laptop & Accessory,Single,153.37
+1236,0.0582,Low,2,Low,6.0,0,Mobile Phone,Single,134.52
+1240,0.058,Low,3,Medium,30.0,1,Grocery,Single,237.26
+3144,0.0579,Low,1,Low,24.0,0,Fashion,Married,257.69
+2820,0.0579,Low,1,Low,24.0,0,Fashion,Married,257.69
+849,0.0578,Low,0,Low,19.0,0,Fashion,Married,222.24
+1291,0.0578,Low,1,Low,6.0,0,Laptop & Accessory,Single,169.49
+2727,0.0578,Low,0,Low,13.0,0,Laptop & Accessory,Married,168.52
+1033,0.0576,Low,2,Low,4.0,0,Mobile Phone,Married,146.41
+3512,0.0576,Low,1,Low,12.0,0,Fashion,Single,234.64
+605,0.0576,Low,3,Medium,3.0,0,Laptop & Accessory,Divorced,171.49
+517,0.0575,Low,1,Low,19.0,0,Laptop & Accessory,Married,168.85
+2931,0.0575,Low,2,Low,29.0,1,Laptop & Accessory,Married,165.35
+3534,0.0575,Low,1,Low,19.0,0,Laptop & Accessory,Married,168.85
+2929,0.0575,Low,1,Low,25.0,0,Mobile Phone,Divorced,142.58
+1678,0.0574,Low,2,Low,6.0,0,Mobile Phone,Single,152.18
+332,0.0574,Low,2,Low,6.0,0,Mobile Phone,Single,152.18
+1446,0.0572,Low,1,Low,19.0,0,Mobile Phone,Married,147.7
+3743,0.0572,Low,1,Low,12.0,0,Laptop & Accessory,Married,157.36
+3742,0.0572,Low,1,Low,12.0,0,Laptop & Accessory,Married,157.36
+232,0.0572,Low,1,Low,8.0,0,Laptop & Accessory,Married,169.9
+3543,0.0571,Low,1,Low,12.0,0,Mobile Phone,Divorced,153.44
+2013,0.0569,Low,1,Low,10.0,0,Laptop & Accessory,Married,195.25
+3133,0.0569,Low,1,Low,24.0,0,Grocery,Divorced,295.46
+2314,0.0569,Low,3,Medium,2.0,0,Laptop & Accessory,Married,143.19
+1778,0.0567,Low,1,Low,7.0,0,Laptop & Accessory,Single,153.43
+2238,0.0567,Low,2,Low,9.0,0,Mobile Phone,Married,154.77
+1660,0.0566,Low,0,Low,20.0,0,Laptop & Accessory,Married,154.67
+3222,0.0566,Low,1,Low,20.0,0,Grocery,Single,300.67
+1586,0.0566,Low,1,Low,15.0,0,Grocery,Single,285.15
+215,0.0566,Low,0,Low,20.0,0,Laptop & Accessory,Married,154.67
+2005,0.0566,Low,1,Low,15.0,0,Grocery,Single,285.15
+896,0.0566,Low,1,Low,20.0,0,Grocery,Single,300.67
+1357,0.0565,Low,1,Low,12.0,0,Fashion,Single,183.76
+1001,0.0565,Low,1,Low,14.0,0,Mobile Phone,Married,148.45
+59,0.0565,Low,1,Low,17.0,0,Grocery,Married,268.36
+2498,0.0565,Low,1,Low,12.0,0,Fashion,Single,183.76
+3316,0.0565,Low,3,Medium,7.0,0,Mobile Phone,Single,148.42
+2354,0.0565,Low,1,Low,14.0,0,Mobile Phone,Married,148.45
+2788,0.0563,Low,1,Low,10.0,0,Laptop & Accessory,Single,184.14
+2681,0.0563,Low,1,Low,10.0,0,Laptop & Accessory,Single,184.14
+3225,0.0563,Low,2,Low,30.0,1,Fashion,Married,194.39
+1985,0.0563,Low,1,Low,10.0,0,Laptop & Accessory,Married,195.25
+609,0.0561,Low,2,Low,6.0,0,Mobile Phone,Single,134.52
+3552,0.056,Low,0,Low,5.0,0,Laptop & Accessory,Married,144.03
+1817,0.056,Low,1,Low,10.0,0,Mobile Phone,Married,150.43
+434,0.0559,Low,3,Medium,2.0,0,Laptop & Accessory,Divorced,155.61
+86,0.0559,Low,3,Medium,,0,Mobile Phone,Married,122.7
+2272,0.0559,Low,2,Low,28.0,1,Laptop & Accessory,Married,163.85
+3772,0.0559,Low,1,Low,22.0,0,Fashion,Single,209.65
+2696,0.0559,Low,0,Low,14.0,0,Grocery,Married,271.81
+3345,0.0558,Low,0,Low,24.0,0,Grocery,Married,298.99
+3205,0.0558,Low,1,Low,12.0,0,Laptop & Accessory,Single,145.34
+473,0.0558,Low,1,Low,12.0,0,Laptop & Accessory,Single,145.34
+438,0.0558,Low,0,Low,4.0,0,Laptop & Accessory,Married,178.04
+1672,0.0558,Low,2,Low,8.0,0,Mobile Phone,Married,154.29
+3231,0.0558,Low,2,Low,10.0,1,Fashion,Married,236.03
+895,0.0558,Low,0,Low,16.0,0,Grocery,Divorced,301.65
+60,0.0558,Low,2,Low,8.0,0,Mobile Phone,Married,154.29
+3929,0.0555,Low,0,Low,19.0,0,Laptop & Accessory,Married,173.79
+881,0.0555,Low,0,Low,12.0,0,Laptop & Accessory,Divorced,163.89
+874,0.0553,Low,1,Low,8.0,0,Laptop & Accessory,Single,148.59
+2004,0.0553,Low,1,Low,8.0,0,Laptop & Accessory,Single,148.59
+1219,0.0552,Low,1,Low,30.0,0,Mobile Phone,Divorced,154.42
+170,0.0552,Low,0,Low,17.0,0,Grocery,Divorced,263.28
+1373,0.055,Low,0,Low,4.0,0,Laptop & Accessory,Married,178.04
+1170,0.055,Low,2,Low,17.0,0,Mobile Phone,Single,149.55
+1482,0.0549,Low,0,Low,7.0,0,Laptop & Accessory,Married,186.46
+3054,0.0549,Low,0,Low,7.0,0,Laptop & Accessory,Married,196.04
+2079,0.0549,Low,0,Low,7.0,0,Laptop & Accessory,Married,196.04
+2307,0.0548,Low,0,Low,13.0,0,Fashion,Married,207.37
+3640,0.0548,Low,2,Low,22.0,0,Fashion,Single,234.99
+1675,0.0548,Low,2,Low,9.0,1,Laptop & Accessory,Married,156.73
+1642,0.0548,Low,0,Low,13.0,0,Fashion,Married,207.37
+3516,0.0548,Low,2,Low,9.0,1,Laptop & Accessory,Married,156.73
+2048,0.0548,Low,1,Low,29.0,0,Others,Single,312.22
+1607,0.0548,Low,0,Low,17.0,0,Laptop & Accessory,Married,172.65
+531,0.0548,Low,2,Low,22.0,0,Fashion,Single,234.99
+3426,0.0547,Low,1,Low,10.0,0,Laptop & Accessory,Married,179.06
+1311,0.0547,Low,0,Low,6.0,0,Fashion,Married,216.91000000000005
+2693,0.0547,Low,2,Low,15.0,1,Laptop & Accessory,Married,152.31
+625,0.0547,Low,1,Low,10.0,0,Laptop & Accessory,Married,179.06
+181,0.0546,Low,0,Low,10.0,0,Laptop & Accessory,Married,150.71
+337,0.0545,Low,2,Low,19.0,1,Fashion,Married,203.68
+1401,0.0545,Low,2,Low,19.0,1,Fashion,Married,203.68
+3190,0.0544,Low,0,Low,19.0,0,Grocery,Married,270.48
+1798,0.0543,Low,0,Low,21.0,0,Grocery,Married,252.02
+2674,0.0543,Low,0,Low,12.0,0,Laptop & Accessory,Married,139.02
+6,0.0543,Low,1,Low,7.0,0,Mobile Phone,Divorced,152.81
+1852,0.0543,Low,0,Low,12.0,0,Laptop & Accessory,Married,139.02
+3138,0.0543,Low,0,Low,21.0,0,Grocery,Married,252.02
+1537,0.0541,Low,1,Low,26.0,0,Mobile Phone,Married,167.58
+2320,0.054,Low,0,Low,14.0,0,Laptop & Accessory,Married,189.38
+3689,0.054,Low,1,Low,22.0,0,Grocery,Married,279.02
+3866,0.054,Low,2,Low,7.0,1,Fashion,Married,208.8
+2383,0.054,Low,1,Low,18.0,0,Fashion,Married,197.56
+92,0.054,Low,1,Low,18.0,0,Fashion,Married,197.56
+1629,0.0539,Low,0,Low,5.0,0,Laptop & Accessory,Divorced,166.48
+3170,0.0536,Low,0,Low,27.0,0,Fashion,Married,205.02
+1615,0.0535,Low,2,Low,8.0,0,Mobile Phone,Single,143.23
+1055,0.0535,Low,2,Low,8.0,0,Mobile Phone,Single,143.23
+1183,0.0535,Low,0,Low,12.0,0,Fashion,Married,260.82
+2462,0.0534,Low,0,Low,21.0,0,Laptop & Accessory,Married,179.67
+3362,0.0534,Low,0,Low,15.0,0,Laptop & Accessory,Divorced,162.72
+2599,0.0534,Low,0,Low,16.0,0,Grocery,Divorced,271.59
+2991,0.0533,Low,0,Low,15.0,0,Laptop & Accessory,Divorced,140.89
+3122,0.0533,Low,1,Low,27.0,0,Laptop & Accessory,Married,128.97
+991,0.0533,Low,0,Low,6.0,0,Laptop & Accessory,Divorced,143.02
+813,0.0532,Low,2,Low,24.0,1,Grocery,Married,237.45
+1651,0.0532,Low,4,Medium,3.0,0,Mobile Phone,Married,163.12
+1342,0.0532,Low,4,Medium,3.0,0,Mobile Phone,Married,163.12
+1703,0.0532,Low,2,Low,24.0,1,Grocery,Married,237.45
+2972,0.0532,Low,1,Low,8.0,0,Laptop & Accessory,Single,170.68
+1631,0.0531,Low,1,Low,6.0,0,Mobile Phone,Married,138.38
+1228,0.053,Low,0,Low,11.0,0,Laptop & Accessory,Married,188.47
+2108,0.053,Low,2,Low,21.0,1,Laptop & Accessory,Married,175.67
+1588,0.053,Low,2,Low,21.0,1,Laptop & Accessory,Married,175.67
+3674,0.0529,Low,2,Low,29.0,1,Laptop & Accessory,Married,188.85
+3774,0.0528,Low,0,Low,16.0,0,Laptop & Accessory,Divorced,155.62
+664,0.0528,Low,0,Low,6.0,0,Laptop & Accessory,Married,192.25
+2782,0.0526,Low,0,Low,27.0,0,Fashion,Married,206.86
+3918,0.0526,Low,1,Low,4.0,0,Laptop & Accessory,Divorced,143.45
+1807,0.0526,Low,0,Low,12.0,0,Laptop & Accessory,Married,182.45
+1057,0.0526,Low,1,Low,5.0,0,Mobile Phone,Married,134.33
+2604,0.0526,Low,0,Low,16.0,0,Laptop & Accessory,Married,177.65
+3471,0.0525,Low,0,Low,5.0,0,Laptop & Accessory,Married,144.03
+2263,0.0524,Low,0,Low,10.0,0,Laptop & Accessory,Married,177.37
+246,0.0524,Low,0,Low,13.0,0,Laptop & Accessory,Married,139.75
+468,0.0524,Low,0,Low,13.0,0,Laptop & Accessory,Married,139.75
+3013,0.0523,Low,1,Low,23.0,0,Others,Single,299.26
+1364,0.0523,Low,1,Low,23.0,0,Others,Single,299.26
+3571,0.0523,Low,0,Low,12.0,0,Laptop & Accessory,Married,182.45
+1387,0.0522,Low,0,Low,20.0,0,Grocery,Divorced,291.06
+812,0.0522,Low,2,Low,6.0,0,Mobile Phone,Divorced,127.81
+1598,0.0522,Low,0,Low,19.0,0,Laptop & Accessory,Married,173.79
+2612,0.0522,Low,2,Low,11.0,0,Mobile Phone,Divorced,128.21
+1842,0.052,Low,0,Low,16.0,0,Laptop & Accessory,Married,187.72
+772,0.0519,Low,1,Low,19.0,0,Laptop & Accessory,Married,182.7
+660,0.0519,Low,1,Low,19.0,0,Laptop & Accessory,Married,182.7
+1187,0.0519,Low,2,Low,7.0,1,Laptop & Accessory,Married,178.68
+663,0.0519,Low,2,Low,7.0,1,Laptop & Accessory,Married,178.68
+2505,0.0518,Low,1,Low,21.0,0,Grocery,Single,268.85
+1616,0.0517,Low,2,Low,12.0,1,Laptop & Accessory,Married,161.2
+510,0.0516,Low,2,Low,9.0,0,Mobile Phone,Married,154.77
+1653,0.0515,Low,1,Low,27.0,0,Fashion,Married,200.25
+2489,0.0515,Low,1,Low,4.0,0,Laptop & Accessory,Single,165.11
+1975,0.0515,Low,3,Medium,,0,Mobile Phone,Married,122.7
+1648,0.0514,Low,0,Low,19.0,0,Laptop & Accessory,Married,161.97
+2387,0.0514,Low,0,Low,23.0,0,Fashion,Married,229.66
+282,0.0514,Low,0,Low,30.0,0,Others,Divorced,295.66
+2179,0.0514,Low,2,Low,17.0,0,Mobile Phone,Single,149.55
+1017,0.0513,Low,0,Low,28.0,0,Others,Divorced,319.06
+1666,0.0513,Low,1,Low,8.0,0,Mobile Phone,Divorced,162.37
+2965,0.0513,Low,2,Low,29.0,1,Grocery,Married,234.02
+1788,0.0512,Low,1,Low,19.0,0,Laptop & Accessory,Married,184.06
+2254,0.0512,Low,1,Low,19.0,0,Laptop & Accessory,Married,184.06
+3210,0.0511,Low,2,Low,13.0,0,Laptop & Accessory,Single,170.53
+2739,0.0511,Low,2,Low,13.0,0,Laptop & Accessory,Single,170.53
+1959,0.051,Low,3,Medium,29.0,1,Grocery,Married,260.77
+3324,0.051,Low,3,Medium,29.0,1,Grocery,Married,260.77
+1176,0.051,Low,0,Low,12.0,0,Fashion,Married,182.37
+3306,0.051,Low,0,Low,12.0,0,Fashion,Married,182.37
+3791,0.051,Low,0,Low,20.0,0,Grocery,Married,295.48
+3883,0.051,Low,0,Low,26.0,0,Fashion,Married,175.25
+186,0.0509,Low,0,Low,11.0,0,Laptop & Accessory,Married,162.88
+1661,0.0509,Low,0,Low,11.0,0,Laptop & Accessory,Married,162.88
+300,0.0509,Low,0,Low,13.0,0,Laptop & Accessory,Married,156.05
+3821,0.0508,Low,2,Low,9.0,0,Mobile Phone,Married,151.9
+188,0.0508,Low,0,Low,4.0,0,Laptop & Accessory,Married,141.48
+202,0.0507,Low,1,Low,10.0,0,Mobile Phone,Married,155.38
+1538,0.0506,Low,3,Medium,10.0,1,Laptop & Accessory,Married,181.73
+1982,0.0506,Low,3,Medium,10.0,1,Laptop & Accessory,Married,181.73
+2547,0.0505,Low,0,Low,5.0,0,Laptop & Accessory,Married,179.76
+1341,0.0505,Low,1,Low,26.0,0,Grocery,Single,242.75
+1118,0.0505,Low,0,Low,5.0,0,Laptop & Accessory,Married,179.76
+3081,0.0504,Low,1,Low,12.0,0,Mobile Phone,Married,172.71
+777,0.0504,Low,2,Low,10.0,0,Mobile Phone,Single,145.13
+1769,0.0504,Low,3,Medium,28.0,1,Grocery,Single,266.59
+3605,0.0504,Low,1,Low,12.0,0,Mobile Phone,Married,172.71
+2629,0.0503,Low,2,Low,5.0,1,Laptop & Accessory,Married,152.28
+811,0.0503,Low,2,Low,23.0,1,Grocery,Divorced,239.73
+1879,0.0503,Low,0,Low,4.0,0,Laptop & Accessory,Married,154.6
+2524,0.0503,Low,2,Low,28.0,1,Laptop & Accessory,Married,140.35
+485,0.0503,Low,0,Low,4.0,0,Laptop & Accessory,Married,183.46
+622,0.0502,Low,1,Low,14.0,0,Laptop & Accessory,Single,162.3
+2771,0.0501,Low,0,Low,12.0,0,Laptop & Accessory,Married,141.27
+3863,0.0501,Low,0,Low,12.0,0,Laptop & Accessory,Married,141.27
+1948,0.05,Low,1,Low,6.0,0,Laptop & Accessory,Single,154.87
+1244,0.0499,Low,2,Low,29.0,0,Mobile Phone,Married,129.42
+1194,0.0497,Low,0,Low,23.0,0,Fashion,Married,232.69
+2081,0.0497,Low,0,Low,9.0,0,Laptop & Accessory,Divorced,171.01
+753,0.0497,Low,1,Low,8.0,0,Laptop & Accessory,Married,184.57
+2437,0.0497,Low,0,Low,23.0,0,Fashion,Married,232.69
+329,0.0495,Low,1,Low,11.0,0,Mobile Phone,Married,133.06
+3493,0.0495,Low,1,Low,11.0,0,Mobile Phone,Married,133.06
+3773,0.0494,Low,1,Low,11.0,0,Laptop & Accessory,Single,140.28
+2553,0.0494,Low,1,Low,19.0,0,Fashion,Married,232.48
+236,0.0493,Low,0,Low,18.0,0,Grocery,Married,288.28
+395,0.0491,Low,2,Low,28.0,1,Grocery,Married,235.77
+1549,0.0491,Low,2,Low,28.0,1,Grocery,Married,235.77
+1837,0.049,Low,0,Low,10.0,0,Fashion,Married,194.34
+3524,0.049,Low,0,Low,19.0,0,Grocery,Divorced,270.48
+685,0.0489,Low,0,Low,28.0,0,Fashion,Divorced,232.25
+2479,0.0489,Low,2,Low,9.0,1,Laptop & Accessory,Married,162.01
+3827,0.0489,Low,0,Low,23.0,0,Grocery,Married,273.99
+1385,0.0488,Low,1,Low,25.0,0,Fashion,Single,204.45
+2465,0.0486,Low,1,Low,9.0,0,Laptop & Accessory,Married,178.63
+269,0.0485,Low,0,Low,7.0,0,Laptop & Accessory,Divorced,170.39
+2912,0.0485,Low,2,Low,24.0,0,Mobile Phone,Married,161.9
+2709,0.0484,Low,2,Low,4.0,1,Laptop & Accessory,Married,158.55
+1931,0.0484,Low,1,Low,23.0,0,Mobile Phone,Married,136.9
+2633,0.0484,Low,2,Low,6.0,0,Mobile Phone,Married,159.0
+217,0.0483,Low,0,Low,28.0,0,Fashion,Married,232.39
+595,0.0483,Low,2,Low,16.0,0,Mobile Phone,Single,135.39
+3181,0.0483,Low,2,Low,16.0,0,Mobile Phone,Single,135.39
+1693,0.0483,Low,0,Low,9.0,0,Laptop & Accessory,Married,171.01
+1699,0.0483,Low,4,Medium,3.0,0,Mobile Phone,Divorced,156.31
+3469,0.0483,Low,1,Low,6.0,0,Mobile Phone,Divorced,136.0
+2337,0.0482,Low,0,Low,13.0,0,Laptop & Accessory,Married,178.77
+2684,0.0482,Low,0,Low,13.0,0,Laptop & Accessory,Married,178.77
+1262,0.0482,Low,0,Low,15.0,0,Grocery,Divorced,267.99
+3030,0.0481,Low,3,Medium,3.0,0,Laptop & Accessory,Married,161.18
+3221,0.0481,Low,0,Low,8.0,0,Laptop & Accessory,Married,168.83
+212,0.0481,Low,0,Low,8.0,0,Laptop & Accessory,Married,168.83
+2054,0.048,Low,3,Medium,2.0,0,Laptop & Accessory,Married,169.31
+2267,0.0479,Low,2,Low,7.0,1,Laptop & Accessory,Married,140.01
+2343,0.0479,Low,0,Low,18.0,0,Laptop & Accessory,Married,136.97
+253,0.0479,Low,2,Low,7.0,1,Laptop & Accessory,Married,140.01
+77,0.0478,Low,1,Low,5.0,0,Laptop & Accessory,Married,146.68
+2335,0.0478,Low,1,Low,6.0,0,Mobile Phone,Divorced,152.94
+367,0.0477,Low,2,Low,17.0,1,Laptop & Accessory,Married,164.65
+2787,0.0477,Low,1,Low,26.0,0,Laptop & Accessory,Single,183.81
+112,0.0477,Low,1,Low,14.0,0,Laptop & Accessory,Single,162.3
+2393,0.0477,Low,0,Low,21.0,0,Laptop & Accessory,Married,164.39
+3613,0.0477,Low,1,Low,26.0,0,Laptop & Accessory,Single,183.81
+2835,0.0475,Low,0,Low,4.0,0,Fashion,Married,196.37
+3634,0.0475,Low,2,Low,29.0,0,Mobile Phone,Divorced,129.42
+1318,0.0475,Low,0,Low,7.0,0,Laptop & Accessory,Married,144.04
+344,0.0475,Low,0,Low,4.0,0,Fashion,Married,196.37
+2964,0.0475,Low,0,Low,7.0,0,Laptop & Accessory,Married,144.04
+1532,0.0473,Low,1,Low,11.0,0,Laptop & Accessory,Single,140.28
+1785,0.0472,Low,1,Low,4.0,0,Laptop & Accessory,Married,150.03
+2472,0.047,Low,0,Low,13.0,0,Fashion,Married,237.57
+400,0.047,Low,2,Low,16.0,1,Grocery,Married,266.27
+640,0.047,Low,1,Low,15.0,0,Mobile Phone,Divorced,158.76
+1977,0.0469,Low,0,Low,6.0,0,Laptop & Accessory,Married,177.25
+868,0.0467,Low,2,Low,23.0,1,Others,Married,281.72
+1167,0.0467,Low,3,Medium,6.0,1,Laptop & Accessory,Married,177.28
+554,0.0467,Low,4,Medium,3.0,0,Mobile Phone,Married,152.03
+2544,0.0464,Low,1,Low,8.0,0,Laptop & Accessory,Single,178.37
+2988,0.0463,Low,1,Low,7.0,0,Laptop & Accessory,Single,140.33
+3127,0.0463,Low,1,Low,7.0,0,Laptop & Accessory,Single,140.33
+865,0.0463,Low,2,Low,11.0,0,Mobile Phone,Married,128.44
+2170,0.0463,Low,0,Low,22.0,0,Others,Married,291.61
+1821,0.0462,Low,0,Low,16.0,0,Grocery,Divorced,260.25
+3010,0.0461,Low,2,Low,6.0,1,Fashion,Married,183.8
+1459,0.0461,Low,2,Low,6.0,1,Fashion,Married,183.8
+1294,0.0461,Low,0,Low,14.0,0,Grocery,Married,265.95
+3232,0.046,Low,1,Low,30.0,0,Laptop & Accessory,Married,178.8
+1047,0.046,Low,1,Low,30.0,0,Laptop & Accessory,Married,178.8
+342,0.0459,Low,0,Low,12.0,0,Laptop & Accessory,Married,152.04
+1251,0.0458,Low,0,Low,9.0,0,Laptop & Accessory,Married,159.07
+1576,0.0458,Low,0,Low,9.0,0,Laptop & Accessory,Married,159.07
+160,0.0457,Low,4,Medium,2.0,0,Mobile Phone,Married,138.12
+2572,0.0457,Low,4,Medium,2.0,0,Mobile Phone,Married,138.12
+884,0.0456,Low,0,Low,12.0,0,Laptop & Accessory,Married,172.35
+3878,0.0456,Low,0,Low,5.0,0,Laptop & Accessory,Married,158.78
+2182,0.0455,Low,0,Low,8.0,0,Laptop & Accessory,Married,169.04
+2527,0.0455,Low,0,Low,8.0,0,Laptop & Accessory,Married,169.04
+2199,0.0454,Low,0,Low,10.0,0,Laptop & Accessory,Married,142.85
+2888,0.0454,Low,0,Low,9.0,0,Laptop & Accessory,Married,151.31
+2057,0.0454,Low,0,Low,9.0,0,Laptop & Accessory,Married,151.31
+1163,0.0454,Low,0,Low,10.0,0,Laptop & Accessory,Married,142.85
+3875,0.0454,Low,1,Low,5.0,0,Laptop & Accessory,Divorced,180.82
+260,0.0453,Low,1,Low,4.0,0,Laptop & Accessory,Single,144.24
+2404,0.0453,Low,0,Low,15.0,0,Laptop & Accessory,Married,145.23
+105,0.0453,Low,0,Low,15.0,0,Grocery,Divorced,290.95
+3157,0.0451,Low,2,Low,4.0,1,Laptop & Accessory,Married,165.83
+32,0.0451,Low,2,Low,30.0,1,Fashion,Married,205.52
+1185,0.0451,Low,2,Low,30.0,1,Fashion,Married,205.52
+1560,0.0451,Low,2,Low,4.0,1,Laptop & Accessory,Married,165.83
+1021,0.0451,Low,3,Medium,3.0,0,Laptop & Accessory,Divorced,165.78
+3719,0.0451,Low,2,Low,4.0,0,Mobile Phone,Single,150.64
+1952,0.0448,Low,0,Low,14.0,0,Laptop & Accessory,Married,179.73
+1064,0.0448,Low,0,Low,14.0,0,Laptop & Accessory,Married,179.73
+2247,0.0447,Low,0,Low,25.0,0,Laptop & Accessory,Divorced,174.36
+3770,0.0446,Low,0,Low,14.0,0,Others,Married,294.19
+658,0.0446,Low,0,Low,11.0,0,Laptop & Accessory,Married,147.35
+2862,0.0446,Low,0,Low,14.0,0,Others,Married,294.19
+3618,0.0445,Low,1,Low,12.0,0,Mobile Phone,Married,151.84
+1620,0.0443,Low,0,Low,9.0,0,Laptop & Accessory,Married,177.08
+652,0.0443,Low,0,Low,9.0,0,Laptop & Accessory,Married,177.08
+972,0.0441,Low,4,Medium,2.0,0,Mobile Phone,Divorced,145.7
+393,0.0441,Low,1,Low,5.0,0,Laptop & Accessory,Single,153.96
+2737,0.0441,Low,0,Low,21.0,0,Laptop & Accessory,Divorced,140.51
+830,0.0439,Low,0,Low,17.0,0,Others,Divorced,282.13
+1395,0.0438,Low,2,Low,5.0,1,Laptop & Accessory,Married,161.62
+666,0.0437,Low,2,Low,11.0,0,Mobile Phone,Married,164.2
+580,0.0437,Low,2,Low,10.0,0,Mobile Phone,Single,146.53
+2133,0.0437,Low,2,Low,29.0,0,Grocery,Single,292.56
+2384,0.0436,Low,3,Medium,23.0,1,Grocery,Married,264.66
+219,0.0436,Low,0,Low,16.0,0,Grocery,Married,276.03
+2342,0.0436,Low,0,Low,16.0,0,Grocery,Married,276.03
+412,0.0436,Low,0,Low,18.0,0,Fashion,Married,197.24
+883,0.0435,Low,0,Low,8.0,0,Laptop & Accessory,Married,192.99
+2368,0.0435,Low,0,Low,8.0,0,Laptop & Accessory,Married,192.99
+389,0.0435,Low,1,Low,27.0,0,Grocery,Married,279.27
+553,0.0434,Low,0,Low,20.0,0,Fashion,Married,233.45
+2180,0.0434,Low,0,Low,16.0,0,Others,Married,293.92
+3809,0.0434,Low,0,Low,30.0,0,Grocery,Divorced,257.12
+3685,0.0434,Low,0,Low,20.0,0,Fashion,Married,233.45
+2507,0.0434,Low,0,Low,16.0,0,Others,Married,293.92
+2096,0.0433,Low,1,Low,14.0,0,Laptop & Accessory,Married,164.3
+1709,0.0433,Low,1,Low,14.0,0,Laptop & Accessory,Married,164.3
+3027,0.0432,Low,0,Low,12.0,0,Laptop & Accessory,Married,185.77
+1024,0.0432,Low,0,Low,12.0,0,Laptop & Accessory,Married,185.77
+2617,0.043,Low,1,Low,5.0,0,Laptop & Accessory,Married,175.03
+3725,0.0429,Low,0,Low,20.0,0,Laptop & Accessory,Married,177.58
+1296,0.0429,Low,2,Low,24.0,1,Grocery,Divorced,264.73
+3676,0.0428,Low,1,Low,27.0,0,Grocery,Single,290.98
+2666,0.0428,Low,1,Low,5.0,0,Mobile Phone,Married,134.0
+3638,0.0427,Low,3,Medium,26.0,1,Fashion,Married,204.69
+644,0.0427,Low,1,Low,24.0,0,Grocery,Married,295.46
+1043,0.0426,Low,0,Low,21.0,0,Others,Married,296.65
+3244,0.0426,Low,1,Low,10.0,0,Mobile Phone,Divorced,161.92
+593,0.0425,Low,0,Low,23.0,0,Grocery,Married,273.99
+2606,0.0424,Low,2,Low,8.0,1,Laptop & Accessory,Married,152.04
+3298,0.0422,Low,0,Low,6.0,0,Laptop & Accessory,Married,143.73
+2018,0.0422,Low,1,Low,6.0,0,Mobile Phone,Married,148.7
+3272,0.042,Low,0,Low,25.0,0,Laptop & Accessory,Married,131.49
+738,0.042,Low,0,Low,16.0,0,Laptop & Accessory,Married,169.34
+1682,0.042,Low,3,Medium,28.0,1,Grocery,Single,266.59
+3780,0.042,Low,0,Low,12.0,0,Laptop & Accessory,Married,163.89
+1513,0.0419,Low,2,Low,9.0,0,Mobile Phone,Married,148.76
+997,0.0419,Low,0,Low,28.0,0,Laptop & Accessory,Married,193.54
+2953,0.0419,Low,0,Low,28.0,0,Laptop & Accessory,Married,193.54
+2333,0.0419,Low,1,Low,13.0,0,Mobile Phone,Divorced,162.55
+3675,0.0418,Low,0,Low,5.0,0,Laptop & Accessory,Divorced,153.09
+2484,0.0417,Low,0,Low,22.0,0,Laptop & Accessory,Married,147.89
+3937,0.0417,Low,1,Low,28.0,0,Fashion,Married,231.86
+441,0.0417,Low,1,Low,10.0,0,Fashion,Single,236.64
+2488,0.0417,Low,0,Low,18.0,0,Laptop & Accessory,Married,175.33
+1169,0.0415,Low,1,Low,9.0,0,Mobile Phone,Divorced,150.72
+1195,0.0415,Low,0,Low,4.0,0,Laptop & Accessory,Married,154.68
+3510,0.0414,Low,0,Low,19.0,0,Others,Married,287.89
+2221,0.0414,Low,2,Low,4.0,0,Mobile Phone,Single,150.64
+1619,0.0414,Low,0,Low,14.0,0,Laptop & Accessory,Married,171.39
+3482,0.0413,Low,4,Medium,3.0,0,Mobile Phone,Married,157.91
+911,0.0413,Low,4,Medium,3.0,0,Mobile Phone,Married,157.91
+313,0.0409,Low,2,Low,7.0,0,Mobile Phone,Single,150.0
+2062,0.0407,Low,1,Low,9.0,0,Laptop & Accessory,Single,138.86
+1764,0.0406,Low,0,Low,20.0,0,Grocery,Married,303.61
+295,0.0404,Low,2,Low,10.0,1,Laptop & Accessory,Married,190.86
+1200,0.0404,Low,1,Low,26.0,0,Grocery,Single,242.75
+3609,0.0402,Low,1,Low,25.0,0,Fashion,Divorced,249.9
+1078,0.0401,Low,4,Medium,3.0,0,Mobile Phone,Married,156.8
+1853,0.0401,Low,0,Low,7.0,0,Laptop & Accessory,Married,139.86
+3709,0.04,Low,0,Low,11.0,0,Laptop & Accessory,Divorced,152.49
+2463,0.04,Low,1,Low,12.0,0,Mobile Phone,Married,153.44
+1077,0.0399,Low,0,Low,11.0,0,Laptop & Accessory,Married,160.77
+3842,0.0399,Low,2,Low,11.0,1,Fashion,Married,261.03
+166,0.0399,Low,0,Low,11.0,0,Laptop & Accessory,Married,160.77
+3928,0.0398,Low,2,Low,10.0,0,Mobile Phone,Single,146.53
+1714,0.0397,Low,0,Low,7.0,0,Laptop & Accessory,Married,197.25
+3682,0.0396,Low,0,Low,23.0,0,Laptop & Accessory,Divorced,191.51
+940,0.0394,Low,4,Medium,2.0,0,Mobile Phone,Married,131.8
+1497,0.0394,Low,0,Low,13.0,0,Laptop & Accessory,Married,176.51
+2635,0.0394,Low,0,Low,17.0,0,Laptop & Accessory,Married,150.33
+1623,0.0393,Low,0,Low,13.0,0,Laptop & Accessory,Married,154.73
+1438,0.0393,Low,2,Low,9.0,0,Mobile Phone,Married,128.1
+2504,0.0393,Low,2,Low,9.0,0,Mobile Phone,Married,128.1
+2889,0.0393,Low,2,Low,23.0,1,Laptop & Accessory,Married,193.04
+835,0.0393,Low,0,Low,13.0,0,Laptop & Accessory,Married,154.73
+3007,0.0392,Low,0,Low,27.0,0,Fashion,Married,235.49
+2413,0.0392,Low,0,Low,14.0,0,Laptop & Accessory,Married,169.48
+492,0.0392,Low,2,Low,15.0,0,Mobile Phone,Single,136.73
+2154,0.0392,Low,1,Low,6.0,0,Laptop & Accessory,Married,171.68
+2659,0.0392,Low,2,Low,15.0,0,Mobile Phone,Single,136.73
+1510,0.0392,Low,0,Low,14.0,0,Laptop & Accessory,Married,169.48
+3921,0.0392,Low,0,Low,26.0,0,Grocery,Married,248.52
+1186,0.0391,Low,1,Low,25.0,0,Laptop & Accessory,Married,179.82
+3625,0.0391,Low,1,Low,25.0,0,Laptop & Accessory,Married,179.82
+2248,0.039,Low,0,Low,14.0,0,Laptop & Accessory,Married,188.77
+927,0.039,Low,0,Low,30.0,0,Grocery,Married,241.18
+1760,0.0389,Low,2,Low,12.0,1,Laptop & Accessory,Married,181.05
+746,0.0389,Low,0,Low,9.0,0,Laptop & Accessory,Married,150.79
+3023,0.0389,Low,0,Low,6.0,0,Laptop & Accessory,Married,176.75
+444,0.0388,Low,0,Low,21.0,0,Others,Married,308.0
+2773,0.0388,Low,0,Low,7.0,0,Laptop & Accessory,Divorced,168.73
+3441,0.0388,Low,1,Low,24.0,0,Laptop & Accessory,Married,154.82
+2775,0.0387,Low,3,Medium,2.0,0,Laptop & Accessory,Married,169.31
+3507,0.0387,Low,1,Low,11.0,0,Mobile Phone,Married,164.36
+2163,0.0386,Low,1,Low,4.0,0,Mobile Phone,Married,139.78
+996,0.0386,Low,1,Low,4.0,0,Mobile Phone,Married,139.78
+563,0.0384,Low,0,Low,5.0,0,Laptop & Accessory,Divorced,165.24
+2875,0.0384,Low,0,Low,7.0,0,Laptop & Accessory,Married,170.39
+1584,0.0383,Low,4,Medium,3.0,0,Mobile Phone,Married,147.97
+844,0.0383,Low,0,Low,28.0,0,Laptop & Accessory,Divorced,184.4
+1733,0.0382,Low,2,Low,10.0,0,Laptop & Accessory,Single,163.86
+3816,0.0382,Low,2,Low,13.0,1,Laptop & Accessory,Married,189.72
+2135,0.0381,Low,0,Low,20.0,0,Grocery,Divorced,299.65
+1971,0.0381,Low,0,Low,14.0,0,Fashion,Married,183.92
+2259,0.038,Low,1,Low,4.0,0,Laptop & Accessory,Married,186.18
+2376,0.038,Low,0,Low,17.0,0,Laptop & Accessory,Married,150.33
+3096,0.038,Low,0,Low,11.0,0,Laptop & Accessory,Married,147.35
+458,0.038,Low,0,Low,22.0,0,Fashion,Married,204.66
+564,0.038,Low,0,Low,22.0,0,Fashion,Married,204.66
+2891,0.038,Low,3,Medium,3.0,0,Laptop & Accessory,Married,130.72
+1654,0.038,Low,3,Medium,3.0,0,Laptop & Accessory,Married,130.72
+44,0.0379,Low,0,Low,17.0,0,Grocery,Married,296.59
+781,0.0378,Low,1,Low,5.0,0,Laptop & Accessory,Married,175.03
+3833,0.0377,Low,2,Low,11.0,0,Mobile Phone,Married,128.99
+3892,0.0376,Low,0,Low,4.0,0,Laptop & Accessory,Married,182.75
+2164,0.0376,Low,2,Low,4.0,0,Mobile Phone,Married,127.89
+263,0.0376,Low,2,Low,7.0,0,Mobile Phone,Single,132.8
+3067,0.0376,Low,1,Low,30.0,0,Grocery,Single,238.72000000000003
+2124,0.0375,Low,0,Low,28.0,0,Grocery,Married,285.32
+1737,0.0374,Low,0,Low,10.0,0,Laptop & Accessory,Married,141.89
+1146,0.0374,Low,0,Low,10.0,0,Laptop & Accessory,Married,141.89
+2817,0.0374,Low,0,Low,8.0,0,Laptop & Accessory,Married,155.61
+2625,0.0373,Low,4,Medium,2.0,0,Mobile Phone,Married,137.6
+2903,0.0373,Low,0,Low,7.0,0,Laptop & Accessory,Married,178.76
+2111,0.0373,Low,1,Low,10.0,0,Laptop & Accessory,Married,180.07
+2619,0.0373,Low,0,Low,6.0,0,Laptop & Accessory,Married,179.7
+3515,0.0373,Low,0,Low,6.0,0,Laptop & Accessory,Married,179.7
+1270,0.0373,Low,1,Low,10.0,0,Laptop & Accessory,Married,180.07
+3436,0.0372,Low,0,Low,30.0,0,Grocery,Married,241.18
+2670,0.0371,Low,0,Low,10.0,0,Laptop & Accessory,Married,157.31
+671,0.0371,Low,1,Low,27.0,0,Grocery,Single,267.75
+1939,0.0371,Low,0,Low,16.0,0,Grocery,Married,260.25
+2434,0.0371,Low,2,Low,4.0,1,Laptop & Accessory,Married,188.47
+1015,0.0371,Low,0,Low,14.0,0,Grocery,Divorced,265.95
+3631,0.0371,Low,0,Low,9.0,0,Laptop & Accessory,Married,180.61
+3237,0.0371,Low,2,Low,18.0,1,Laptop & Accessory,Married,189.65
+2036,0.037,Low,0,Low,20.0,0,Laptop & Accessory,Married,173.1
+2373,0.037,Low,2,Low,23.0,1,Laptop & Accessory,Married,193.04
+15,0.037,Low,0,Low,6.0,0,Laptop & Accessory,Married,163.92
+3166,0.037,Low,0,Low,20.0,0,Laptop & Accessory,Married,173.1
+3608,0.037,Low,2,Low,7.0,0,Mobile Phone,Single,132.8
+1013,0.0369,Low,0,Low,19.0,0,Grocery,Divorced,266.06
+606,0.0369,Low,2,Low,30.0,1,Grocery,Married,257.87
+2896,0.0367,Low,4,Medium,2.0,0,Mobile Phone,Married,145.7
+933,0.0367,Low,0,Low,9.0,0,Laptop & Accessory,Married,150.79
+1916,0.0367,Low,2,Low,31.0,1,Fashion,Married,244.04
+3558,0.0366,Low,0,Low,6.0,0,Laptop & Accessory,Divorced,190.24
+2045,0.0366,Low,0,Low,10.0,0,Laptop & Accessory,Divorced,177.28
+1679,0.0365,Low,1,Low,30.0,0,Mobile Phone,Married,154.42
+1420,0.0365,Low,1,Low,7.0,0,Laptop & Accessory,Single,179.87
+2569,0.0365,Low,2,Low,28.0,1,Laptop & Accessory,Married,154.15
+2458,0.0364,Low,2,Low,10.0,0,Laptop & Accessory,Single,183.1
+831,0.0363,Low,0,Low,13.0,0,Laptop & Accessory,Married,165.13
+3065,0.0363,Low,1,Low,9.0,0,Mobile Phone,Married,164.17
+3877,0.0363,Low,0,Low,18.0,0,Laptop & Accessory,Married,151.54
+1881,0.0363,Low,1,Low,25.0,0,Mobile Phone,Married,142.58
+3352,0.0362,Low,1,Low,5.0,0,Laptop & Accessory,Married,168.45
+187,0.0362,Low,2,Low,6.0,0,Mobile Phone,Married,147.69
+1039,0.0361,Low,0,Low,24.0,0,Laptop & Accessory,Married,161.32
+493,0.036,Low,0,Low,24.0,0,Fashion,Married,231.16000000000005
+2832,0.036,Low,3,Medium,3.0,0,Laptop & Accessory,Divorced,168.19
+2128,0.0359,Low,2,Low,29.0,1,Laptop & Accessory,Married,179.15
+502,0.0359,Low,2,Low,7.0,0,Mobile Phone,Single,150.0
+2448,0.0357,Low,0,Low,6.0,0,Laptop & Accessory,Married,169.03
+669,0.0357,Low,0,Low,14.0,0,Laptop & Accessory,Married,181.77
+2685,0.0357,Low,0,Low,6.0,0,Laptop & Accessory,Divorced,178.09
+886,0.0356,Low,0,Low,28.0,0,Others,Married,319.06
+825,0.0356,Low,1,Low,4.0,0,Laptop & Accessory,Divorced,171.27
+3671,0.0355,Low,1,Low,13.0,0,Laptop & Accessory,Married,184.02
+3026,0.0355,Low,1,Low,9.0,0,Mobile Phone,Married,132.1
+3935,0.0354,Low,0,Low,10.0,0,Laptop & Accessory,Married,157.68
+2602,0.0354,Low,2,Low,5.0,0,Mobile Phone,Single,130.68
+2933,0.0354,Low,0,Low,10.0,0,Laptop & Accessory,Married,157.68
+784,0.0353,Low,0,Low,21.0,0,Grocery,Married,271.74
+2435,0.0353,Low,0,Low,21.0,0,Grocery,Married,271.74
+1218,0.0352,Low,2,Low,22.0,1,Laptop & Accessory,Married,168.04
+3521,0.0352,Low,0,Low,5.0,0,Laptop & Accessory,Married,151.75
+1626,0.0352,Low,0,Low,21.0,0,Laptop & Accessory,Married,154.86
+3006,0.0352,Low,1,Low,12.0,0,Mobile Phone,Divorced,137.55
+1147,0.0352,Low,0,Low,21.0,0,Laptop & Accessory,Married,154.86
+3309,0.0352,Low,2,Low,22.0,1,Laptop & Accessory,Married,168.04
+436,0.035,Low,2,Low,11.0,1,Fashion,Married,261.03
+3915,0.035,Low,0,Low,17.0,0,Others,Married,291.9
+396,0.035,Low,1,Low,6.0,0,Laptop & Accessory,Single,178.96
+1224,0.035,Low,0,Low,7.0,0,Laptop & Accessory,Married,188.92
+3688,0.0349,Low,1,Low,23.0,0,Grocery,Married,256.2
+2215,0.0347,Low,0,Low,28.0,0,Fashion,Married,209.76
+377,0.0347,Low,1,Low,23.0,0,Mobile Phone,Married,160.8
+3849,0.0346,Low,0,Low,16.0,0,Grocery,Married,271.59
+1258,0.0345,Low,0,Low,13.0,0,Laptop & Accessory,Married,157.15
+513,0.0345,Low,0,Low,9.0,0,Laptop & Accessory,Married,155.07
+292,0.0345,Low,0,Low,19.0,0,Grocery,Married,232.25
+1498,0.0345,Low,0,Low,9.0,0,Laptop & Accessory,Married,168.42
+2416,0.0345,Low,0,Low,13.0,0,Laptop & Accessory,Married,157.15
+184,0.0344,Low,0,Low,12.0,0,Laptop & Accessory,Married,153.77
+1111,0.0344,Low,0,Low,12.0,0,Laptop & Accessory,Married,153.77
+504,0.0343,Low,0,Low,13.0,0,Laptop & Accessory,Married,165.13
+1823,0.0343,Low,1,Low,6.0,0,Laptop & Accessory,Single,175.1
+807,0.0342,Low,0,Low,14.0,0,Laptop & Accessory,Married,141.03
+3464,0.0342,Low,1,Low,12.0,0,Mobile Phone,Married,151.1
+721,0.0341,Low,2,Low,17.0,1,Laptop & Accessory,Married,203.47
+2410,0.0341,Low,2,Low,17.0,1,Laptop & Accessory,Married,203.47
+1464,0.034,Low,2,Low,6.0,0,Mobile Phone,Divorced,129.11
+3384,0.0339,Low,2,Low,5.0,1,Laptop & Accessory,Married,183.55
+3790,0.0339,Low,4,Medium,2.0,0,Mobile Phone,Married,131.31
+1602,0.0338,Low,0,Low,23.0,0,Laptop & Accessory,Married,191.51
+574,0.0336,Low,1,Low,9.0,0,Laptop & Accessory,Single,177.79
+2522,0.0336,Low,1,Low,27.0,0,Grocery,Single,267.75
+3881,0.0335,Low,1,Low,4.0,0,Mobile Phone,Married,145.83
+424,0.0335,Low,1,Low,4.0,0,Mobile Phone,Married,145.83
+3135,0.0335,Low,2,Low,20.0,1,Grocery,Married,267.52
+1261,0.0334,Low,1,Low,5.0,0,Laptop & Accessory,Married,179.68
+901,0.0333,Low,0,Low,27.0,0,Grocery,Married,260.32
+929,0.0333,Low,0,Low,15.0,0,Others,Divorced,283.03
+2112,0.0333,Low,0,Low,4.0,0,Laptop & Accessory,Married,169.29
+1906,0.0333,Low,0,Low,26.0,0,Laptop & Accessory,Married,144.5
+1253,0.0332,Low,0,Low,23.0,0,Grocery,Divorced,270.46
+1926,0.0332,Low,4,Medium,3.0,0,Mobile Phone,Married,156.31
+619,0.0332,Low,4,Medium,2.0,0,Mobile Phone,Married,145.44
+405,0.0332,Low,2,Low,16.0,1,Grocery,Married,266.27
+2745,0.0331,Low,1,Low,9.0,0,Laptop & Accessory,Married,154.06
+2099,0.0331,Low,0,Low,7.0,0,Laptop & Accessory,Married,159.57
+1730,0.0331,Low,0,Low,17.0,0,Others,Married,282.13
+2588,0.0331,Low,0,Low,10.0,0,Laptop & Accessory,Married,175.79
+2292,0.0331,Low,1,Low,23.0,0,Grocery,Single,278.79
+2457,0.0331,Low,1,Low,9.0,0,Laptop & Accessory,Married,154.06
+792,0.0331,Low,2,Low,11.0,0,Mobile Phone,Single,146.15
+3119,0.033,Low,1,Low,11.0,0,Laptop & Accessory,Single,176.25
+319,0.0329,Low,2,Low,7.0,0,Mobile Phone,Married,154.11
+2651,0.0328,Low,1,Low,5.0,0,Laptop & Accessory,Divorced,168.45
+2464,0.0327,Low,0,Low,13.0,0,Laptop & Accessory,Married,133.19
+2985,0.0327,Low,1,Low,23.0,0,Grocery,Single,278.79
+446,0.0324,Low,1,Low,4.0,0,Laptop & Accessory,Married,166.52
+1632,0.0323,Low,3,Medium,29.0,1,Grocery,Single,291.59
+3060,0.0323,Low,0,Low,21.0,0,Laptop & Accessory,Divorced,181.2
+2386,0.0323,Low,0,Low,23.0,0,Others,Married,295.17
+2609,0.0322,Low,2,Low,11.0,0,Mobile Phone,Single,146.15
+1283,0.0322,Low,2,Low,6.0,0,Mobile Phone,Married,147.69
+799,0.032,Low,3,Medium,3.0,0,Laptop & Accessory,Married,134.91
+686,0.032,Low,3,Medium,3.0,0,Laptop & Accessory,Married,134.91
+864,0.0319,Low,0,Low,28.0,0,Grocery,Married,302.79
+2576,0.0319,Low,0,Low,15.0,0,Grocery,Married,276.65
+1177,0.0318,Low,1,Low,7.0,0,Mobile Phone,Divorced,137.37
+953,0.0318,Low,4,Medium,3.0,0,Mobile Phone,Married,162.6
+1363,0.0318,Low,0,Low,5.0,0,Laptop & Accessory,Married,166.97
+3607,0.0318,Low,0,Low,10.0,0,Laptop & Accessory,Married,175.79
+2751,0.0316,Low,0,Low,6.0,0,Laptop & Accessory,Married,171.04
+3934,0.0316,Low,1,Low,25.0,0,Fashion,Married,249.9
+286,0.0316,Low,0,Low,7.0,0,Laptop & Accessory,Married,180.05
+2351,0.0316,Low,0,Low,6.0,0,Laptop & Accessory,Married,171.04
+3000,0.0315,Low,0,Low,5.0,0,Laptop & Accessory,Married,166.67
+1936,0.0315,Low,0,Low,15.0,0,Laptop & Accessory,Married,168.25
+2223,0.0315,Low,0,Low,5.0,0,Laptop & Accessory,Married,166.67
+2592,0.0313,Low,2,Low,26.0,1,Grocery,Divorced,275.84
+82,0.0313,Low,0,Low,6.0,0,Laptop & Accessory,Married,190.24
+3395,0.0311,Low,0,Low,14.0,0,Laptop & Accessory,Married,188.23
+2119,0.0311,Low,2,Low,8.0,0,Mobile Phone,Single,157.8
+3817,0.0311,Low,0,Low,4.0,0,Laptop & Accessory,Married,154.76
+3527,0.0311,Low,0,Low,14.0,0,Laptop & Accessory,Married,188.23
+2324,0.0311,Low,0,Low,27.0,0,Others,Divorced,294.06
+2304,0.0311,Low,0,Low,10.0,0,Laptop & Accessory,Married,177.28
+2360,0.031,Low,1,Low,5.0,0,Laptop & Accessory,Single,169.24
+1492,0.0308,Low,0,Low,4.0,0,Laptop & Accessory,Divorced,155.82
+3459,0.0308,Low,1,Low,24.0,0,Others,Single,295.37
+1016,0.0308,Low,1,Low,28.0,0,Grocery,Single,298.28
+2756,0.0307,Low,2,Low,12.0,1,Laptop & Accessory,Married,181.05
+1594,0.0306,Low,0,Low,14.0,0,Laptop & Accessory,Married,143.93
+76,0.0306,Low,0,Low,14.0,0,Laptop & Accessory,Married,143.93
+1786,0.0305,Low,1,Low,14.0,0,Laptop & Accessory,Single,171.61
+2735,0.0305,Low,0,Low,16.0,0,Laptop & Accessory,Divorced,165.89
+1512,0.0304,Low,0,Low,11.0,0,Laptop & Accessory,Married,168.93
+634,0.0304,Low,2,Low,22.0,1,Grocery,Married,239.66000000000005
+2843,0.0304,Low,1,Low,24.0,0,Grocery,Single,237.34
+733,0.0303,Low,0,Low,24.0,0,Others,Married,307.0
+1092,0.0302,Low,0,Low,15.0,0,Grocery,Divorced,276.65
+1289,0.0302,Low,2,Low,25.0,1,Fashion,Married,179.69
+1101,0.0301,Low,0,Low,20.0,0,Others,Divorced,283.0
+37,0.03,Low,2,Low,24.0,1,Grocery,Married,264.73
+3768,0.03,Low,0,Low,9.0,0,Laptop & Accessory,Married,174.68
+2217,0.03,Low,0,Low,10.0,0,Laptop & Accessory,Married,163.47
+1205,0.0299,Low,0,Low,4.0,0,Laptop & Accessory,Married,155.72
+3550,0.0299,Low,0,Low,4.0,0,Laptop & Accessory,Married,155.72
+237,0.0299,Low,1,Low,13.0,0,Laptop & Accessory,Single,175.42
+1445,0.0299,Low,1,Low,26.0,0,Grocery,Divorced,293.56
+2209,0.0298,Low,0,Low,8.0,0,Laptop & Accessory,Married,172.24
+3,0.0297,Low,0,Low,27.0,0,Laptop & Accessory,Married,168.54
+2846,0.0297,Low,0,Low,14.0,0,Laptop & Accessory,Married,141.03
+477,0.0296,Low,0,Low,29.0,0,Grocery,Married,272.32
+2430,0.0295,Low,0,Low,5.0,0,Laptop & Accessory,Divorced,168.06
+2752,0.0292,Low,2,Low,26.0,1,Laptop & Accessory,Married,180.77
+451,0.0291,Low,0,Low,13.0,0,Laptop & Accessory,Divorced,142.44
+2652,0.0291,Low,1,Low,24.0,0,Grocery,Single,231.42
+421,0.0291,Low,0,Low,7.0,0,Laptop & Accessory,Married,147.24
+3938,0.029,Low,2,Low,8.0,0,Mobile Phone,Single,157.8
+3856,0.0287,Low,0,Low,7.0,0,Laptop & Accessory,Married,155.55
+178,0.0286,Low,0,Low,16.0,0,Laptop & Accessory,Married,165.89
+52,0.0285,Low,2,Low,61.0,1,Grocery,Married,303.75
+1972,0.0285,Low,0,Low,8.0,0,Laptop & Accessory,Married,152.08
+3142,0.0285,Low,0,Low,8.0,0,Laptop & Accessory,Married,152.08
+43,0.0285,Low,0,Low,15.0,0,Fashion,Married,208.92
+1411,0.0285,Low,2,Low,31.0,1,Grocery,Married,303.75
+445,0.0283,Low,0,Low,19.0,0,Grocery,Married,278.61
+817,0.0283,Low,1,Low,10.0,0,Mobile Phone,Married,153.1
+1766,0.0283,Low,1,Low,10.0,0,Mobile Phone,Married,153.1
+2235,0.0283,Low,0,Low,12.0,0,Laptop & Accessory,Married,130.69
+2220,0.0282,Low,1,Low,16.0,0,Mobile Phone,Married,154.36
+1514,0.028,Low,0,Low,4.0,0,Laptop & Accessory,Married,143.06
+2639,0.0279,Low,0,Low,25.0,0,Laptop & Accessory,Married,174.36
+2069,0.0278,Low,1,Low,9.0,0,Laptop & Accessory,Single,175.98
+2982,0.0278,Low,0,Low,27.0,0,Laptop & Accessory,Married,169.5
+3887,0.0277,Low,1,Low,17.0,0,Mobile Phone,Married,145.89
+3175,0.0275,Low,0,Low,27.0,0,Grocery,Divorced,243.36
+643,0.0274,Low,0,Low,13.0,0,Laptop & Accessory,Married,164.02
+806,0.0274,Low,1,Low,25.0,0,Laptop & Accessory,Married,186.32
+2348,0.0274,Low,0,Low,13.0,0,Laptop & Accessory,Married,164.02
+3253,0.0273,Low,0,Low,22.0,0,Laptop & Accessory,Divorced,165.51
+1855,0.0273,Low,0,Low,4.0,0,Laptop & Accessory,Married,159.15
+3467,0.0272,Low,1,Low,6.0,0,Laptop & Accessory,Divorced,186.62
+2640,0.0272,Low,0,Low,13.0,0,Laptop & Accessory,Married,166.27
+356,0.0272,Low,0,Low,13.0,0,Laptop & Accessory,Married,156.77
+1539,0.027,Low,0,Low,7.0,0,Laptop & Accessory,Married,167.12
+3136,0.027,Low,0,Low,7.0,0,Laptop & Accessory,Married,167.12
+2118,0.027,Low,1,Low,7.0,0,Laptop & Accessory,Single,162.74
+161,0.0269,Low,0,Low,10.0,0,Laptop & Accessory,Married,140.71
+3478,0.0269,Low,1,Low,11.0,0,Laptop & Accessory,Single,176.25
+509,0.0269,Low,1,Low,17.0,0,Laptop & Accessory,Married,177.57
+1519,0.0269,Low,1,Low,17.0,0,Laptop & Accessory,Married,177.57
+3271,0.0268,Low,4,Medium,2.0,0,Mobile Phone,Married,145.44
+1028,0.0268,Low,0,Low,6.0,0,Laptop & Accessory,Married,169.65
+376,0.0268,Low,2,Low,29.0,1,Grocery,Married,272.56
+2997,0.0267,Low,0,Low,19.0,0,Laptop & Accessory,Divorced,173.05
+1137,0.0266,Low,1,Low,14.0,0,Mobile Phone,Married,145.01
+681,0.0266,Low,1,Low,4.0,0,Mobile Phone,Married,130.67
+266,0.0266,Low,1,Low,4.0,0,Mobile Phone,Married,130.67
+592,0.0266,Low,1,Low,13.0,0,Laptop & Accessory,Single,170.34
+1536,0.0266,Low,1,Low,13.0,0,Laptop & Accessory,Single,170.34
+3074,0.0266,Low,1,Low,14.0,0,Mobile Phone,Married,145.01
+2883,0.0265,Low,1,Low,22.0,0,Grocery,Single,293.85
+3672,0.0265,Low,0,Low,7.0,0,Laptop & Accessory,Married,143.25
+2590,0.0264,Low,0,Low,9.0,0,Laptop & Accessory,Married,146.39
+1122,0.0264,Low,2,Low,24.0,1,Grocery,Married,240.26
+3528,0.0264,Low,2,Low,24.0,1,Grocery,Married,240.26
+3490,0.0263,Low,2,Low,25.0,1,Laptop & Accessory,Married,155.77
+522,0.0263,Low,0,Low,13.0,0,Laptop & Accessory,Married,163.77
+2763,0.0262,Low,1,Low,31.0,0,Grocery,Married,266.18
+3936,0.0261,Low,0,Low,26.0,0,Grocery,Married,295.99
+1592,0.0261,Low,0,Low,10.0,0,Laptop & Accessory,Married,163.47
+3294,0.026,Low,0,Low,25.0,0,Grocery,Divorced,288.07
+3811,0.0259,Low,0,Low,15.0,0,Grocery,Married,267.99
+1417,0.0258,Low,2,Low,30.0,1,Laptop & Accessory,Married,152.2
+1753,0.0258,Low,0,Low,14.0,0,Laptop & Accessory,Married,164.75
+951,0.0258,Low,0,Low,14.0,0,Laptop & Accessory,Married,164.75
+333,0.0258,Low,1,Low,7.0,0,Laptop & Accessory,Single,162.74
+218,0.0257,Low,1,Low,22.0,0,Grocery,Single,293.85
+3211,0.0257,Low,0,Low,14.0,0,Grocery,Married,293.23
+2091,0.0255,Low,0,Low,18.0,0,Laptop & Accessory,Married,157.7
+2347,0.0255,Low,0,Low,6.0,0,Laptop & Accessory,Divorced,187.09
+3308,0.0254,Low,1,Low,12.0,0,Laptop & Accessory,Married,178.21
+845,0.0254,Low,1,Low,12.0,0,Laptop & Accessory,Married,178.21
+2620,0.0253,Low,1,Low,9.0,0,Laptop & Accessory,Single,158.1
+278,0.0253,Low,2,Low,30.0,1,Laptop & Accessory,Married,152.2
+1752,0.0252,Low,0,Low,5.0,0,Laptop & Accessory,Married,179.6
+497,0.025,Low,0,Low,20.0,0,Grocery,Married,299.65
+3890,0.025,Low,1,Low,31.0,0,Grocery,Married,266.18
+3781,0.0249,Low,1,Low,11.0,0,Mobile Phone,Married,147.71
+631,0.0249,Low,1,Low,11.0,0,Mobile Phone,Married,147.71
+3920,0.0249,Low,1,Low,12.0,0,Laptop & Accessory,Single,145.53
+3855,0.0245,Low,2,Low,5.0,0,Mobile Phone,Married,127.94
+3549,0.0245,Low,0,Low,6.0,0,Laptop & Accessory,Married,153.76
+352,0.0244,Low,1,Low,7.0,0,Laptop & Accessory,Single,148.09
+439,0.0244,Low,0,Low,19.0,0,Laptop & Accessory,Married,173.05
+1406,0.0243,Low,0,Low,16.0,0,Grocery,Married,292.99
+3813,0.0243,Low,0,Low,27.0,0,Laptop & Accessory,Divorced,159.4
+2777,0.0242,Low,1,Low,28.0,0,Grocery,Single,267.56
+1353,0.0241,Low,0,Low,27.0,0,Laptop & Accessory,Married,169.5
+1123,0.024,Low,1,Low,10.0,0,Laptop & Accessory,Married,168.74
+3104,0.024,Low,0,Low,28.0,0,Laptop & Accessory,Married,153.97
+3376,0.0238,Low,0,Low,7.0,0,Laptop & Accessory,Divorced,157.14
+1153,0.0238,Low,0,Low,28.0,0,Laptop & Accessory,Married,184.4
+1500,0.0237,Low,0,Low,12.0,0,Laptop & Accessory,Married,178.43
+1635,0.0237,Low,0,Low,12.0,0,Laptop & Accessory,Married,178.43
+349,0.0236,Low,2,Low,21.0,1,Grocery,Married,292.52
+279,0.0236,Low,0,Low,15.0,0,Laptop & Accessory,Married,166.03
+487,0.0236,Low,0,Low,13.0,0,Grocery,Married,268.23
+596,0.0236,Low,1,Low,5.0,0,Mobile Phone,Married,155.67
+3585,0.0236,Low,1,Low,8.0,0,Laptop & Accessory,Married,175.63
+1226,0.0236,Low,1,Low,5.0,0,Mobile Phone,Married,155.67
+1058,0.0236,Low,2,Low,31.0,1,Grocery,Married,282.87
+238,0.0236,Low,2,Low,31.0,1,Grocery,Married,282.87
+2781,0.0236,Low,1,Low,12.0,0,Laptop & Accessory,Single,150.42
+2776,0.0235,Low,2,Low,16.0,1,Laptop & Accessory,Married,178.47
+2020,0.0233,Low,0,Low,27.0,0,Others,Married,311.06
+2621,0.0232,Low,2,Low,12.0,0,Mobile Phone,Married,162.02
+3058,0.0232,Low,2,Low,12.0,0,Mobile Phone,Married,162.02
+3544,0.0229,Low,0,Low,8.0,0,Laptop & Accessory,Married,141.48
+1034,0.0229,Low,0,Low,8.0,0,Laptop & Accessory,Married,141.48
+3579,0.0229,Low,1,Low,27.0,0,Grocery,Single,273.28
+2444,0.0227,Low,0,Low,23.0,0,Others,Married,282.0
+3176,0.0226,Low,0,Low,23.0,0,Grocery,Married,289.13
+2389,0.0226,Low,0,Low,23.0,0,Grocery,Married,289.13
+1991,0.0226,Low,0,Low,22.0,0,Others,Divorced,287.11
+1267,0.0226,Low,2,Low,11.0,0,Mobile Phone,Married,128.21
+2600,0.0225,Low,0,Low,5.0,0,Laptop & Accessory,Married,167.25
+3110,0.0224,Low,0,Low,18.0,0,Laptop & Accessory,Divorced,144.47
+1352,0.0222,Low,1,Low,28.0,0,Grocery,Single,268.35
+1969,0.0221,Low,0,Low,15.0,0,Laptop & Accessory,Married,149.07
+2901,0.0219,Low,0,Low,6.0,0,Laptop & Accessory,Married,140.37
+2098,0.0219,Low,0,Low,16.0,0,Laptop & Accessory,Married,174.07
+2070,0.0219,Low,0,Low,24.0,0,Grocery,Divorced,301.39
+1105,0.0219,Low,0,Low,13.0,0,Laptop & Accessory,Married,142.44
+9,0.0219,Low,1,Low,11.0,0,Mobile Phone,Married,137.02
+2059,0.0219,Low,1,Low,11.0,0,Mobile Phone,Married,137.02
+2449,0.0219,Low,0,Low,6.0,0,Laptop & Accessory,Married,140.37
+2641,0.0218,Low,2,Low,8.0,1,Laptop & Accessory,Married,165.01
+2131,0.0218,Low,2,Low,8.0,1,Laptop & Accessory,Married,165.01
+3305,0.0218,Low,1,Low,8.0,0,Laptop & Accessory,Single,173.09
+3289,0.0217,Low,0,Low,21.0,0,Grocery,Married,296.69
+1022,0.0216,Low,2,Low,15.0,0,Mobile Phone,Married,129.36
+3565,0.0216,Low,2,Low,15.0,0,Mobile Phone,Married,129.36
+2053,0.0213,Low,1,Low,6.0,0,Mobile Phone,Married,158.12
+1797,0.0213,Low,1,Low,13.0,0,Mobile Phone,Married,162.55
+2675,0.0213,Low,0,Low,8.0,0,Laptop & Accessory,Married,182.14
+3285,0.0212,Low,0,Low,14.0,0,Grocery,Married,293.23
+3314,0.0212,Low,0,Low,28.0,0,Grocery,Married,247.32
+1280,0.0212,Low,1,Low,8.0,0,Mobile Phone,Married,139.17
+1937,0.0211,Low,0,Low,15.0,0,Laptop & Accessory,Married,166.03
+3721,0.0211,Low,0,Low,22.0,0,Laptop & Accessory,Married,166.51
+923,0.0211,Low,0,Low,23.0,0,Grocery,Married,270.46
+2033,0.021,Low,0,Low,30.0,0,Others,Married,295.66
+3871,0.0208,Low,1,Low,6.0,0,Mobile Phone,Married,152.94
+2317,0.0208,Low,0,Low,5.0,0,Laptop & Accessory,Divorced,161.62
+321,0.0207,Low,3,Medium,3.0,0,Laptop & Accessory,Married,165.78
+3396,0.0206,Low,0,Low,7.0,0,Laptop & Accessory,Married,150.63
+1833,0.0206,Low,0,Low,7.0,0,Laptop & Accessory,Married,150.63
+3506,0.0201,Low,1,Low,13.0,0,Laptop & Accessory,Single,146.61
+3615,0.0198,Low,1,Low,8.0,0,Laptop & Accessory,Married,164.86
+3805,0.0198,Low,1,Low,8.0,0,Laptop & Accessory,Married,164.86
+341,0.0197,Low,0,Low,8.0,0,Laptop & Accessory,Married,168.25
+272,0.0196,Low,0,Low,19.0,0,Laptop & Accessory,Divorced,169.47
+2845,0.0195,Low,0,Low,7.0,0,Laptop & Accessory,Divorced,168.02
+3779,0.0194,Low,0,Low,50.0,0,Laptop & Accessory,Divorced,149.0
+42,0.0193,Low,0,Low,18.0,0,Fashion,Married,207.48
+2794,0.0191,Low,2,Low,6.0,0,Mobile Phone,Married,129.11
+1831,0.019,Low,1,Low,4.0,0,Mobile Phone,Married,145.64
+1106,0.019,Low,0,Low,6.0,0,Laptop & Accessory,Married,187.2
+1248,0.0189,Low,0,Low,22.0,0,Grocery,Married,296.74
+1451,0.0189,Low,0,Low,22.0,0,Grocery,Married,296.74
+847,0.0189,Low,0,Low,10.0,0,Laptop & Accessory,Married,171.39
+3810,0.0187,Low,0,Low,9.0,0,Laptop & Accessory,Married,182.62
+206,0.0187,Low,0,Low,9.0,0,Laptop & Accessory,Married,182.62
+1374,0.0187,Low,0,Low,19.0,0,Grocery,Married,274.65
+2207,0.0186,Low,2,Low,5.0,1,Laptop & Accessory,Married,163.22
+3266,0.0186,Low,0,Low,17.0,0,Laptop & Accessory,Married,181.75
+2491,0.0185,Low,0,Low,22.0,0,Laptop & Accessory,Married,165.51
+2866,0.0184,Low,0,Low,18.0,0,Laptop & Accessory,Married,164.34
+1528,0.0184,Low,0,Low,22.0,0,Laptop & Accessory,Married,179.86
+3364,0.0183,Low,0,Low,9.0,0,Laptop & Accessory,Married,152.28
+1255,0.0181,Low,1,Low,22.0,0,Grocery,Single,253.79
+756,0.0181,Low,1,Low,22.0,0,Grocery,Single,253.79
+1866,0.018,Low,0,Low,16.0,0,Laptop & Accessory,Married,168.04
+465,0.018,Low,0,Low,26.0,0,Grocery,Married,248.14
+89,0.018,Low,1,Low,25.0,0,Grocery,Single,262.34
+1590,0.018,Low,1,Low,25.0,0,Grocery,Single,262.34
+888,0.018,Low,4,Medium,3.0,0,Mobile Phone,Married,137.48
+2821,0.0179,Low,0,Low,5.0,0,Laptop & Accessory,Married,153.09
+164,0.0179,Low,0,Low,21.0,0,Grocery,Married,284.72
+1732,0.0179,Low,0,Low,5.0,0,Laptop & Accessory,Married,154.7
+2078,0.0178,Low,0,Low,11.0,0,Laptop & Accessory,Married,165.71
+3179,0.0178,Low,0,Low,11.0,0,Laptop & Accessory,Married,165.71
+532,0.0178,Low,1,Low,8.0,0,Mobile Phone,Married,139.17
+2916,0.0177,Low,1,Low,11.0,0,Laptop & Accessory,Married,166.89
+3792,0.0177,Low,0,Low,27.0,0,Grocery,Divorced,273.14
+1573,0.0177,Low,1,Low,10.0,0,Laptop & Accessory,Married,168.74
+3431,0.0177,Low,1,Low,11.0,0,Laptop & Accessory,Married,166.89
+3425,0.0174,Low,4,Medium,3.0,0,Mobile Phone,Married,137.48
+1656,0.0174,Low,0,Low,22.0,0,Laptop & Accessory,Divorced,166.51
+1288,0.0173,Low,0,Low,30.0,0,Laptop & Accessory,Divorced,167.55
+2056,0.0172,Low,0,Low,9.0,0,Laptop & Accessory,Divorced,152.28
+2321,0.0172,Low,1,Low,9.0,0,Laptop & Accessory,Single,158.1
+106,0.017,Low,0,Low,5.0,0,Laptop & Accessory,Married,165.24
+3367,0.0169,Low,1,Low,23.0,0,Grocery,Divorced,256.2
+1083,0.0169,Low,0,Low,28.0,0,Grocery,Married,299.26
+3653,0.0169,Low,0,Low,7.0,0,Laptop & Accessory,Married,168.73
+802,0.0165,Low,1,Low,12.0,0,Mobile Phone,Married,137.55
+2275,0.0164,Low,0,Low,18.0,0,Laptop & Accessory,Divorced,148.05
+3156,0.0163,Low,1,Low,26.0,0,Grocery,Married,263.26
+986,0.0162,Low,0,Low,24.0,0,Others,Married,316.44
+2332,0.0162,Low,0,Low,19.0,0,Laptop & Accessory,Married,148.1
+449,0.0162,Low,0,Low,19.0,0,Laptop & Accessory,Married,148.1
+3346,0.0161,Low,0,Low,6.0,0,Laptop & Accessory,Married,178.09
+2951,0.016,Low,0,Low,20.0,0,Others,Married,283.0
+2361,0.0159,Low,0,Low,4.0,0,Laptop & Accessory,Married,159.91
+156,0.0159,Low,0,Low,4.0,0,Laptop & Accessory,Married,159.91
+2750,0.0159,Low,1,Low,23.0,0,Laptop & Accessory,Married,176.3
+2759,0.0159,Low,0,Low,7.0,0,Laptop & Accessory,Married,165.37
+2346,0.0159,Low,0,Low,7.0,0,Laptop & Accessory,Married,165.37
+3582,0.0157,Low,1,Low,13.0,0,Laptop & Accessory,Married,155.69
+2531,0.0157,Low,0,Low,4.0,0,Laptop & Accessory,Married,155.82
+1293,0.0157,Low,1,Low,13.0,0,Laptop & Accessory,Married,155.69
+3148,0.0154,Low,1,Low,5.0,0,Mobile Phone,Married,159.77
+1846,0.0154,Low,0,Low,20.0,0,Grocery,Married,257.25
+1358,0.0154,Low,0,Low,20.0,0,Grocery,Married,257.25
+932,0.0152,Low,0,Low,27.0,0,Grocery,Married,274.26
+3195,0.0152,Low,0,Low,31.0,0,Grocery,Married,287.91
+2477,0.0151,Low,1,Low,4.0,0,Mobile Phone,Married,162.48
+1867,0.0149,Low,1,Low,4.0,0,Mobile Phone,Married,162.48
+54,0.0148,Low,0,Low,25.0,0,Grocery,Divorced,265.55
+2311,0.0147,Low,1,Low,14.0,0,Mobile Phone,Married,133.76
+1125,0.0147,Low,1,Low,6.0,0,Mobile Phone,Married,148.14
+481,0.0146,Low,0,Low,10.0,0,Laptop & Accessory,Married,164.74
+1000,0.0145,Low,1,Low,9.0,0,Mobile Phone,Married,147.69
+256,0.0143,Low,0,Low,24.0,0,Laptop & Accessory,Married,188.47
+486,0.0143,Low,0,Low,10.0,0,Laptop & Accessory,Married,159.93
+3256,0.0142,Low,0,Low,5.0,0,Laptop & Accessory,Divorced,154.84
+418,0.0141,Low,1,Low,11.0,0,Laptop & Accessory,Married,184.93
+2616,0.014,Low,0,Low,8.0,0,Laptop & Accessory,Married,179.33
+2857,0.014,Low,0,Low,8.0,0,Laptop & Accessory,Married,179.33
+2691,0.014,Low,1,Low,6.0,0,Mobile Phone,Married,136.0
+3055,0.0139,Low,0,Low,19.0,0,Laptop & Accessory,Married,169.47
+3763,0.0139,Low,0,Low,11.0,0,Laptop & Accessory,Married,167.85
+3343,0.0139,Low,0,Low,8.0,0,Laptop & Accessory,Married,157.62
+2236,0.0139,Low,1,Low,7.0,0,Laptop & Accessory,Single,166.87
+1649,0.0138,Low,0,Low,26.0,0,Grocery,Divorced,295.99
+406,0.0138,Low,0,Low,19.0,0,Grocery,Divorced,274.65
+3172,0.0137,Low,0,Low,6.0,0,Laptop & Accessory,Married,187.09
+3120,0.0137,Low,1,Low,5.0,0,Mobile Phone,Married,152.89
+1369,0.0137,Low,1,Low,5.0,0,Mobile Phone,Married,152.89
+2338,0.0136,Low,0,Low,5.0,0,Laptop & Accessory,Divorced,162.09
+1458,0.0135,Low,1,Low,10.0,0,Mobile Phone,Married,139.36
+3223,0.0135,Low,1,Low,10.0,0,Mobile Phone,Married,139.36
+2810,0.0134,Low,0,Low,26.0,0,Grocery,Married,290.55
+608,0.0133,Low,0,Low,16.0,0,Laptop & Accessory,Married,156.75
+2438,0.0133,Low,0,Low,7.0,0,Laptop & Accessory,Married,168.02
+3692,0.0132,Low,1,Low,29.0,0,Grocery,Single,293.35
+3526,0.0131,Low,0,Low,25.0,0,Grocery,Married,288.07
+1990,0.0131,Low,0,Low,27.0,0,Others,Married,294.06
+2014,0.0128,Low,0,Low,22.0,0,Laptop & Accessory,Married,151.3
+2511,0.0127,Low,0,Low,30.0,0,Laptop & Accessory,Married,188.06
+1426,0.0126,Low,0,Low,5.0,0,Laptop & Accessory,Married,161.62
+867,0.0125,Low,0,Low,26.0,0,Grocery,Divorced,248.14
+3047,0.0124,Low,1,Low,4.0,0,Mobile Phone,Married,134.77
+1850,0.0124,Low,1,Low,4.0,0,Mobile Phone,Married,134.77
+2861,0.0122,Low,0,Low,27.0,0,Grocery,Divorced,277.79
+739,0.0121,Low,1,Low,4.0,0,Mobile Phone,Married,145.64
+2117,0.0117,Low,0,Low,24.0,0,Grocery,Married,301.39
+2139,0.0117,Low,2,Low,31.0,1,Laptop & Accessory,Married,177.2
+740,0.0117,Low,0,Low,25.0,0,Grocery,Divorced,268.56
+1210,0.0116,Low,2,Low,60.0,1,Grocery,Married,278.75
+2032,0.0116,Low,0,Low,23.0,0,Laptop & Accessory,Married,163.47
+2558,0.0116,Low,2,Low,30.0,1,Grocery,Married,278.75
+228,0.0115,Low,0,Low,18.0,0,Laptop & Accessory,Divorced,155.93
+3020,0.0115,Low,1,Low,7.0,0,Laptop & Accessory,Single,166.87
+3185,0.0114,Low,0,Low,23.0,0,Laptop & Accessory,Divorced,163.47
+2687,0.0111,Low,0,Low,30.0,0,Laptop & Accessory,Married,149.0
+460,0.0111,Low,0,Low,9.0,0,Laptop & Accessory,Married,166.48
+1885,0.0111,Low,0,Low,9.0,0,Laptop & Accessory,Married,166.48
+3098,0.0109,Low,0,Low,11.0,0,Laptop & Accessory,Married,144.4
+3239,0.0107,Low,0,Low,24.0,0,Grocery,Divorced,303.56
+692,0.0107,Low,2,Low,31.0,1,Laptop & Accessory,Married,177.2
+3687,0.0106,Low,0,Low,22.0,0,Laptop & Accessory,Married,153.9
+3213,0.0104,Low,1,Low,10.0,0,Mobile Phone,Married,161.92
+2043,0.01,Low,0,Low,7.0,0,Laptop & Accessory,Married,184.68
+1206,0.01,Low,0,Low,7.0,0,Laptop & Accessory,Married,167.99
+716,0.01,Low,0,Low,7.0,0,Laptop & Accessory,Married,184.68
+1543,0.01,Low,0,Low,23.0,0,Others,Married,295.17
+2509,0.01,Low,0,Low,7.0,0,Laptop & Accessory,Married,167.99
+299,0.0094,Low,0,Low,23.0,0,Grocery,Married,276.39
+211,0.0093,Low,0,Low,22.0,0,Laptop & Accessory,Married,165.67
+2187,0.0093,Low,0,Low,7.0,0,Laptop & Accessory,Married,154.33
+3036,0.0093,Low,0,Low,7.0,0,Laptop & Accessory,Married,154.33
+1130,0.0093,Low,1,Low,5.0,0,Mobile Phone,Married,139.31
+1359,0.0093,Low,1,Low,29.0,0,Grocery,Single,293.35
+3200,0.0089,Low,0,Low,23.0,0,Grocery,Divorced,278.56
+3538,0.0087,Low,0,Low,24.0,0,Laptop & Accessory,Divorced,188.47
+3224,0.0087,Low,0,Low,18.0,0,Laptop & Accessory,Married,148.05
+642,0.0087,Low,0,Low,18.0,0,Laptop & Accessory,Married,155.93
+1108,0.0085,Low,1,Low,9.0,0,Mobile Phone,Married,145.14
+1290,0.0084,Low,0,Low,23.0,0,Grocery,Married,279.24
+961,0.0078,Low,0,Low,26.0,0,Others,Married,286.06
+2334,0.0078,Low,0,Low,26.0,0,Others,Married,286.06
+1182,0.0077,Low,0,Low,14.0,0,Laptop & Accessory,Married,158.19
+2127,0.0077,Low,1,Low,9.0,0,Mobile Phone,Married,136.92
+3740,0.0077,Low,0,Low,14.0,0,Laptop & Accessory,Married,158.19
+1377,0.0077,Low,0,Low,29.0,0,Grocery,Married,272.32
+3730,0.0076,Low,0,Low,10.0,0,Laptop & Accessory,Divorced,164.74
+1800,0.0076,Low,1,Low,6.0,0,Laptop & Accessory,Married,186.62
+1371,0.0075,Low,0,Low,29.0,0,Fashion,Married,234.76
+3378,0.0075,Low,0,Low,18.0,0,Laptop & Accessory,Married,159.06
+3339,0.0075,Low,0,Low,18.0,0,Laptop & Accessory,Married,159.06
+3146,0.0074,Low,0,Low,14.0,0,Laptop & Accessory,Divorced,167.44
+1814,0.0074,Low,0,Low,5.0,0,Laptop & Accessory,Married,162.09
+450,0.007,Low,0,Low,51.0,0,Laptop & Accessory,Divorced,174.0
+3644,0.0066,Low,0,Low,11.0,0,Laptop & Accessory,Married,153.21
+1964,0.0066,Low,0,Low,11.0,0,Laptop & Accessory,Married,153.21
+3798,0.0066,Low,0,Low,30.0,0,Grocery,Married,262.91
+2906,0.0064,Low,0,Low,6.0,0,Laptop & Accessory,Married,155.05
+796,0.0064,Low,0,Low,6.0,0,Laptop & Accessory,Married,155.05
+1180,0.0059,Low,0,Low,18.0,0,Laptop & Accessory,Married,144.47
+731,0.0059,Low,0,Low,12.0,0,Laptop & Accessory,Married,151.51
+3492,0.0058,Low,0,Low,29.0,0,Laptop & Accessory,Married,163.06
+2584,0.0058,Low,0,Low,29.0,0,Laptop & Accessory,Married,163.06
+1019,0.0048,Low,0,Low,25.0,0,Grocery,Divorced,270.99
