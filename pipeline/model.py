@@ -2,7 +2,7 @@
 model.py  -  trains churn models, compares them with the SQL risk score,
 and scores every active customer.
 
-    python pipeline/model.py      (run run_pipeline.py first)
+python pipeline/model.py      (run run_pipeline.py first)
 
 Outputs go to outputs/:
     model_comparison.csv   test-set metrics for each model + the SQL score
